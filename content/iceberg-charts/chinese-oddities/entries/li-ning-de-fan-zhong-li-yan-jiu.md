@@ -1,0 +1,18 @@
+---
+id: 1848d983-1473-4c6e-ba27-a0c2a8ac6855
+lastUpdated: '2025-06-07'
+name: 李宁的反重力研究
+aliases: []
+layer: 3
+eventDate: null
+categoryId: cat_8abY-bU7
+tagIds:
+  - tag_onKpmFeH
+  - tag_VD3UVioQ
+timelineEvents: []
+relations: []
+titledLinks:
+  - title: '相關連結: 李宁的反重力研究'
+    url: www.bilibili.com/video/BV1h3411c76b
+---
+
