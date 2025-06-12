@@ -1,0 +1,16 @@
+---
+id: f86cf41a-8515-4644-9280-63bd46a56dac
+lastUpdated: '2025-06-07'
+name: 「沈玉石」最速阴牌反噬事件
+aliases: []
+layer: 6
+eventDate: null
+categoryId: cat_X3JSNomc
+tagIds: []
+timelineEvents: []
+relations: []
+titledLinks:
+  - title: '相關連結: 「沈玉石」最速阴牌反噬事件'
+    url: 'https://tieba.baidu.com/p/9189093598'
+---
+
