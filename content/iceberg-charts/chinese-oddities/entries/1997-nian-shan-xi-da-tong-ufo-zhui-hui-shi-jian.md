@@ -9,7 +9,7 @@ titledLinks:
   - title: "相關連結: 1997年山西大同UFO坠毁事件"
     url: https://www.163.com/dy/article/HK568L4F0521DJ4J.html
 relations: []
-categoryId: entry-1749727669995-o6skzc4
+categoryId: cat_r0rzgkOi
 tagIds:
   - tag_onKpmFeH
 timelineEvents: []

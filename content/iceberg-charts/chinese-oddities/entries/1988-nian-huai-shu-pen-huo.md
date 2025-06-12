@@ -9,7 +9,7 @@ titledLinks:
   - title: "相關連結: 1988年槐树喷火"
     url: https://zhuanlan.zhihu.com/p/92803902
 relations: []
-categoryId: entry-1749727669995-o6skzc4
+categoryId: cat_r0rzgkOi
 tagIds:
   - tag_km8pekL4
 timelineEvents: []
