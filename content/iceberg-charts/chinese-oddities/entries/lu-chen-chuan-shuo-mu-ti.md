@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 陆沉传说母题'
+  - title: '链接: 陆沉传说母题'
     url: 'https://zh.wikipedia.org/zh-hans/%E9%99%86%E6%B2%89%E4%BC%A0%E8%AF%B4'
 ---
 

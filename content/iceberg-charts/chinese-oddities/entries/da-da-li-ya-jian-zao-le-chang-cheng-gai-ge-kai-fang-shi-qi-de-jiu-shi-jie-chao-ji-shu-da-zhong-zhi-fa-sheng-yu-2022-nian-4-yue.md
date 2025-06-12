@@ -16,7 +16,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「鞑靼利亚建造了长城」・改革开放时期的旧世界超技术・大重置发生于2022年4月'
+  - title: '链接: 「鞑靼利亚建造了长城」・改革开放时期的旧世界超技术・大重置发生于2022年4月'
     url: www.douban.com/note/834850972
 ---
 

@@ -15,7 +15,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 中大韩民国生洪賢宇知秀生'
+  - title: '链接: 中大韩民国生洪賢宇知秀生'
     url: 'https://tieba.baidu.com/p/9481313295'
 ---
 来自韩国的系列小红书账号，发布的笔记由地球、雨伞emoji和一串无意义的韩文汉字组成。在韩国本土也有许多类似账号，经考察或为预修・寄库・受生债与互联网灵性中的显化文化综摄产物。

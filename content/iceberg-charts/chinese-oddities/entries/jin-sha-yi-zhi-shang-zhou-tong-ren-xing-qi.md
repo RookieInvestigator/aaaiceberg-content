@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 金沙遗址商周铜人形器'
+  - title: '链接: 金沙遗址商周铜人形器'
     url: 'https://www.jinshasitemuseum.com/node/199'
 ---
 整体形如直立人，但原本应为头部的位置为一圆形孔洞。两侧肩部和小腿近足部各有一个小圆孔。其使用功能不详。因其外形酷似现代的宇航服，在互联网上讨论颇多。

@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 陶罐刻痕录音・李鸿章录音…'
+  - title: '链接: 陶罐刻痕录音・李鸿章录音…'
     url: 'https://www.bilibili.com/video/BV1A4411E7G9/'
 ---
 

@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 大禾人面纹方鼎'
+  - title: '链接: 大禾人面纹方鼎'
     url: >-
       https://de.hnmuseum.com/collection/collectionDetails.html?id=1002229330094325762&type=index#
 ---

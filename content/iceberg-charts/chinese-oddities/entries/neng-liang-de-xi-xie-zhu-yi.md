@@ -16,7 +16,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「能量的吸血主义」'
+  - title: '链接: 「能量的吸血主义」'
     url: >-
       https://web.archive.org/web/20141103165958/http://www.litphil.sinica.edu.tw/home/publish/PDF/Bulletin/25/25-259-286.pdf
 ---

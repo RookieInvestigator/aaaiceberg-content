@@ -14,7 +14,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 甲骨文的人祭起源・《周易》记载的猎俘和人祭内容・殷墟考古出的人骨・带人头骨铜甗'
+  - title: '链接: 甲骨文的人祭起源・《周易》记载的猎俘和人祭内容・殷墟考古出的人骨・带人头骨铜甗'
     url: 'https://www.bilibili.com/video/BV1uK4y1V7Ls/'
 ---
 

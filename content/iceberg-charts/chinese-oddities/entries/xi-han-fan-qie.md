@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「西汉番茄」'
+  - title: '链接: 「西汉番茄」'
     url: >-
       http://www.ncpssd.cn/Literature/articleinfo?id=1002676117&synUpdateType=&type=journalArticle&typename=%E4%B8%AD%E6%96%87%E6%9C%9F%E5%88%8A%E6%96%87%E7%AB%A0
 ---

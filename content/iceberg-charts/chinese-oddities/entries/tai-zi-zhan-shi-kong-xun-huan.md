@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 太子站时空循环'
+  - title: '链接: 太子站时空循环'
     url: 'https://www.youtube.com/watch?v=yla6lA3H7tg'
 ---
 

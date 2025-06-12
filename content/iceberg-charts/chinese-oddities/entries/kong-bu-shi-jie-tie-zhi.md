@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「恐怖世界」贴纸'
+  - title: '链接: 「恐怖世界」贴纸'
     url: 'https://news.ifeng.com/society/2/200905/0520_344_1165374.shtml'
 ---
 2009年的玩具商店以及路边小摊所售卖的一种贴纸，内容多为猎奇图片，玩具的发行者以及图片的全部内容、图片出处都难以确定。

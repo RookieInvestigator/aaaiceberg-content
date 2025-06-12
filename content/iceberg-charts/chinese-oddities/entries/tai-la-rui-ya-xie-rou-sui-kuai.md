@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 泰拉瑞亚血肉碎块'
+  - title: '链接: 泰拉瑞亚血肉碎块'
     url: 'https://www.bilibili.com/read/cv7145532/'
 ---
 

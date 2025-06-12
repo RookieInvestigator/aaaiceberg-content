@@ -15,7 +15,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《中国会道门史料集成》・华北济度宗教・成化妖书'
+  - title: '链接: 《中国会道门史料集成》・华北济度宗教・成化妖书'
     url: >-
       http://iqh.ruc.edu.cn/jsmmhsymjjpyj/mmzjymmhs/5571c0aabd6c4b9c9ec6ddc3d6412fe6.htm
 ---

@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 女化蚕・蚕蛾崇拜'
+  - title: '链接: 女化蚕・蚕蛾崇拜'
     url: >-
       https://xueshu.baidu.com/usercenter/paper/show?paperid=1v5406j07s3q0eq0xp6w0xm0u6743602
 ---

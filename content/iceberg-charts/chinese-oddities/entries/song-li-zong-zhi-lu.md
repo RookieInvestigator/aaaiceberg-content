@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 宋理宗之颅'
+  - title: '链接: 宋理宗之颅'
     url: 'https://www.zhihu.com/question/515285509/answer/3104165904'
 ---
 

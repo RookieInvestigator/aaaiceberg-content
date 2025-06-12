@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 马有贵遇鬼（存在性待定的郭德纲相声；年代未知）'
+  - title: '链接: 马有贵遇鬼（存在性待定的郭德纲相声；年代未知）'
     url: 'https://lostmedia.wikidot.com/mayouguiyugui'
 ---
 

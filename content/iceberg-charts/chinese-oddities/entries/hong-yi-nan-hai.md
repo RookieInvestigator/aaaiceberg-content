@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 红衣男孩'
+  - title: '链接: 红衣男孩'
     url: >-
       https://zh.wikipedia.org/zh-hans/%E9%87%8D%E6%85%B6%E7%B4%85%E8%A1%A3%E7%94%B7%E5%AD%A9%E4%BA%8B%E4%BB%B6
 ---

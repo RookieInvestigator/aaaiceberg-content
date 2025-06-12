@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《看不见的活死人黎明》（部分发现的恐怖漫画；2013年）'
+  - title: '链接: 《看不见的活死人黎明》（部分发现的恐怖漫画；2013年）'
     url: 'https://lostmedia.wikidot.com/kanbujiandehuosirenliming'
 ---
 

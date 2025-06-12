@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 武汉街头神探涂鸦'
+  - title: '链接: 武汉街头神探涂鸦'
     url: www.zhihu.com/question/449596775/answer/3294931889
 ---
 在都市传说吧也有目击记录。很可能是胡乱涂鸦的。

@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 乐观的哈奇'
+  - title: '链接: 乐观的哈奇'
     url: www.bilibili.com/video/BV1BEsjewE36
 ---
 ARG

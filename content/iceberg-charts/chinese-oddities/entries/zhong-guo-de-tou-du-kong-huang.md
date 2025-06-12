@@ -14,7 +14,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 中国的投毒恐慌'
+  - title: '链接: 中国的投毒恐慌'
     url: 'http://szb.xnnews.com.cn/newb/misc/2/2013-05/25/19/2013052519_pdf.pdf'
 ---
 从古代以来，中国社会就有诸多投毒恐慌的案例。

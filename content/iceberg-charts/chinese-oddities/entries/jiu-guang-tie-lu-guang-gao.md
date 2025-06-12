@@ -15,7 +15,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 九广铁路广告'
+  - title: '链接: 九广铁路广告'
     url: >-
       https://zh.wikipedia.org/wiki/%E4%B9%9D%E5%BB%A3%E9%90%B5%E8%B7%AF%E7%81%AB%E8%BB%8A%E9%81%8A%E6%88%B2%E5%BB%A3%E5%91%8A
 ---

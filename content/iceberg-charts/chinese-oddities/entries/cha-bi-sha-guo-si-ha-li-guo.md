@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 茶弼沙国・斯哈哩国'
+  - title: '链接: 茶弼沙国・斯哈哩国'
     url: 'https://www.zhihu.com/question/599855474/answer/3162505893'
 ---
 

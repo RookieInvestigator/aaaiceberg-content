@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 嬢猕Nyami'
+  - title: '链接: 嬢猕Nyami'
     url: 'https://b23.tv/OHSaisF'
 ---
 由艺术家旦增达美和葛泰然以藏语中“人鱼(Nyami)”传说为题材，结合实地研究和虚构叙事的伪记录片项目。

@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 王小华死了'
+  - title: '链接: 王小华死了'
     url: 'https://new.qq.com/rain/a/20200515A0908J00'
 ---
 一个在辽宁抚顺流传了二十多年的事件，有大量目击者在各种地方发现墙上被不明人士写上了「王小华死了」几个字。

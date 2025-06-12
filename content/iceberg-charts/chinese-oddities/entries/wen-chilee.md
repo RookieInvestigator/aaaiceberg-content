@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: Wen-Chi_Lee'
+  - title: '链接: Wen-Chi_Lee'
     url: >-
       https://www.reddit.com/r/creepygaming/comments/wj87u9/urban_legend_of_wenchi_lee_mentioned_in_fear_2005/
 ---

@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 喀纳斯湖水怪'
+  - title: '链接: 喀纳斯湖水怪'
     url: >-
       https://zh.wikipedia.org/zh-cn/%E5%96%80%E7%BA%B3%E6%96%AF%E6%B9%96%E6%B0%B4%E6%80%AA
 ---

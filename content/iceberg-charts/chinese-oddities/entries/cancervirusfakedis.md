@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: CancerVirusFakeDis…'
+  - title: '链接: CancerVirusFakeDis…'
     url: tieba.baidu.com/p/9228637527
 ---
 

@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 朱昱'
+  - title: '链接: 朱昱'
     url: 'https://www.artda.cn/yishujiakuguonei-c-121.html'
 ---
 一名当代艺术家，其早期创作的一些行为艺术品频繁涉及食人、戮尸等主题，被指违背人伦。

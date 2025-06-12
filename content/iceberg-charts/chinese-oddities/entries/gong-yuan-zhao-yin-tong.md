@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 公园招阴童'
+  - title: '链接: 公园招阴童'
     url: >-
       https://github.com/KaguyaHouraisan/Gleaning-of-Chinese-Oddities-Iceberg/blob/main/%E4%B8%AD%E6%96%87%E4%BA%92%E8%81%94%E7%BD%91%E5%85%94%E5%AD%90%E6%B4%9E%E5%86%B0%E5%B1%B1%E5%9B%BE%E6%8B%BE%E9%81%97%C2%B7%E4%B8%89%C2%B7%E5%85%AC%E5%9B%AD%E6%8B%9B%E9%98%B4%E7%AB%A5.md
 ---

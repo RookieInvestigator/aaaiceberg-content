@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 战国棘轮・战国手钳'
+  - title: '链接: 战国棘轮・战国手钳'
     url: 'https://baijiahao.baidu.com/s?id=1801283840529230614'
 ---
 1976年，在河南省登封市的东周王城遗址，考古学家发现了一件战国时期的铜齿轮。这个齿轮的结构与现代的差速器相似，引发了关于古代中国是否已经掌握了差速器原理的讨论。

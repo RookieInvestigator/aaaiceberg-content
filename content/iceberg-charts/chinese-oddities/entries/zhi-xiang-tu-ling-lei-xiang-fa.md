@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 痣相图・另类相法'
+  - title: '链接: 痣相图・另类相法'
     url: 'https://www.quanxue.cn/qt_mingxiang/gongduxfindex.html'
 ---
 

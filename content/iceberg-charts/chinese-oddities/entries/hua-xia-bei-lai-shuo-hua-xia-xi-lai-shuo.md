@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 华夏北来说・华夏西来说'
+  - title: '链接: 华夏北来说・华夏西来说'
     url: 'https://zhuanlan.zhihu.com/p/20328472'
 ---
 

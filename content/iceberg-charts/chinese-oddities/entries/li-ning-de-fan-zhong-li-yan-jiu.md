@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 李宁的反重力研究'
+  - title: '链接: 李宁的反重力研究'
     url: www.bilibili.com/video/BV1h3411c76b
 ---
 

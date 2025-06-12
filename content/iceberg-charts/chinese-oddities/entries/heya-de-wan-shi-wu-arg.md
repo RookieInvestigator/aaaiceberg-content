@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: Heya的万事屋ARG'
+  - title: '链接: Heya的万事屋ARG'
     url: 'https://www.bilibili.com/video/BV1B94y1e7Ta'
 ---
 疑似未完成/太过冷门没人解密......目前不知道这个兔子洞有多深。

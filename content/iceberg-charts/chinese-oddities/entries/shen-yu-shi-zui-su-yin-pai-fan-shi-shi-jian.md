@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「沈玉石」最速阴牌反噬事件'
+  - title: '链接: 「沈玉石」最速阴牌反噬事件'
     url: 'https://tieba.baidu.com/p/9189093598'
 ---
 

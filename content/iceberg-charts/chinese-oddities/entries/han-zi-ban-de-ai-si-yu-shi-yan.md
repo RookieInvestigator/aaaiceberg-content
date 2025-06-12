@@ -14,7 +14,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 汉字版的AI私语实验'
+  - title: '链接: 汉字版的AI私语实验'
     url: 'https://m.thepaper.cn/baijiahao_18727180'
 ---
 

@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 西班牙征服明朝计划'
+  - title: '链接: 西班牙征服明朝计划'
     url: 'https://zhuanlan.zhihu.com/p/33980921'
 ---
 

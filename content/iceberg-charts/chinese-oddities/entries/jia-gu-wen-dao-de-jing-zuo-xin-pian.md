@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 甲骨文道德经做芯片'
+  - title: '链接: 甲骨文道德经做芯片'
     url: >-
       https://mp.weixin.qq.com/s?__biz=MjM5NDQ2NTQ0Mw==&mid=2650675717&idx=1&sn=98180aa7761f910a056a7fc6b263bcb3&chksm=bf8efea77adede6fea87fa79a0bdfeb03f9e850e2ffde68efe65fbf86294d197fd5aa943d9d3
 ---

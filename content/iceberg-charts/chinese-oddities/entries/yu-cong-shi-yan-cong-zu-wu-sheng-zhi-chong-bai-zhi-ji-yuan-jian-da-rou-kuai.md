@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 玉琮是烟囱・祖屋・生殖崇拜・织机元件・大肉块'
+  - title: '链接: 玉琮是烟囱・祖屋・生殖崇拜・织机元件・大肉块'
     url: 'https://mp.weixin.qq.com/s/VYS-GWqz8UrChTvRZYJyLA'
 ---
 呼此罄为辋头者,不知起于何时?

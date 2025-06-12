@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 杜默言'
+  - title: '链接: 杜默言'
     url: >-
       https://m.weibo.cn/search?containerid=231522type%3D1%26t%3D10%26q%3D%23%E3%83%89%E3%83%A2%E3%83%A4%E3%83%B3%23&extparam=%23%E3%83%89%E3%83%A2%E3%83%A4%E3%83%B3%23&luicode=20000061&lfid=5030761199830696
 ---

@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 雪人（传说生物）'
+  - title: '链接: 雪人（传说生物）'
     url: >-
       https://zh.wikipedia.org/wiki/%E9%9B%AA%E4%BA%BA_(%E5%82%B3%E8%AA%AA%E7%94%9F%E7%89%A9)
 ---

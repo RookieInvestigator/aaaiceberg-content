@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 水变油・水燃料车'
+  - title: '链接: 水变油・水燃料车'
     url: 'https://think.sina.cn/doc-ihvhiews4118253.d.html'
 ---
 一类著名的科学骗局，专利申请者公开声称研制出了一种全新的能源生产技术，之后借由此类技术开始揽财获利。

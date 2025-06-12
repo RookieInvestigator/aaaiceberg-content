@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 台湾火灾幽灵船'
+  - title: '链接: 台湾火灾幽灵船'
     url: >-
       https://zh.wikipedia.org/zh-hans/%E5%B9%BD%E9%9D%88%E8%88%B9_(%E5%8F%B0%E7%81%A3)
 ---

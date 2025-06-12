@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《死绝乡诗歌》'
+  - title: '链接: 《死绝乡诗歌》'
     url: 'https://bangumi.tv/subject/212961'
 ---
 

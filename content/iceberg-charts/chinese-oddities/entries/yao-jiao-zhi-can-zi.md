@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 咬脚趾・残子'
+  - title: '链接: 咬脚趾・残子'
     url: 'https://zhuanlan.zhihu.com/p/432730261'
 ---
 建国以前，在鲁南地区的乡间流传的一种非常恐怖的习俗。

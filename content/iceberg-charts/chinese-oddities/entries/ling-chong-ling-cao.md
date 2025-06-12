@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 灵宠灵草'
+  - title: '链接: 灵宠灵草'
     url: 'https://zhuanlan.zhihu.com/p/619442423'
 ---
 天涯的一个教程帖，主要讲述如何通过特殊的饲养方法，将普通的动植物培养成具有灵性的「灵宠」和「灵草」。

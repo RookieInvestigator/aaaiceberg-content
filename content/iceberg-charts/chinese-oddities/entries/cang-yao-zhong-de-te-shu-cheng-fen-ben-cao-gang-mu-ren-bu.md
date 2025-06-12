@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 藏药中的特殊成分・《本草纲目》人部'
+  - title: '链接: 藏药中的特殊成分・《本草纲目》人部'
     url: 'https://ctext.org/wiki.pl?if=gb&chapter=375&remap=gb'
 ---
 

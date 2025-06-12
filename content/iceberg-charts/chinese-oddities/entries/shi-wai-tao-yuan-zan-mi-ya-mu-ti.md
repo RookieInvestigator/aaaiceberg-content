@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 世外桃源・赞米亚母题'
+  - title: '链接: 世外桃源・赞米亚母题'
     url: >-
       https://kns.cnki.net/kcms2/article/abstract?v=ufuULlVWCsOKNtRJ1nl_k7dwUrBjI4oa4-Ss6USOT3FqKrMnSQ8NtKAY0aFZu1FB4VwJxeVo7uWNK_OQGJGF23zegXG6kBG4M86rJl1HDFGNUdSx-hOCj_R2n0yJlAqCnkKq21b_L4vJBphin2-6aZlhU_07phCd38mLgoOEMWp9kdPB_Qil2MvOgjh8CbQ8&uniplatform=NZKPT&language=CHS
 ---

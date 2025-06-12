@@ -15,7 +15,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《量子佛学》'
+  - title: '链接: 《量子佛学》'
     url: 'https://www.bilibili.com/video/BV1NG411Q7Bd'
 ---
 一种结合量子力学和佛学的理论，试图通过现代科学的视角来解释佛学的核心思想，量子佛学的支持者认为，这种结合可以提供一种全新的方式来理解佛学的真义和宇宙的本质。本书豆瓣评分5.3。

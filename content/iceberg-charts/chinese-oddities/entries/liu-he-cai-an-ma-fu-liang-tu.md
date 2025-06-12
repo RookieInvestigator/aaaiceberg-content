@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 六合彩暗码・福粮图'
+  - title: '链接: 六合彩暗码・福粮图'
     url: >-
       https://zh.wikipedia.org/wiki/%E5%9C%B0%E4%B8%8B%E5%85%AD%E5%90%88%E5%BD%A9#%E6%83%A1%E6%90%9E
 ---

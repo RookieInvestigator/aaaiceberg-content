@@ -16,7 +16,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《历代神仙通鉴》・《摩尼光佛教法仪略》（部分发现的敦煌摩尼教文献；731年）'
+  - title: '链接: 《历代神仙通鉴》・《摩尼光佛教法仪略》（部分发现的敦煌摩尼教文献；731年）'
     url: 'https://lostmedia.wikidot.com/moniguangfojiaofayilve'
 ---
 

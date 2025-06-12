@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 神煞俑・压胜俑（双人首蛇身俑）'
+  - title: '链接: 神煞俑・压胜俑（双人首蛇身俑）'
     url: >-
       https://m.cnki.net/express/#/literatureDetailZh?id=scww202204006&typeId=CJFD
 ---

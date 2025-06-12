@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 小学组织看恐怖电影是 PsyOp・电视时代的儿童 Cult 动画'
+  - title: '链接: 小学组织看恐怖电影是 PsyOp・电视时代的儿童 Cult 动画'
     url: >-
       https://mp.weixin.qq.com/s?__biz=MzA5MTY0NTYyOQ==&mid=2655495287&idx=1&sn=4b666292912e2e901fa06ca95239c459&chksm=8bca37a5bcbdbeb3bad84e0202f1ad1a280eceebef37a6ac4cb0d2bbacac6589efac27c7b7ba
 ---

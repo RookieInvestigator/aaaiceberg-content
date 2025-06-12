@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 济南银座718灵异事件'
+  - title: '链接: 济南银座718灵异事件'
     url: 'https://163.com/dy/article/HQ5T65GV0521DJ4J.html'
 ---
 

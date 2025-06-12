@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 中国的殡葬民俗'
+  - title: '链接: 中国的殡葬民俗'
     url: >-
       https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%AE%AF%E8%91%AC%E5%8F%B2
 ---

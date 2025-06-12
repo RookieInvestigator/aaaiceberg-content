@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 孟照国'
+  - title: '链接: 孟照国'
     url: >-
       https://zh.wikipedia.org/wiki/%E5%AD%9F%E7%85%A7%E5%9B%BD%E4%BA%8B%E4%BB%B6
 ---

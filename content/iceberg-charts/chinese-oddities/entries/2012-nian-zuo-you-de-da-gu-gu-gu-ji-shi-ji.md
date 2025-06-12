@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 2012 年左右的大咕咕咕鸡诗集'
+  - title: '链接: 2012 年左右的大咕咕咕鸡诗集'
     url: 'https://mindfucking.gitbook.io/daguguguji/part-ii-shi-ge/qi-yue'
 ---
 

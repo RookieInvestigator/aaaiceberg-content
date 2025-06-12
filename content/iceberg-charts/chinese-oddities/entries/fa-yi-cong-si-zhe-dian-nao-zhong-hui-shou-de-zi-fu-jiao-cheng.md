@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 法医从死者电脑中回收的自缚教程'
+  - title: '链接: 法医从死者电脑中回收的自缚教程'
     url: >-
       https://kns.cnki.net/kcms2/article/abstract?v=KqXyGY4RJv28pCamjLUbGArCaObFFxmDHYLUoti9U95kFfyhwlXeGshm52l53EoO-wquG5qe1VRE_X0I93UlIpUkD68r00MlU6dXoexMTbiAWuLlk_a59noBS8C7CuzaSSsOKdDCGtdd2AEtwIWjH3w8BaLFYnfGHPv0-jbCWXgVHwWbxVQTdm5XtmIMHLPZ&uniplatform=NZKPT&language=CHS
 ---

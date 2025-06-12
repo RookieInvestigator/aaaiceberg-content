@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《淘汰的人性》'
+  - title: '链接: 《淘汰的人性》'
     url: 'https://w.atwiki.jp/dangerousmovieberg/pages/18.html'
 ---
 残酷纪录片三部曲，最早于百度贴吧猎奇吧内的网友制作，视频内容以真实Gore为主，后被发布到DHT网络上且在内网大热，有传言说原作者已经被抓，视频文件也已失传。

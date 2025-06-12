@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「鲁鱼亥豕」类讹误・「形夭无千岁」'
+  - title: '链接: 「鲁鱼亥豕」类讹误・「形夭无千岁」'
     url: 'https://www.zhihu.com/question/66700575'
 ---
 

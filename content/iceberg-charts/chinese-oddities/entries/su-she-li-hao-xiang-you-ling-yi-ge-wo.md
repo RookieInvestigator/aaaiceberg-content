@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《宿舍里好像有另一个我》'
+  - title: '链接: 《宿舍里好像有另一个我》'
     url: www.douban.com/group/topic/274114377
 ---
 

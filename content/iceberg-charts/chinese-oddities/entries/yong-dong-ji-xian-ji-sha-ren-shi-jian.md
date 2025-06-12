@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 永动机献祭杀人事件'
+  - title: '链接: 永动机献祭杀人事件'
     url: 'https://weibo.com/tv/show/1034:5148096439713827?from=old_pc_videoshow'
 ---
 

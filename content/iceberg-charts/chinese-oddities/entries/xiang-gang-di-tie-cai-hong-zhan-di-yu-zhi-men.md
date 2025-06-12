@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 香港地铁彩虹站地狱之门'
+  - title: '链接: 香港地铁彩虹站地狱之门'
     url: 'https://www.bilibili.com/video/BV1L34y157jx/'
 ---
 

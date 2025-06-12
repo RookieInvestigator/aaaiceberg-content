@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「微博僵尸号的进化证实互联网死亡论」'
+  - title: '链接: 「微博僵尸号的进化证实互联网死亡论」'
     url: >-
       https://www.sbs.com.au/language/chinese/zh-hans/article/what-is-the-dead-internet-theory-and-why-is-it-so-sinister/m4dzdvhjl
 ---

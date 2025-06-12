@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 太阳人石刻'
+  - title: '链接: 太阳人石刻'
     url: 'https://mp.weixin.qq.com/s/XhnUVmSAt-nELnwSe1SiiQ'
 ---
 

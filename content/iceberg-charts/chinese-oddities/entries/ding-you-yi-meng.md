@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 丁酉异梦'
+  - title: '链接: 丁酉异梦'
     url: 'https://www.sohu.com/a/331350482_649798'
 ---
 

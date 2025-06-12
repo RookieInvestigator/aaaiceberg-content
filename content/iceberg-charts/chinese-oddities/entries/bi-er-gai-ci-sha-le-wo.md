@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「比尔盖茨杀了我」'
+  - title: '链接: 「比尔盖茨杀了我」'
     url: 'https://tieba.baidu.com/p/9278849188'
 ---
 

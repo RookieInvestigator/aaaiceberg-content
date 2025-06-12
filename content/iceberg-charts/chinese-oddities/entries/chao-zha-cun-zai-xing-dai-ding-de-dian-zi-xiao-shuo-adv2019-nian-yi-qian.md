@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 嘲哳（存在性待定的电子小说ADV；2019年以前）'
+  - title: '链接: 嘲哳（存在性待定的电子小说ADV；2019年以前）'
     url: 'https://lostmedia.wikidot.com/zhao-zha'
 ---
 

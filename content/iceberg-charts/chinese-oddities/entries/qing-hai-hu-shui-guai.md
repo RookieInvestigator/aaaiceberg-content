@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 青海湖水怪'
+  - title: '链接: 青海湖水怪'
     url: >-
       https://zh.wikipedia.org/wiki/%E9%9D%92%E6%B5%B7%E6%B9%96%E6%B0%B4%E6%80%AA
 ---

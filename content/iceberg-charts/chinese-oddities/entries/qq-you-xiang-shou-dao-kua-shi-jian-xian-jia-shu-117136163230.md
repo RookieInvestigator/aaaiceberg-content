@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: QQ邮箱收到跨时间线家书117.136.163.230'
+  - title: '链接: QQ邮箱收到跨时间线家书117.136.163.230'
     url: www.douban.com/group/topic/263913960
 ---
 

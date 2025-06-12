@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 鳌太线幻觉'
+  - title: '链接: 鳌太线幻觉'
     url: 'https://www.douban.com/group/topic/311027404/'
 ---
 一个抖音博主独自骑车挑战危险山脉线路「鳌太线」，自述了产生幻觉、鬼打墙的全过程。

@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 神农架'
+  - title: '链接: 神农架'
     url: >-
       https://zh.wikipedia.org/zh-hans/%E7%A5%9E%E5%86%9C%E6%9E%B6%E6%9E%97%E5%8C%BA
 ---

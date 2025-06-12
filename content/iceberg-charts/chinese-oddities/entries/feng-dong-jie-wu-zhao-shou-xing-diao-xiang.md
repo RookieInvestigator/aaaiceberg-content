@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 风动街五爪寿星雕像'
+  - title: '链接: 风动街五爪寿星雕像'
     url: 'https://ngabbs.com/read.php?tid=30373492&rand=596'
 ---
 乔小刀的“荒野之国”中的作品之一，人类最后的童话王国的居民。

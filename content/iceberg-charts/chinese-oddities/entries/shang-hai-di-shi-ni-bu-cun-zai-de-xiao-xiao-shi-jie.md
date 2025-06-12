@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 上海迪士尼不存在的小小世界'
+  - title: '链接: 上海迪士尼不存在的小小世界'
     url: www.douban.com/group/topic/281050111
 ---
 如果上海迪士尼没有小小世界的话，那我去的是什么地方呢？

@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 回南天的文字溶解-破碎'
+  - title: '链接: 回南天的文字溶解-破碎'
     url: www.douban.com/group/topic/302744854
 ---
 

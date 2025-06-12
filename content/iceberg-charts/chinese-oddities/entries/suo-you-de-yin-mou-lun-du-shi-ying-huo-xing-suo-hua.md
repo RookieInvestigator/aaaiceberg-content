@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 所有的阴谋论都是荧惑星所化'
+  - title: '链接: 所有的阴谋论都是荧惑星所化'
     url: 'https://tieba.baidu.com/p/9148551114'
 ---
 尔恶我乎？我非人也，乃荧惑星也，将有以告尔：……

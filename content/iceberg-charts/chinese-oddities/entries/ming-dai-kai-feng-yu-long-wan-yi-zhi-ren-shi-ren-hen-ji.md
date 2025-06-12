@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 明代开封御龙湾遗址人食人痕迹'
+  - title: '链接: 明代开封御龙湾遗址人食人痕迹'
     url: 'https://www.anthropol.ac.cn/CN/10.16359/j.1000-3193/AAS.2023.0063'
 ---
 

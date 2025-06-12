@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 西藏镇魔图'
+  - title: '链接: 西藏镇魔图'
     url: >-
       https://www.hnmuseum.com/sites/default/files/statics/tezhanhuimou/2011Tibet%E4%BD%9B%E5%85%89%E9%87%8C%E7%9A%84%E7%A5%9E%E7%A7%98%E8%A5%BF%E8%97%8F/treasures/treasures001.html
 ---

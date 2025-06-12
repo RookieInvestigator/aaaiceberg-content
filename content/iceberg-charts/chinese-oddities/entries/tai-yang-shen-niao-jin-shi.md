@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 太阳神鸟金饰'
+  - title: '链接: 太阳神鸟金饰'
     url: 'https://www.jinshasitemuseum.com/node/197'
 ---
 

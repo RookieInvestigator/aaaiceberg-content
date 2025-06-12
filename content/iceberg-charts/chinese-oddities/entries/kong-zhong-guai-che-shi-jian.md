@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 空中怪车事件'
+  - title: '链接: 空中怪车事件'
     url: >-
       https://zh.wikipedia.org/wiki/%E8%B4%B5%E5%B7%9E%E7%A9%BA%E4%B8%AD%E5%BF%AB%E8%BD%A6%E4%BA%8B%E4%BB%B6
 ---

@@ -15,7 +15,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 采生折割'
+  - title: '链接: 采生折割'
     url: >-
       https://kns.cnki.net/kcms2/article/abstract?v=ifIT5_n5_GeKI3QSAIZOiGop71vjx3tdxROZ_Jk3UmS5fISXLSMgk8FjLznJqOtTWQ0-ohI6K8wdaY-vGHHtAOutvqkZJHKKBWCHkaXgqewuK1uko1SHYk-MK4ua0yrNOa64iqP27JZVHReGtRG1GFXqyudY-5EDVCkv5dM3f6NIGeaVoldy5E6PvwsoZ2a6&uniplatform=NZKPT&language=CHS
 ---

@@ -15,7 +15,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 山寨未来主义'
+  - title: '链接: 山寨未来主义'
     url: www.bilibili.com/video/BV1ts421g7EE
 ---
 

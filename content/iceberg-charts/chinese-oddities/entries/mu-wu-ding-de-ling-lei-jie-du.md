@@ -10,7 +10,7 @@ tagIds:
   - tag_TRpfu-I4
   - tag_QZzhx8JV
 titledLinks:
-  - title: '相關連結: (☐)母戊鼎的另类解读'
+  - title: '链接: (☐)母戊鼎的另类解读'
     url: 'https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247255.shtml'
 relations: []
 categoryId: cat_8abY-bU7

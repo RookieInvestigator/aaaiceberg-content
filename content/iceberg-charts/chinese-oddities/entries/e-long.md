@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 鹅笼'
+  - title: '链接: 鹅笼'
     url: 'https://huxiu.com/article/1413671.html'
 ---
 

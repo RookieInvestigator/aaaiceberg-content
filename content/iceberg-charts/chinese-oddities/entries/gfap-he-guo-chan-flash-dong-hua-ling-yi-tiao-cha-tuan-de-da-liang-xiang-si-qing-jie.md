@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: GFAP和国产Flash动画《灵异调查团》的大量相似情节'
+  - title: '链接: GFAP和国产Flash动画《灵异调查团》的大量相似情节'
     url: www.bilibili.com/video/BV1f1421U7CM
 ---
 

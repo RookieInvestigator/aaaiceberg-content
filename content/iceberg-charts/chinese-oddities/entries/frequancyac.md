@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: frequancy_AC'
+  - title: '链接: frequancy_AC'
     url: 'https://blog.sina.com.cn/s/blog_62641b7d0101prs0.html'
 ---
 天涯黑弥撒的更黑暗版本，幸好已被证明为假的。

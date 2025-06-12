@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 外星人公寓'
+  - title: '链接: 外星人公寓'
     url: 'https://mp.weixin.qq.com/s/B1ez8UA_HGXOvj3mESpQNg'
 ---
 

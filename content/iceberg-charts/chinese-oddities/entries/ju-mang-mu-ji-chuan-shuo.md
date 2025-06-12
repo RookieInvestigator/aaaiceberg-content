@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 巨蟒目击传说'
+  - title: '链接: 巨蟒目击传说'
     url: >-
       https://kns.cnki.net/kcms2/article/abstract?v=pTDtInUJxYxAgwZvvbfcMgiJWisB8pANKwAvV9qHJnEXvVv9g4pfS-53iHmompSQF6aEG3cSMMhWUcPbwbEHAm_XHGblDf-MVMb05v8Rj6V94dhw0gWKhoBSuPc2mepdTpARJrAf2FXDs_xHLzgkjsIlc1towwtToGdrc4Z4jYNRNTbD-VG8FVbU0PMXeuAo&uniplatform=NZKPT&language=CHS
 ---

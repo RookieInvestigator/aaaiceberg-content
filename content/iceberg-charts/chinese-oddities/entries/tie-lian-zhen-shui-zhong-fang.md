@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 铁链阵・水中房'
+  - title: '链接: 铁链阵・水中房'
     url: >-
       https://web.archive.org/web/20200205090026/https://www.douban.com/group/topic/146351179/
 ---

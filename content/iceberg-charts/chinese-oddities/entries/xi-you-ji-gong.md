@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 西游记宫'
+  - title: '链接: 西游记宫'
     url: 'https://i.ifeng.com/c/7zUcOySujab'
 ---
 

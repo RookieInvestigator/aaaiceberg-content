@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 纸馅包子'
+  - title: '链接: 纸馅包子'
     url: >-
       https://zh.wikipedia.org/wiki/%E7%B4%99%E9%A4%A1%E5%8C%85%E5%AD%90%E8%99%9B%E5%81%87%E6%96%B0%E8%81%9E%E4%BA%8B%E4%BB%B6
 ---

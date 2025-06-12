@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「父亲是一扇门」'
+  - title: '链接: 「父亲是一扇门」'
     url: >-
       https://tieba.baidu.com/p/9595759630?&share=9105&fr=sharewise&is_video=false&unique=C316F541D188B1072A9F4E174BD91287&st=1744393249&client_type=1&client_version=12.81.1.0&sfc=copy&share_from=post
 ---

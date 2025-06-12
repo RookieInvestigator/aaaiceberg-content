@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「玉猪龙是胚胎・蛴螬・彩虹・蹲着的熊・熊蛇・蚕・衔尾蛇・血吸虫」'
+  - title: '链接: 「玉猪龙是胚胎・蛴螬・彩虹・蹲着的熊・熊蛇・蚕・衔尾蛇・血吸虫」'
     url: 'https://zhuanlan.zhihu.com/p/61014350'
 ---
 总之学术界还是叫它玉猪龙就是了……

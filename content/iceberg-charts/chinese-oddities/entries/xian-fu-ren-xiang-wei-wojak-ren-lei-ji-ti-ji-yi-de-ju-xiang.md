@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 冼夫人像为wojak人类集体记忆的具象'
+  - title: '链接: 冼夫人像为wojak人类集体记忆的具象'
     url: 'https://tieba.baidu.com/p/9273124251'
 ---
 人类面容边缘理论的趣味联想。

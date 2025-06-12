@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「肢体雪人」'
+  - title: '链接: 「肢体雪人」'
     url: 'https://www.163.com/dy/article/IA0L67JU05534MAK.html'
 ---
 一部伪真实犯罪小说《十宗罪》里面的情节，这部小说的剧情猎奇、震撼人心，有时以真实事件为原型，被当成真的罪案都市传说流传甚广。但是事实上，「肢体雪人」这个故事是虚构的，而且是洗稿的一本外国惊悚小说家 Nicholas Blake所 著《The Corpse in the Snowman》。

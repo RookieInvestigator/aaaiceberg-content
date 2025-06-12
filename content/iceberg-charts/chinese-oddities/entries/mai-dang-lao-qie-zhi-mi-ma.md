@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 麦当劳茄汁密码'
+  - title: '链接: 麦当劳茄汁密码'
     url: >-
       https://zh.wikipedia.org/wiki/%E9%BA%A5%E7%95%B6%E5%8B%9E%E8%8C%84%E6%B1%81%E5%AF%86%E7%A2%BC
 ---

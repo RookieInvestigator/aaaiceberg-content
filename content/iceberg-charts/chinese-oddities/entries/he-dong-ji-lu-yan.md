@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 河东记·卢燕'
+  - title: '链接: 河东记·卢燕'
     url: 'https://gj.zdic.net/jibu/819/24165.html'
 ---
 这是我们之间的秘密。

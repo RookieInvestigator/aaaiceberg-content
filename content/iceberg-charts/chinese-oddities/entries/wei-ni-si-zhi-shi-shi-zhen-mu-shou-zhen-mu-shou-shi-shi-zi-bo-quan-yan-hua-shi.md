@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 威尼斯之狮是镇墓兽・镇墓兽-石狮子-狛犬演化史'
+  - title: '链接: 威尼斯之狮是镇墓兽・镇墓兽-石狮子-狛犬演化史'
     url: 'https://www.zhihu.com/question/760719147'
 ---
 

@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 直百钱信用货币论'
+  - title: '链接: 直百钱信用货币论'
     url: 'https://www.zhihu.com/question/312308563'
 ---
 

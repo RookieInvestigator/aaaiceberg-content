@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《抗战胜利70周年大阅兵这天我老婆突然消失了》'
+  - title: '链接: 《抗战胜利70周年大阅兵这天我老婆突然消失了》'
     url: 'https://bangumi.tv/subject/184978'
 ---
 中国第一部Metagame，政治性抑郁题材警告。

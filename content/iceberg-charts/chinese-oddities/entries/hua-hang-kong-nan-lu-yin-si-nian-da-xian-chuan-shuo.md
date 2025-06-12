@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 华航空难录音・四年大限传说'
+  - title: '链接: 华航空难录音・四年大限传说'
     url: 'https://www.bilibili.com/video/BV1EE41127of/'
 ---
 

@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 油麻地站跳轨事件'
+  - title: '链接: 油麻地站跳轨事件'
     url: >-
       https://zh.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF%E6%B2%B9%E9%BA%BB%E5%9C%B0%E5%9C%B0%E9%90%B5%E7%AB%99%E5%B0%91%E5%A5%B3%E8%B7%B3%E8%BB%8C%E4%BA%8B%E4%BB%B6
 ---

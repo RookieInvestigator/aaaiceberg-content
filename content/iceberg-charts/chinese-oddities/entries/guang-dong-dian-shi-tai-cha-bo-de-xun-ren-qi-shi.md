@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 广东电视台插播的寻人启事'
+  - title: '链接: 广东电视台插播的寻人启事'
     url: www.bilibili.com/video/BV1BQ4y1c7UJ
 ---
 地域性童年阴影，信号劫持系模拟恐怖的现实根源之一。

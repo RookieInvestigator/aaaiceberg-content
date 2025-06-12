@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 一家五口出游仅一人生还'
+  - title: '链接: 一家五口出游仅一人生还'
     url: www.bilibili.com/video/BV1ASt2ePEJy
 ---
 

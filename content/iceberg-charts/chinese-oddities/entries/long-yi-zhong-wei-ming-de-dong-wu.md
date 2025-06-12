@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《龙：一种未明的动物》'
+  - title: '链接: 《龙：一种未明的动物》'
     url: 'https://book.douban.com/subject/30289543/'
 ---
 

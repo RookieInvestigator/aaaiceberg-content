@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 梅花诗'
+  - title: '链接: 梅花诗'
     url: 'https://www.zhonghuadiancang.com/xuanxuewushu/13868/'
 ---
 《梅花诗》是北宋时期易学家邵雍所作的十首预言诗，预言了他身后中国的大的历史演变。该书在流传过程中不断被人篡改，将已知的历史改成图谶，加以比附，故其本来面目已渺不可考。

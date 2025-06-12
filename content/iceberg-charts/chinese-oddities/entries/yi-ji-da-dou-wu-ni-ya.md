@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 遗迹大豆乌尼亚'
+  - title: '链接: 遗迹大豆乌尼亚'
     url: >-
       https://www.reddit.com/r/ARG/comments/fhhegn/i_found_a_youtube_channel_by_the_name_it_is_in/
 ---

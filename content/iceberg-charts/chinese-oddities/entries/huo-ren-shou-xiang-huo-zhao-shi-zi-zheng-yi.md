@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 活人受香火・赵世子争议'
+  - title: '链接: 活人受香火・赵世子争议'
     url: >-
       https://baike.baidu.com/item/2%C2%B719%E7%94%B7%E7%BD%91%E7%BA%A2cos%E6%B8%B8%E7%A5%9E%E2%80%9C%E8%B5%B5%E4%B8%96%E5%AD%90%E2%80%9D%E4%BA%8B%E4%BB%B6/64076502
 ---

@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 费翔预言大兴安岭大火'
+  - title: '链接: 费翔预言大兴安岭大火'
     url: >-
       https://zh.wikipedia.org/wiki/%E5%86%AC%E5%A4%A9%E8%A3%A1%E7%9A%84%E4%B8%80%E6%8A%8A%E7%81%AB#%E9%80%B8%E8%81%9E
 ---

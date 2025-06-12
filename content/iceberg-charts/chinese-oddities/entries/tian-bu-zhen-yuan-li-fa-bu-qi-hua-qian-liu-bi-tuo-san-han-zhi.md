@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《天步真原・曆法部》・《气化迁流》・「苾驮散汉知」'
+  - title: '链接: 《天步真原・曆法部》・《气化迁流》・「苾驮散汉知」'
     url: 'https://zhuanlan.zhihu.com/p/527419551'
 ---
 

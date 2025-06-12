@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 逃秦毛人・摇钱树九子灯'
+  - title: '链接: 逃秦毛人・摇钱树九子灯'
     url: >-
       https://www.shiwenxuan.com/zibuyu/20230426689.html#:~:text=%E7%A7%A6%E6%AF%9B%E4%BA%BA%E3%80%90%E5%8E%9F%E6%96%87%E3%80%91%E6%B9%96%E5%B9%BF%E9%83%A7
 ---

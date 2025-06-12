@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: A岛红窗户・红房间'
+  - title: '链接: A岛红窗户・红房间'
     url: 'https://www.acfun.cn/v/ac21143361'
 ---
 

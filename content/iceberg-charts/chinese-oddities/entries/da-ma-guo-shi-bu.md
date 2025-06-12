@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 大麻裹尸布'
+  - title: '链接: 大麻裹尸布'
     url: 'http://www.360doc.com/content/22/1105/15/16123909_1054691165.shtml'
 ---
 

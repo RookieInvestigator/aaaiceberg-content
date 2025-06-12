@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《妈妈爬上我的床，对我喊出一个陌生的名字》'
+  - title: '链接: 《妈妈爬上我的床，对我喊出一个陌生的名字》'
     url: 'https://www.douban.com/group/topic/303030625/?_i=2625036iS3ZrEE'
 ---
 

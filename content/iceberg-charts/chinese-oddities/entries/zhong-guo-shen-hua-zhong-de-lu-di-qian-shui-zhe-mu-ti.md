@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 中国神话中的陆地潜水者母题'
+  - title: '链接: 中国神话中的陆地潜水者母题'
     url: >-
       https://courses.edx.org/c4x/PekingX/02030330x_1/asset/Earth-Dive_Creation_of_the_Mythopoeic_Male.pdf
 ---

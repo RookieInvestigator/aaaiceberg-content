@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 捕捉北斗七星'
+  - title: '链接: 捕捉北斗七星'
     url: 'https://ctext.org/wiki.pl?if=gb&chapter=565446&remap=gb#p3'
 ---
 

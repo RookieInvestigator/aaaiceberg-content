@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 钱学森见过猩红女士'
+  - title: '链接: 钱学森见过猩红女士'
     url: 'https://tieba.baidu.com/p/9195681973'
 ---
 

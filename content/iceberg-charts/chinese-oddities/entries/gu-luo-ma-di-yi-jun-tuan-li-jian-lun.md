@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 古罗马第一军团骊靬论'
+  - title: '链接: 古罗马第一军团骊靬论'
     url: >-
       https://zh.wikipedia.org/wiki/%E5%8F%A4%E7%BD%97%E9%A9%AC%E7%AC%AC%E4%B8%80%E5%86%9B%E5%9B%A2%E5%A4%B1%E8%B8%AA%E4%B9%8B%E8%B0%9C
 ---

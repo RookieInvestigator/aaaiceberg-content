@@ -15,7 +15,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 郭礼雅《天道，或撒旦的会堂》'
+  - title: '链接: 郭礼雅《天道，或撒旦的会堂》'
     url: 'https://mp.weixin.qq.com/s/1LpvSVOiExKSF9Bktjo-ag'
 ---
 

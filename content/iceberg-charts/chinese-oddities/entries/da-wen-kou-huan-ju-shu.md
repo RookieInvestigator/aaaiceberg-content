@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 大汶口环锯术'
+  - title: '链接: 大汶口环锯术'
     url: >-
       https://github.com/KaguyaHouraisan/Gleaning-of-Chinese-Oddities-Iceberg/blob/main/%E4%B8%AD%E6%96%87%E4%BA%92%E8%81%94%E7%BD%91%E5%85%94%E5%AD%90%E6%B4%9E%E5%86%B0%E5%B1%B1%E5%9B%BE%E6%8B%BE%E9%81%97%C2%B7%E4%B8%80%C2%B7%E5%A4%A7%E6%B1%B6%E5%8F%A3%E7%8E%AF%E9%94%AF%E6%9C%AF.md
 ---

@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 民国科学易・64卦密码子说'
+  - title: '链接: 民国科学易・64卦密码子说'
     url: >-
       https://mp.weixin.qq.com/s?__biz=MzI1NjE0MzU2Mg==&mid=2247488530&idx=1&sn=8879f660eb561d0f731ff6219da17059&chksm=eb286712de3099aa72475cf42fdeb4b9b4698d79acef67b706a74592919ea497b5b7b4f677e4
 ---

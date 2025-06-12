@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 毕摩・释比'
+  - title: '链接: 毕摩・释比'
     url: www.douban.com/group/topic/310414479
 ---
 

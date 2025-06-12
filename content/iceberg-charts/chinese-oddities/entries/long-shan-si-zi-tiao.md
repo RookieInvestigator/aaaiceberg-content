@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 龙山寺字条'
+  - title: '链接: 龙山寺字条'
     url: >-
       https://zh.wikipedia.org/zh-cn/%E8%89%8B%E8%88%BA%E9%BE%8D%E5%B1%B1%E5%AF%BA
 ---

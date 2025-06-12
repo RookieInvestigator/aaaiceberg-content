@@ -9,7 +9,7 @@ categoryId: cat_fc9VC2z8
 tagIds: []
 timelineEvents: []
 titledLinks:
-- title: "相關連結: 10月30日武汉电视重影"
+- title: "链接: 10月30日武汉电视重影"
   url: https://www.163.com/dy/article/JFUD15GP0552RUAA.html
 relations: []
 ---

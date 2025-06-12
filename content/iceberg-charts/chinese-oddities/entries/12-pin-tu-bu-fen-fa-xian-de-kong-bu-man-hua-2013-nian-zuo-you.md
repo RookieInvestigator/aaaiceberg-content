@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《12拼图》（部分发现的恐怖漫画；2013年左右）'
+  - title: '链接: 《12拼图》（部分发现的恐怖漫画；2013年左右）'
     url: 'https://tieba.baidu.com/p/9167848249'
 ---
 

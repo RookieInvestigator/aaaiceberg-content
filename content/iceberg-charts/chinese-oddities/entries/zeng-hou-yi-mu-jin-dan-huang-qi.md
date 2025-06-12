@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 曾侯乙墓金弹簧器'
+  - title: '链接: 曾侯乙墓金弹簧器'
     url: 'https://www.zhihu.com/column/p/30482571'
 ---
 出自曾侯乙墓东室，形似弹簧，用途不详。

@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 三十六关煞'
+  - title: '链接: 三十六关煞'
     url: >-
       https://baike.baidu.com/item/%E4%B8%89%E5%8D%81%E5%85%AD%E5%85%B3%E7%85%9E/1193567
 ---

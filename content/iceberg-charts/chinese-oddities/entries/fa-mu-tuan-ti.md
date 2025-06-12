@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 法穆团体'
+  - title: '链接: 法穆团体'
     url: 'https://book.douban.com/review/9705465/'
 ---
 

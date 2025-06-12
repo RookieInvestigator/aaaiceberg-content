@@ -14,7 +14,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 天学文字和西夏文的关系'
+  - title: '链接: 天学文字和西夏文的关系'
     url: >-
       https://www.reddit.com/r/translator/comments/1bztqnv/unknownenglish_no_idea_what_it_says/
 ---

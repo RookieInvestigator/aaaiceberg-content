@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 唐人街女王・中国玛丽・滑板之神'
+  - title: '链接: 唐人街女王・中国玛丽・滑板之神'
     url: >-
       https://baike.baidu.com/tashuo/browse/content?id=a212f287189ffc7e1211a2b2&lemmaId=2886700&fromLemmaModule=pcBottom&lemmaTitle=Amanda%20Lear&fromModule=lemma_bottom-tashuo-article
 ---

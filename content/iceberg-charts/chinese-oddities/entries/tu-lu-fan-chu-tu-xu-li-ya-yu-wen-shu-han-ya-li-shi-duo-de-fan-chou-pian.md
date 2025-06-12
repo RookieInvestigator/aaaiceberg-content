@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 吐鲁番出土叙利亚语文书含亚里士多德《范畴篇》'
+  - title: '链接: 吐鲁番出土叙利亚语文书含亚里士多德《范畴篇》'
     url: 'https://www.sohu.com/a/789325219_121119014'
 ---
 

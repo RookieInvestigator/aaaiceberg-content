@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 大头怪婴'
+  - title: '链接: 大头怪婴'
     url: 'https://www.sohu.com/a/457670106_429555'
 ---
 

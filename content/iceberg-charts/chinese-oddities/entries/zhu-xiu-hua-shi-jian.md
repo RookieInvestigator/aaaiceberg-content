@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 朱秀华事件'
+  - title: '链接: 朱秀华事件'
     url: >-
       https://zh.wikipedia.org/wiki/%E6%9C%B1%E7%A7%80%E8%8F%AF%E4%BA%8B%E4%BB%B6
 ---

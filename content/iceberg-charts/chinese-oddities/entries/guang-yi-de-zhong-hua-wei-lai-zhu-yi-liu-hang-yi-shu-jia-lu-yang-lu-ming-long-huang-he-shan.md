@@ -15,7 +15,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 广义的中华未来主义流行艺术家（陆扬・陆明龙・黄河山）'
+  - title: '链接: 广义的中华未来主义流行艺术家（陆扬・陆明龙・黄河山）'
     url: 'https://sinofuturism.com/'
 ---
 

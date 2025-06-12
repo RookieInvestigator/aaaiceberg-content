@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 永乐大典正本・副本'
+  - title: '链接: 永乐大典正本・副本'
     url: >-
       https://www.nlc.cn/migrated/www.nlc.cn/newhxjy/wjsy/wjls/wjqcsy/wjd76q/yldd/202112/P020211221543872638799.pdf
 ---

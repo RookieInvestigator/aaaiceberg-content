@@ -14,7 +14,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: MagicSpellBox'
+  - title: '链接: MagicSpellBox'
     url: >-
       https://tieba.baidu.com/f?kw=%E9%AD%94%E6%B3%95%E5%92%92%E8%AF%AD%E7%9B%92%E5%AD%90msb
 ---

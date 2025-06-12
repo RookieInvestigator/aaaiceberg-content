@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 楼板弹珠声'
+  - title: '链接: 楼板弹珠声'
     url: >-
       https://zh.wikipedia.org/wiki/%E6%A8%93%E4%B8%8A%E6%B3%A2%E5%AD%90%E8%81%B2
 ---

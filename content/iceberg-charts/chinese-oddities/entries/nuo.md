@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 傩'
+  - title: '链接: 傩'
     url: 'https://zh.wikipedia.org/wiki/%E5%82%A9'
 ---
 一种古老的民间艺术复合体，常与巫术、宗教、祭祀及各种民俗活动结合起来。

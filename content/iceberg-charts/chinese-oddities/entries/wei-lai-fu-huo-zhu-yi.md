@@ -16,7 +16,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 未来复活主义'
+  - title: '链接: 未来复活主义'
     url: www.bilibili.com/video/BV1N4pqe8E3y
 ---
 

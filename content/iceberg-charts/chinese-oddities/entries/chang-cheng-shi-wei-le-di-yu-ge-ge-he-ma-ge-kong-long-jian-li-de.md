@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「长城是为了抵御歌革和玛各（恐龙）建立的」'
+  - title: '链接: 「长城是为了抵御歌革和玛各（恐龙）建立的」'
     url: >-
       https://orphestrum.blogspot.com/2015/07/the-origin-of-dinosaurs-and-dragons_61.html
 ---

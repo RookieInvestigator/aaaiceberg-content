@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 成珠楼鬼迎亲'
+  - title: '链接: 成珠楼鬼迎亲'
     url: 'https://www.163.com/dy/article/I4B2R29Q05563JRB.html'
 ---
 

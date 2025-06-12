@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《天朝仁学广览》'
+  - title: '链接: 《天朝仁学广览》'
     url: 'https://book.douban.com/subject/5448064/'
 ---
 

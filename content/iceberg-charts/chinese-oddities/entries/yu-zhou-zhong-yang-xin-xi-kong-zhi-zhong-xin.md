@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 宇宙中央信息控制中心'
+  - title: '链接: 宇宙中央信息控制中心'
     url: >-
       https://mp.weixin.qq.com/s?__biz=Mzg3ODU4ODU5Mw==&mid=2247483985&idx=1&sn=d1930807bb86c4ba95d01f3744e53e52&chksm=ce4187556517c51ad16a6e752a82c32b125592746cac3debfd8b1229eeb995621b2cc95c2626
 ---

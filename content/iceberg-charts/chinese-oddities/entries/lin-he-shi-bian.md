@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 蔺河尸变'
+  - title: '链接: 蔺河尸变'
     url: 'https://zhuanlan.zhihu.com/p/142167897'
 ---
 

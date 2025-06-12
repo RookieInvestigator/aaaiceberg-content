@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 九龙城寨'
+  - title: '链接: 九龙城寨'
     url: >-
       https://kns.cnki.net/kcms2/article/abstract?v=ifIT5_n5_Ge1oOAzvpWfuhnc1cTH_Yil5xiFNI1O01M5P-jep_bxRgTB5U8G2Mai0IoOxp3g-ZXmPPH728rWfFauy8dvFgprzQ-NOiCdWpJztdU5070GphRhwV8hLaZDHMm7zTU6jmM111hqOacnpJmxLXb2Tp7r07-SCWEW2w4hh-E33cJHy6lGtp4UHt8pCaOOMNoK59U=&uniplatform=NZKPT&language=CHS
 ---

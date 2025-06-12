@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 杞县钴-60事件'
+  - title: '链接: 杞县钴-60事件'
     url: >-
       https://zh.wikipedia.org/wiki/%E6%9D%9E%E5%8E%BF%E9%92%B4-60%E4%BA%8B%E4%BB%B6
 ---

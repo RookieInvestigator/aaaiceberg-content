@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 兵闢太岁・避兵术・五月丙午・蟾蜍蚀月'
+  - title: '链接: 兵闢太岁・避兵术・五月丙午・蟾蜍蚀月'
     url: 'https://zhuanlan.zhihu.com/p/576198951'
 ---
 

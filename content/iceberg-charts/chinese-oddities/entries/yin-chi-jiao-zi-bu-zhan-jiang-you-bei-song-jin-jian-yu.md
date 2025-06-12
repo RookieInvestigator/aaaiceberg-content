@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 因吃饺子不蘸酱油被送进监狱'
+  - title: '链接: 因吃饺子不蘸酱油被送进监狱'
     url: www.bilibili.com/video/BV1Bt4y1R7eb
 ---
 

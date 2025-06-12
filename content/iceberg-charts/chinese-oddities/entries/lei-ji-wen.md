@@ -14,7 +14,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 雷殛文'
+  - title: '链接: 雷殛文'
     url: >-
       https://mp.weixin.qq.com/s?__biz=MzI5ODA1NTgwMQ==&mid=2647540369&idx=1&sn=8b48bd5b2db16907bbb5c30b0bc8c5bf&chksm=f524aec36616103d12ae9b52d2a5ab5be9b4905b12fe747d42c8ed3c0944b763b2a04ea077ea
 ---

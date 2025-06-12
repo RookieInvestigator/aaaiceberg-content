@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 叫魂（巫术）'
+  - title: '链接: 叫魂（巫术）'
     url: >-
       https://kns.cnki.net/kcms2/article/abstract?v=ufuULlVWCsPzV43kx4UxvofKuzjSraALRWW5Ve4R1Sw3UVubULBKb7pTfZDy57w6vXKh22mn9aVzfYgnUiTMNMaPT1BknMMVRDRTjGSLeYAr_bGd_FGuX31427wKAXFovLZX2M1fUejyDHgAufGv5-w2RH3ITG1DQL3HXnjvXPM1zL1NkUGTBhChG8lV378B&uniplatform=NZKPT&language=CHS
 ---

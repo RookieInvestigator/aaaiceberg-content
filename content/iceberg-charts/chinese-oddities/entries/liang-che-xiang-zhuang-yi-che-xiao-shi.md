@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 两车相撞一车消失'
+  - title: '链接: 两车相撞一车消失'
     url: 'https://www.thepaper.cn/newsDetail_forward_4084547'
 ---
 2019年河南安阳的高速公路上的车祸事件。一辆白色奔驰在雨中失控，撞向一辆黑色轿车，但监控显示黑车在碰撞后消失。专家解释，这可能是由于雨天路面反光和监控角度造成的「海市蜃楼」现象。

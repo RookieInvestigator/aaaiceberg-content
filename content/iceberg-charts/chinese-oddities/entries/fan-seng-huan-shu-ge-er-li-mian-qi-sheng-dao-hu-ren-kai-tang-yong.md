@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 番僧幻术・割耳剺面・七圣刀・胡人开膛俑'
+  - title: '链接: 番僧幻术・割耳剺面・七圣刀・胡人开膛俑'
     url: 'https://tieba.baidu.com/p/9149306333'
 ---
 

@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 女僵尸（失传的中国最早的僵尸片；1941年）'
+  - title: '链接: 女僵尸（失传的中国最早的僵尸片；1941年）'
     url: 'https://movie.douban.com/subject/26426015/'
 ---
 

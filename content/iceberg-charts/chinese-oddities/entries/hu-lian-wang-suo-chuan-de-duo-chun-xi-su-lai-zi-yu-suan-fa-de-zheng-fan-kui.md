@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 互联网所传的「躲春」习俗来自于算法的正反馈'
+  - title: '链接: 互联网所传的「躲春」习俗来自于算法的正反馈'
     url: 'https://mp.weixin.qq.com/s/UTdPJNmlMfazjH51EsJsAQ'
 ---
 

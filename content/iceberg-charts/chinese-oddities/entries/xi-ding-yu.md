@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 希顶语'
+  - title: '链接: 希顶语'
     url: 'https://yuyan.fandom.com/zh/wiki/%E5%B8%8C%E9%A1%B6%E8%AF%AD'
 ---
 

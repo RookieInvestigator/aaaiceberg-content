@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 21世纪中国超心理学'
+  - title: '链接: 21世纪中国超心理学'
     url: 'https://new.qq.com/rain/a/20210428A00LNT00?suid=&media_id='
 ---
 人体科学和超心理学方面的学术研究留存直到21世纪仍然存在的一些案例。包括「鸡蛋反生」、「量子速读」、「灵寿农民」、「三层物质理论假说」、「上海市气功研究所」等。

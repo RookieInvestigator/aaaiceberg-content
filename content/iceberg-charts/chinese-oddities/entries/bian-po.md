@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 变婆'
+  - title: '链接: 变婆'
     url: 'https://zhuanlan.zhihu.com/p/60770588'
 ---
 西南地区流行的民俗传说，多见于苗族、土家族等少数民族聚集地带。

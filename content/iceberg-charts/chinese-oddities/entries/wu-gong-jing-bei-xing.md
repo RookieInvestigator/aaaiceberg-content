@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《五公经》-孛星'
+  - title: '链接: 《五公经》-孛星'
     url: 'https://zhuanlan.zhihu.com/p/140967724'
 ---
 

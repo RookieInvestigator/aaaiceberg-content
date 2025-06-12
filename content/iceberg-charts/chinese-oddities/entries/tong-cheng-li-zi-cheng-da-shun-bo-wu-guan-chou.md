@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 通城李自成大顺博物馆（筹）'
+  - title: '链接: 通城李自成大顺博物馆（筹）'
     url: 'https://zhuanlan.zhihu.com/p/679250100'
 ---
 

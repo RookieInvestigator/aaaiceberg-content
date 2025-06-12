@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 中国金字塔'
+  - title: '链接: 中国金字塔'
     url: >-
       https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E9%87%91%E5%AD%97%E5%A1%94
 ---

@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 马王堆钩纹皮蠹'
+  - title: '链接: 马王堆钩纹皮蠹'
     url: 'https://baike.baidu.com/item/%E9%92%A9%E7%BA%B9%E7%9A%AE%E8%A0%B9/10148440'
 ---
 

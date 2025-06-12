@@ -6,7 +6,7 @@ aliases: []
 layer: 4
 eventDate: null
 titledLinks:
-  - title: "相關連結: 跌倒小绿人"
+  - title: "链接: 跌倒小绿人"
     url: tieba.baidu.com/p/9185327219
 relations: []
 categoryId: cat_r0rzgkOi

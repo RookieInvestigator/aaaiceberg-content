@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 古树流血'
+  - title: '链接: 古树流血'
     url: 'https://culture.ifeng.com/8/detail_2012_08/26/17099039_0.shtml'
 ---
 

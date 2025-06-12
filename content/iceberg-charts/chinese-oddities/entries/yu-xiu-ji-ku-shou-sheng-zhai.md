@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 预修・寄库・受生债'
+  - title: '链接: 预修・寄库・受生债'
     url: 'https://www.fx361.cc/page/2017/0705/1989620.shtml'
 ---
 

@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 克里斯托之星・光工冤魂・关念慈'
+  - title: '链接: 克里斯托之星・光工冤魂・关念慈'
     url: 'https://vrindavan.pixnet.net/blog/post/304626432'
 ---
 两起因为信仰国内的新纪元灵性圈导致自杀的案例。一些灵性圈推文称自杀就可以让灵魂超越三维限制，导致二人死亡，其亲属在网络上发文控诉。

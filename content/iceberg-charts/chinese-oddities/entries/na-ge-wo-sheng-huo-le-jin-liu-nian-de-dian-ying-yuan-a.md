@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《那个我生活了近六年的电影院啊》'
+  - title: '链接: 《那个我生活了近六年的电影院啊》'
     url: >-
       https://www.bilibili.com/video/BV1br4y1Y7wA/?spm_id_from=333.788&vd_source=8510057cc01737150f292f2a0c9c9606
 ---

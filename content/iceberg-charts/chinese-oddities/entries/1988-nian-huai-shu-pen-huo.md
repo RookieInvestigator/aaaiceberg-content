@@ -6,7 +6,7 @@ aliases: []
 layer: 2
 eventDate: null
 titledLinks:
-  - title: "相關連結: 1988年槐树喷火"
+  - title: "链接: 1988年槐树喷火"
     url: https://zhuanlan.zhihu.com/p/92803902
 relations: []
 categoryId: cat_r0rzgkOi

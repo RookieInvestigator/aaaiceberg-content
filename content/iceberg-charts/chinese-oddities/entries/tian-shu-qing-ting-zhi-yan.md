@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《天书》・《蜻蜓之眼》'
+  - title: '链接: 《天书》・《蜻蜓之眼》'
     url: 'https://www.xubing.com/cn'
 ---
 艺术家徐冰的两个作品。前者是人造的四千多个伪汉字，后者是完全由公共监控剪辑拼凑出的电影。

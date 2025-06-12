@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《中国图说》'
+  - title: '链接: 《中国图说》'
     url: 'https://thenewslens.com/article/171952'
 ---
 

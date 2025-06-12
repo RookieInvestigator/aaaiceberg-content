@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 宇宙天仙派'
+  - title: '链接: 宇宙天仙派'
     url: www.bilibili.com/video/BV1UmHoeXEP7
 ---
 

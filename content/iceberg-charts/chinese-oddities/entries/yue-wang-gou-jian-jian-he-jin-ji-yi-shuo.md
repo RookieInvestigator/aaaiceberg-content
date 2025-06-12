@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 越王勾践剑合金记忆说'
+  - title: '链接: 越王勾践剑合金记忆说'
     url: 'https://www.zhihu.com/question/567422684'
 ---
 越王勾践剑出土于1965年湖北江陵，传说具有「金属记忆」功能，经考察这是由一些博物馆解说词夸张化修辞发展而来的都市传说。

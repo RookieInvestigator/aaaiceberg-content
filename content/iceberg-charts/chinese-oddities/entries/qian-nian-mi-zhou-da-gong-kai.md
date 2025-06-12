@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《千年秘咒大公开》'
+  - title: '链接: 《千年秘咒大公开》'
     url: 'https://mkmyblog.blogspot.com/2019/10/blog-post.html'
 ---
 1992年出版的通灵仪式类书籍，作者为「跛子」，2008年左右被人扫描上传，此后在中文神秘学社群四处流传，内容繁杂，包罗万象，似乎缝合了多种神秘学文化的来源。

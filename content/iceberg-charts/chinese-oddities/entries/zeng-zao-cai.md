@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 曾灶财'
+  - title: '链接: 曾灶财'
     url: 'https://zhuanlan.zhihu.com/p/55633463'
 ---
 香港街头街头涂鸦者，自称九龙皇帝，在香港街头大量书写毛笔字以「宣示主权」。

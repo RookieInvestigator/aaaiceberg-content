@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 罗布泊相关传说'
+  - title: '链接: 罗布泊相关传说'
     url: >-
       https://zh.wikipedia.org/wiki/%E5%BD%AD%E5%8A%A0%E6%9C%A8#%E5%A4%B1%E8%B8%AA
 ---

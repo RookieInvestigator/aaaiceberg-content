@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 地震中陈坚的半张脸'
+  - title: '链接: 地震中陈坚的半张脸'
     url: >-
       https://www.wikiwand.com/zh-hans/articles/%E9%99%88%E5%9D%9A_(%E6%B1%B6%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E8%80%85)
 ---

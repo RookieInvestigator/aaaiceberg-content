@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 吉林女孩监控下凭空失踪'
+  - title: '链接: 吉林女孩监控下凭空失踪'
     url: www.bilibili.com/video/BV1FX4y137jJ
 ---
 

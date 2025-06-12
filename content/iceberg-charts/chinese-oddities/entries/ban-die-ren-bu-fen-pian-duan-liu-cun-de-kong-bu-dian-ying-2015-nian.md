@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《半蝶人》（部分片段留存的恐怖电影；2015年）'
+  - title: '链接: 《半蝶人》（部分片段留存的恐怖电影；2015年）'
     url: 'https://tieba.baidu.com/p/9637307104'
 ---
 

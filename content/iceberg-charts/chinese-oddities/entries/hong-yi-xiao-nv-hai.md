@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 红衣小女孩'
+  - title: '链接: 红衣小女孩'
     url: >-
       https://zh.wikipedia.org/wiki/%E7%B4%85%E8%A1%A3%E5%B0%8F%E5%A5%B3%E5%AD%A9
 ---

@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 王恭厂大爆炸'
+  - title: '链接: 王恭厂大爆炸'
     url: >-
       https://zh.wikipedia.org/wiki/%E7%8E%8B%E6%81%AD%E5%BB%A0%E5%A4%A7%E7%88%86%E7%82%B8
 ---

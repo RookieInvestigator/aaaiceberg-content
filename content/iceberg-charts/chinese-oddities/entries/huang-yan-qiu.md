@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 黄延秋'
+  - title: '链接: 黄延秋'
     url: >-
       https://baike.baidu.com/item/%E9%BB%84%E5%BB%B6%E7%A7%8B%E4%BA%8B%E4%BB%B6/3270760
 ---

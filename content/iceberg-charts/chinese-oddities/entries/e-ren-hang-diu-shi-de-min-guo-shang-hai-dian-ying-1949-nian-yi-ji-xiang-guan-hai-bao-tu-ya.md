@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 饿人行（丢失的民国上海电影；1949年）以及相关海报涂鸦'
+  - title: '链接: 饿人行（丢失的民国上海电影；1949年）以及相关海报涂鸦'
     url: 'https://www.997788.com/search_1042_98043202.html'
 ---
 

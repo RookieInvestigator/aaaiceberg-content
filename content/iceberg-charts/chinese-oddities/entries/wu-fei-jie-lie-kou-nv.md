@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 五妃街裂口女'
+  - title: '链接: 五妃街裂口女'
     url: 'https://www.bilibili.com/read/cv26075499'
 ---
 在台南五妃街流传的都市传说。

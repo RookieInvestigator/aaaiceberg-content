@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: あいう-エリ子ARG'
+  - title: '链接: あいう-エリ子ARG'
     url: 'https://space.bilibili.com/501319055'
 ---
 

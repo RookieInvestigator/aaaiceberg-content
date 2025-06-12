@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 中国古代的密特拉崇拜'
+  - title: '链接: 中国古代的密特拉崇拜'
     url: zhuanlan.zhihu.com/p/517646501
 ---
 

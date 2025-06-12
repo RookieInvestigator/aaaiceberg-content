@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 台北车站招牌'
+  - title: '链接: 台北车站招牌'
     url: 'https://meet.eslite.com/tw/sc/article/202307060002'
 ---
 传闻旧台北车站的四字灯牌如有一字不亮，隔日台铁就会发生事故。

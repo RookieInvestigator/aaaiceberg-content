@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 兰州螺纹石'
+  - title: '链接: 兰州螺纹石'
     url: 'http://news.enorth.com.cn/system/2002/06/26/000359804.shtml'
 ---
 一块长约8厘米的梨形黑色奇石，内部嵌有长约6厘米的圆锥形金属棒，金属棒表面带有螺纹。真伪未知。

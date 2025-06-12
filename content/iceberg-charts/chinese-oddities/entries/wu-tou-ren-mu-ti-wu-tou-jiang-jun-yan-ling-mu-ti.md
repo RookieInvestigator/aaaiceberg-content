@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 无头人母题・无头将军言灵母题'
+  - title: '链接: 无头人母题・无头将军言灵母题'
     url: 'https://www.jianshu.com/p/9876f70c97b3'
 ---
 

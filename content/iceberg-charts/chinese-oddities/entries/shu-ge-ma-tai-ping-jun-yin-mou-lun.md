@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 数蛤蟆-太平军阴谋论'
+  - title: '链接: 数蛤蟆-太平军阴谋论'
     url: 'https://tieba.baidu.com/p/9240192808?pid=151134023739'
 ---
 

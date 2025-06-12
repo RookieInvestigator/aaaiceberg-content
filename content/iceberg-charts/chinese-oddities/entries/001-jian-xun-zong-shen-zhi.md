@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-- title: '相關連結: 0[0,1]简寻.《宗神志》'
+- title: '链接: 0[0,1]简寻.《宗神志》'
   url: https://www.nmbxd1.com/t/51191637
 ---
 

@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 孤竹君浮棺'
+  - title: '链接: 孤竹君浮棺'
     url: 'https://www.cbaigui.com/monster/659?page=1'
 ---
 开者即死，认知危害版。

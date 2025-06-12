@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 帽妖案'
+  - title: '链接: 帽妖案'
     url: >-
       https://www.qiuwenbaike.cn/wiki/%E5%8C%97%E5%AE%8B%E5%B8%BD%E5%A6%96%E6%A1%88
 ---

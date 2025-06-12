@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《洛阳城复仇》'
+  - title: '链接: 《洛阳城复仇》'
     url: >-
       https://en.namu.wiki/w/%EB%82%99%EC%96%91%EC%84%B1%EC%9D%98%20%EB%B3%B5%EC%88%98
 ---

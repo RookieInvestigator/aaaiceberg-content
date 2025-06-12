@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「夔夒夓」辨'
+  - title: '链接: 「夔夒夓」辨'
     url: 'https://tieba.baidu.com/p/9499396532'
 ---
 相当复杂的古文字论题，涉及对三个极其相似的汉字的辨识与字形演化分析，祭祀，山海经，商人的先祖与信仰，夏朝。直至现在学界依然在为阐明这一问题而努力。

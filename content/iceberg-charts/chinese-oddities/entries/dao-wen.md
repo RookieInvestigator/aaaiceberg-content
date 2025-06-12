@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 倒文'
+  - title: '链接: 倒文'
     url: 'https://book.douban.com/review/5755614/'
 ---
 

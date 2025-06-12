@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: V13新星广播・全国收听台'
+  - title: '链接: V13新星广播・全国收听台'
     url: >-
       https://zh.wikipedia.org/wiki/%E6%98%9F%E6%98%9F%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0
 ---

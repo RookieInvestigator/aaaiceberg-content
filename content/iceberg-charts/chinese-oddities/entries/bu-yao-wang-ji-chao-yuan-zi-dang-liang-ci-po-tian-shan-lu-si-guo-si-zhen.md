@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「不要忘记超原子当量」・「刺破天山路」・四国寺镇'
+  - title: '链接: 「不要忘记超原子当量」・「刺破天山路」・四国寺镇'
     url: www.acfun.cn/a/ac29969055
 ---
 

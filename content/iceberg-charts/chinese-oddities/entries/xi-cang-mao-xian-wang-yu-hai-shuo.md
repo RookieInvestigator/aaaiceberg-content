@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 西藏冒险王遇害说'
+  - title: '链接: 西藏冒险王遇害说'
     url: >-
       https://zh.wikipedia.org/wiki/%E7%8E%8B%E7%9B%B8%E5%86%9B#%E9%80%9D%E4%B8%96
 ---

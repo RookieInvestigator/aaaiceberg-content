@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《论中华帝国之语言可能即为原初语言之历史论文》'
+  - title: '链接: 《论中华帝国之语言可能即为原初语言之历史论文》'
     url: 'https://book.douban.com/subject/36071754'
 ---
 

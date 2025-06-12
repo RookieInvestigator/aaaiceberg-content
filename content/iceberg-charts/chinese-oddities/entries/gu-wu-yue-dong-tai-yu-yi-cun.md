@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 古吴越侗台语遗存'
+  - title: '链接: 古吴越侗台语遗存'
     url: 'http://www.360doc.com/content/22/0517/22/78949389_1031832981.shtml'
 ---
 

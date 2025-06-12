@@ -13,7 +13,7 @@ tagIds:
 nsfw: true
 timelineEvents: []
 titledLinks:
-  - title: '相關連結: 《台湾2001》（发现的电子游戏；2000年-2010年早期）'
+  - title: '链接: 《台湾2001》（发现的电子游戏；2000年-2010年早期）'
     url: 'https://lostmedia.wikidot.com/taiwan-2001'
 relations: []
 ---

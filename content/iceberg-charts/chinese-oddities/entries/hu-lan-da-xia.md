@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 呼兰大侠'
+  - title: '链接: 呼兰大侠'
     url: >-
       https://zh.wikipedia.org/wiki/%E5%91%BC%E5%85%B0%E5%BC%91%E8%AD%A6%E6%A1%88
 ---

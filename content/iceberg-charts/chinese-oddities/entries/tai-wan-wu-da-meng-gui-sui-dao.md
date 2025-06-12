@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 台湾五大猛鬼隧道'
+  - title: '链接: 台湾五大猛鬼隧道'
     url: >-
       https://mf.techbang.com/posts/1727-ghost-month-special-edition-of-the-great-elm-tunnel
 ---

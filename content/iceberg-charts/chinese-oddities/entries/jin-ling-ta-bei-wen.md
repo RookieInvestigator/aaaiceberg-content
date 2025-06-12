@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《金陵塔碑文》'
+  - title: '链接: 《金陵塔碑文》'
     url: >-
       https://zh.wikipedia.org/wiki/%E9%87%91%E9%99%B5%E5%A1%94%E7%A2%91%E6%96%87
 ---

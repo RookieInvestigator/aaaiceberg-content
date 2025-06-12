@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 全息胚癌区滞育论'
+  - title: '链接: 全息胚癌区滞育论'
     url: >-
       https://baike.baidu.com/item/%E5%85%A8%E6%81%AF%E8%83%9A%E7%99%8C%E5%8C%BA%E6%BB%9E%E8%82%B2%E8%AE%BA/
 ---

@@ -14,7 +14,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 璇玑图・中国古代图形诗・李商隐的疑诗・「我见两山有才明」'
+  - title: '链接: 璇玑图・中国古代图形诗・李商隐的疑诗・「我见两山有才明」'
     url: 'https://tieba.baidu.com/p/9338501268?pid=151440228839&cid=0#151440228839'
 ---
 

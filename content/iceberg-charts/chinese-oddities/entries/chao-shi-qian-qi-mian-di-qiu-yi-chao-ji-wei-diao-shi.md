@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 超史前七面地球仪・超级微雕石'
+  - title: '链接: 超史前七面地球仪・超级微雕石'
     url: >-
       https://mp.weixin.qq.com/s?__biz=MzIwOTkwMDc3OA==&mid=2247488316&idx=1&sn=0e0d70e6eb3b6c81ff1fbf7b8f7c1783&chksm=96c27640a2508020491df320e8c45d149c394a6aa711ef3ba4e5fcb02040535c5f99edb37654
 ---

@@ -13,7 +13,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 左旋科技'
+  - title: '链接: 左旋科技'
     url: 'http://www.zxtech.com/'
 ---
 

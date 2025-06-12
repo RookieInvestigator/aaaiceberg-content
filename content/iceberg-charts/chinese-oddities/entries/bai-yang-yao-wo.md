@@ -10,7 +10,7 @@ tagIds: []
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「白羊咬我」'
+  - title: '链接: 「白羊咬我」'
     url: www.douban.com/group/topic/288323363
 ---
 

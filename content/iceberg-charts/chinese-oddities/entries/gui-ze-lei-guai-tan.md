@@ -17,7 +17,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 规则类怪谈'
+  - title: '链接: 规则类怪谈'
     url: >-
       https://zh.moegirl.org.cn/zh-hans/%E8%A7%84%E5%88%99%E7%B1%BB%E6%80%AA%E8%B0%88
 ---

@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 金缕玉衣案'
+  - title: '链接: 金缕玉衣案'
     url: 'https://www.chinanews.com.cn/cul/2011/09-05/3307606.shtml'
 ---
 中国最大的文物诈骗案。

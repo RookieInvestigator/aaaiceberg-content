@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 「敬告市民」（丢失的太原有线电视台恶作剧广告录像；1994年）'
+  - title: '链接: 「敬告市民」（丢失的太原有线电视台恶作剧广告录像；1994年）'
     url: 'https://lostmedia.wikidot.com/jinggaoshimin'
 ---
 

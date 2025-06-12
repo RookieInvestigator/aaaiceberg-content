@@ -11,7 +11,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 2012吧预言者（仏朶戾・未来之本）'
+  - title: '链接: 2012吧预言者（仏朶戾・未来之本）'
     url: 'https://tieba.baidu.com/p/1650319615'
 ---
 2012吧有几位著名的预言者，如仏朶戾、未来之本，此二人的预言有时会与相互呼应。

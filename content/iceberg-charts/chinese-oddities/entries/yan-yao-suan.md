@@ -12,7 +12,7 @@ tagIds:
 timelineEvents: []
 relations: []
 titledLinks:
-  - title: '相關連結: 《眼药酸》'
+  - title: '链接: 《眼药酸》'
     url: >-
       https://m.cnki.net/express/#/literatureDetailZh?id=shuh201806004&typeId=CJFD
 ---
