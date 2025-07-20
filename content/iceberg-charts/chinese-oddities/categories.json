@@ -1,100 +1,20 @@
 {
   "categories": [
-    {
-      "id": "cat_r0rzgkOi",
-      "name": "都市传说・事件・超自然现象",
-      "color": "#fafbff",
-      "description": "关于 都市传说・事件・超自然现象 的内容"
-    },
-    {
-      "id": "cat_9yUWRRAg",
-      "name": "鬼宅・异常地点",
-      "color": "#caceff",
-      "description": "关于 鬼宅・异常地点 的内容"
-    },
-    {
-      "id": "cat_8abY-bU7",
-      "name": "历史・疑案・假说",
-      "color": "#00ffd5",
-      "description": "关于 历史・疑案・假说 的内容"
-    },
-    {
-      "id": "cat_ZX_twUO_",
-      "name": "未确认生物",
-      "color": "#9bff99",
-      "description": "关于 未确认生物 的内容"
-    },
-    {
-      "id": "cat_uWLHUZtI",
-      "name": "民俗・宗教・灵性",
-      "color": "#fff700",
-      "description": "关于 民俗・宗教・灵性 的内容"
-    },
-    {
-      "id": "cat_p6yJicbx",
-      "name": "边缘科学",
-      "color": "#1f93ff",
-      "description": "关于 边缘科学 的内容"
-    },
-    {
-      "id": "cat_X3JSNomc",
-      "name": "网络怪谈",
-      "color": "#99ceff",
-      "description": "关于 网络怪谈 的内容"
-    },
-    {
-      "id": "cat_drHx4oqn",
-      "name": "骗局・营销・谣言",
-      "color": "#69739b",
-      "description": "关于 骗局・营销・谣言 的内容"
-    },
-    {
-      "id": "cat_OfFSSbRb",
-      "name": "神话・志怪传说",
-      "color": "#e0dfa3",
-      "description": "关于 神话・志怪传说 的内容"
-    },
-    {
-      "id": "cat_6YGSt7R3",
-      "name": "预言・谶纬",
-      "color": "#ff8d0a",
-      "description": "关于 预言・谶纬 的内容"
-    },
-    {
-      "id": "cat_LwNX9U6m",
-      "name": "自然现象",
-      "color": "#0bfe28",
-      "description": "关于 自然现象 的内容"
-    },
-    {
-      "id": "cat_fc9VC2z8",
-      "name": "电视节目・放送・广播信号",
-      "color": "#c48787",
-      "description": "关于 电视节目・放送・广播信号 的内容"
-    },
-    {
-      "id": "cat_ko7DBA6N",
-      "name": "城市神秘物件",
-      "color": "#949494",
-      "description": "关于 城市神秘物件 的内容"
-    },
-    {
-      "id": "cat_MXtv05QF",
-      "name": "艺术与创作物",
-      "color": "#ff8dc8",
-      "description": "关于 艺术与创作物 的内容"
-    },
-    {
-      "id": "cat_7hqnYMGY",
-      "name": "阴谋论・边缘理论",
-      "color": "#9069bd",
-      "description": "关于 阴谋论・边缘理论 的内容"
-    },
-    {
-      "id": "cat_1wmCydV7",
-      "name": "真实犯罪・事故",
-      "color": "#ff2526",
-      "description": "关于 真实犯罪・事故 的内容"
-    }
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {}
   ]
 }
