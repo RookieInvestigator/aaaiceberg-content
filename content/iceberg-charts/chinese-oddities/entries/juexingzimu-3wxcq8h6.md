@@ -2,7 +2,6 @@
 id: 3wxcq8h6
 lastUpdated: '2025-06-07'
 name: 觉醒字幕组
-aliases: []
 layer: 3
 eventDate: null
 categoryId: cat_7hqnYMGY
@@ -10,8 +9,8 @@ tagIds:
   - tag_CHDDbu9q
   - tag_pt7cyzs9
   - tag_onKpmFeH
-timelineEvents: []
-relations: []
+relations:
+  - rbqm5k2l
 titledLinks:
   - title: '链接: 觉醒字幕组'
     url: 'https://baijiahao.baidu.com/s?id=1680124291989982769'
