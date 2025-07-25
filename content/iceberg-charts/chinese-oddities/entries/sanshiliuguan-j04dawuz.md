@@ -1,15 +1,12 @@
 ---
 id: j04dawuz
-lastUpdated: '2025-06-07'
+lastUpdated: '2025-07-25'
 name: 三十六关煞
-aliases: []
 layer: 2
 eventDate: null
 categoryId: cat_uWLHUZtI
 tagIds:
   - tag_TRpfu-I4
-timelineEvents: []
-relations: []
 titledLinks:
   - title: '链接: 三十六关煞'
     url: >-
