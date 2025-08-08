@@ -1,0 +1,14 @@
+---
+id: 0623-yjn59ok5
+lastUpdated: 1754641766
+name: 地下七百米实验室捕捉「幽灵」
+layer: 3
+categoryId: cat_X3JSNomc
+tagIds:
+  - tag_RYrNofQS
+  - tag_jKWvm6pa
+nsfw: false
+relatedEntries: []
+---
+
+网传江门修建地下七百米实验室为捕捉到“幽灵”，然其实是“幽灵粒子”，即中微子，被营销号断章取义后误传。
