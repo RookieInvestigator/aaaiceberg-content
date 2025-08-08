@@ -7,11 +7,6 @@
       "url": "https://space.bilibili.com/3546556355578691"
     }
   ],
-  "collaborators": [
-    {
-      "name": "协作者 C",
-      "url": "https://collaborator-c.example.com"
-    }
-  ],
+  "collaborators": [],
   "hidden": false
 }
