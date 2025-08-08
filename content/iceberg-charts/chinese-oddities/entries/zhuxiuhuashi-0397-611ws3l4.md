@@ -1,0 +1,18 @@
+---
+id: 0397-611ws3l4
+lastUpdated: 1754633624
+name: 朱秀华事件
+aliases: []
+layer: 3
+categoryId: cat_r0rzgkOi
+tagIds: []
+nsfw: false
+parent: ""
+relatedEntries: []
+timelineEvents: []
+titledLinks:
+  - title: "相关链接: 朱秀华事件"
+    url: https://zh.wikipedia.org/wiki/%E6%9C%B1%E7%A7%80%E8%8F%AF%E4%BA%8B%E4%BB%B6
+---
+
+1959年台湾云林县麦寮乡，当地女子林罔腰声称自己是来自金门县的已故少女朱秀华，借尸还魂，随后表现出完全不同的性格和语言能力，甚至能识字和说国语。
