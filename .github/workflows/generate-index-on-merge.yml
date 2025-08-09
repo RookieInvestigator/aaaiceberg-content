@@ -9,6 +9,12 @@ jobs:
   generate-index:
     if: "contains(github.event.head_commit.message, '[skip ci]') == false"
     runs-on: ubuntu-latest
+
+    # --- ▼▼▼ 核心修改：在这里添加权限声明 ▼▼▼ ---
+    permissions:
+      contents: write
+    # --- ▲▲▲ 核心修改结束 ▲▲▲ ---
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -21,7 +27,6 @@ jobs:
 
       - name: Install Dependencies
         run: npm install
-
 
       - name: Run Generate Index Script
         run: node generate-index.js
