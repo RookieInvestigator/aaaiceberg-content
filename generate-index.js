@@ -2,18 +2,13 @@ const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
 
-// --- ▼▼▼ 核心修改：优先使用环境变量，如果不存在则回退到你的本地路径 ▼▼▼ ---
-// 这样同一个脚本既可以在你的电脑上运行，也可以在 GitHub Actions 中运行
-const contentRepoPath = process.env.CONTENT_REPO_PATH || '*/AAAICEBREG/aaaiceberg-content'; 
-// --- ▲▲▲ 核心修改结束 ▲▲▲ ---
-
+const contentRepoPath = process.env.CONTENT_REPO_PATH || 'E:/AAAICEBREG/aaaiceberg-content'; 
 const chartsPath = path.join(contentRepoPath, 'content', 'iceberg-charts');
 
 console.log('开始生成词条索引...');
 console.log(`使用内容路径: ${contentRepoPath}`);
 
 try {
-    
     const chartDirs = fs.readdirSync(chartsPath, { withFileTypes: true })
         .filter(dirent => dirent.isDirectory())
         .map(dirent => dirent.name);
@@ -41,6 +36,7 @@ try {
 
             const githubPath = path.join('content/iceberg-charts', chartId, 'entries', file).replace(/\\/g, '/');
 
+            // --- ▼▼▼ 核心修改：在索引中增加 lastUpdated 字段 ▼▼▼ ---
             indexData.push({
                 path: githubPath,
                 id: metadata.id || null,
@@ -48,7 +44,9 @@ try {
                 layer: metadata.layer || null,
                 categoryId: metadata.categoryId || null,
                 tagIds: metadata.tagIds || [],
+                lastUpdated: metadata.lastUpdated || null, // 添加此行
             });
+            // --- ▲▲▲ 核心修改结束 ▲▲▲ ---
         }
         
         fs.writeFileSync(indexPath, JSON.stringify(indexData, null, 2));

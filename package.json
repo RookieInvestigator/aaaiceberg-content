@@ -1,0 +1,15 @@
+{
+  "name": "aaaiceberg-content",
+  "version": "1.0.0",
+  "description": "新冰山图网站内容仓库",
+  "main": "generate-index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  }
+}
