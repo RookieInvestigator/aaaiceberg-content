@@ -6604,9 +6604,9 @@
     "id": "9999-gazhsisc",
     "name": "雷击木",
     "layer": 1,
-    "categoryId": null,
+    "categoryId": "cat_uWLHUZtI",
     "tagIds": [],
-    "lastUpdated": 1754757359
+    "lastUpdated": 1754757467
   },
   {
     "path": "content/iceberg-charts/chinese-oddities/entries/leijiwen-1111-gnldw74y.md",
@@ -14375,8 +14375,10 @@
     "name": "朱砂",
     "layer": 1,
     "categoryId": "cat_uWLHUZtI",
-    "tagIds": [],
-    "lastUpdated": 1754729661
+    "tagIds": [
+      "tag_dE92ppTk"
+    ],
+    "lastUpdated": 1754757603
   },
   {
     "path": "content/iceberg-charts/chinese-oddities/entries/zhushujinian-0332-w8fkcvw6.md",
