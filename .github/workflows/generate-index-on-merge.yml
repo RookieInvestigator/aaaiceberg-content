@@ -1,0 +1,61 @@
+name: Generate Index on Merge
+
+# 触发器：当有代码 push 到 main 分支时触发此流程。
+# (PR 合并到 main 分支本质上也是一次 push 事件)
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-index:
+    # 如果是由此 Action 自身产生的提交，则不要再次触发，防止无限循环
+    if: "contains(github.event.head_commit.message, '[skip ci]') == false"
+
+    # 运行环境使用最新的 Ubuntu 系统
+    runs-on: ubuntu-latest
+
+    # 定义此任务的步骤
+    steps:
+      # 第一步：检出仓库代码
+      # 使用 actions/checkout 来获取你的仓库代码
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 第二步：设置 Node.js 环境
+      # 因为我们的脚本是 Node.js 脚本，所以需要 Node 环境
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # 指定 Node.js 版本
+          cache: 'npm'       # 缓存 npm 依赖，加快后续运行速度
+
+      # 第三步：安装脚本依赖
+      # 安装 generate-index.js 脚本需要的 gray-matter 包
+      - name: Install Dependencies
+        run: npm install gray-matter
+
+      # 第四步：运行索引生成脚本
+      # 我们需要修改脚本，使其能从 Action 的环境中找到正确的路径
+      # 注意：这里我们假设 generate-index.js 存放在仓库的根目录
+      - name: Run Generate Index Script
+        run: node generate-index.js
+        # 为脚本设置环境变量，这样它就不再需要硬编码的本地路径
+        env:
+          CONTENT_REPO_PATH: ${{ github.workspace }}
+
+      # 第五步：自动提交变更
+      # 使用一个现成的 Action 来检查是否有文件变动（即 entries-index.json 是否被更新）
+      # 如果有，则自动将这些变动提交回 main 分支
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          # 提交信息
+          commit_message: "chore: 自动更新词条索引 [skip ci]"
+          # 需要提交的文件，这里指定所有 chart 下的 index 文件
+          file_pattern: 'content/iceberg-charts/*/entries-index.json'
+          # 提交的用户信息
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "github-actions@github.com"
+          # 如果没有文件变动，则跳过此步骤
+          skip_dirty_check: false
