@@ -65,6 +65,7 @@ try {
             // ▼▼▼ 這是新增的功能 ▼▼▼
             fullData.push({
                 ...metadata,   // 包含所有元數據
+                fileName: file,
                 body: content  // 包含完整的 Markdown 內容
             });
             // ▲▲▲ 新增功能結束 ▲▲▲
