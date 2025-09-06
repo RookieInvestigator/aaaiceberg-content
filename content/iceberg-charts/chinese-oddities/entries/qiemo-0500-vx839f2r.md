@@ -1,0 +1,18 @@
+---
+id: 0500-vx839f2r
+lastUpdated: 1757167352
+name: 「切莫」
+aliases: []
+layer: 3
+categoryId: cat_ZX_twUO_
+tagIds: []
+nsfw: false
+parent: ""
+relatedEntries: []
+timelineEvents: []
+titledLinks:
+  - title: "相关链接: 「切莫」"
+    url: https://zhuanlan.zhihu.com/p/524372975
+---
+
+藏语中的「野人」，传说生活在冈仁波齐峰。1996年，中韩登山队在攀登冈仁波齐峰时，中方总队长发现了一串奇怪的脚印，并拍下了照片，这些脚印被认为是「切莫」的。冈仁波齐峰本身也被传说怪谈笼罩着。
