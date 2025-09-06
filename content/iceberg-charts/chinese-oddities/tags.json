@@ -309,13 +309,6 @@
       "color": "#95a5a6"
     },
     {
-      "id": "tag_hpBS6vw9",
-      "name": "新纪元运动・市场灵性",
-      "description": "关于 新纪元运动・市场灵性 的标签。",
-      "emoji": "🪩",
-      "color": "#95a5a6"
-    },
-    {
       "id": "tag_qCKVuN5k",
       "name": "类民俗",
       "description": "关于 类民俗 的标签。",
@@ -358,13 +351,6 @@
       "color": "#95a5a6"
     },
     {
-      "id": "tag_EOwgY-cg",
-      "name": "法教・巫觋宗教・民间法术信仰",
-      "description": "关于 法教・巫觋宗教・民间法术信仰 的标签。",
-      "emoji": "🤲",
-      "color": "#95a5a6"
-    },
-    {
       "id": "tag_e2OdFO-v",
       "name": "诅咒",
       "description": "关于 诅咒 的标签。",
@@ -391,6 +377,34 @@
       "description": "关于 考古・文物 的标签。",
       "emoji": "🏺",
       "color": "#95a5a6"
+    },
+    {
+      "id": "tag_yEEL0_kW",
+      "name": "法教・巫觋宗教・民间信仰",
+      "emoji": "🤲",
+      "color": "#95a5a6",
+      "description": "关于 法教・巫觋宗教・民间信仰 的标签。"
+    },
+    {
+      "id": "tag_Mt90EkB7",
+      "name": "虚构成真・自证预言",
+      "emoji": "🔄",
+      "color": "#95a5a6",
+      "description": "关于 虚构成真・自证预言 的标签。"
+    },
+    {
+      "id": "tag_B3mwVzu-",
+      "name": "新思维运动・新纪元・市场灵性",
+      "emoji": "🪩",
+      "color": "#95a5a6",
+      "description": "关于 新思维运动・新纪元・市场灵性 的标签。"
+    },
+    {
+      "id": "tag_f6njtKDa",
+      "name": "亚伯拉罕诸教・在华基督教派",
+      "emoji": "✝️",
+      "color": "#95a5a6",
+      "description": "关于 亚伯拉罕诸教・在华基督教派 的标签。"
     }
   ]
 }
