@@ -52,6 +52,7 @@ try {
                 path: githubPath,
                 id: metadata.id || null,
                 name: metadata.name || file,
+                order: metadata.order || 0,
                 layer: metadata.layer || null,
                 categoryId: metadata.categoryId || null,
                 tagIds: metadata.tagIds || [],
