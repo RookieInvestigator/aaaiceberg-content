@@ -1,0 +1,18 @@
+---
+id: 431d0xdg
+order: 995
+name: 林中镜阵
+layer: 5
+categoryId: cat_ko7DBA6N
+tagIds:
+  - tag_jKWvm6pa
+aliases: []
+titledLinks: []
+parent: ""
+relatedEntries: []
+timelineEvents: []
+nsfw: false
+lastUpdated: 1758087125
+---
+
+一种旅游景点官方在林中设立的艺术装置，通常是把几面镜子以特定的结构置入林中，一个例子是杭州灵山幻境的四面魔镜，分别象征贪、嗔、痴与情魔。有时这种装置艺术品会在山林较深的地方，被不明真相的游客认为是「六合阵」或类似于护林员怪谈「林中阶梯」一类东西。

@@ -1,0 +1,19 @@
+---
+id: 86t6yese
+order: 672
+name: 米兰便利店
+layer: 4
+categoryId: cat_9yUWRRAg
+tagIds: []
+aliases: []
+titledLinks:
+  - title: "相关链接: 米兰便利店"
+    url: https://tieba.baidu.com/p/5186019690
+parent: ""
+relatedEntries: []
+timelineEvents: []
+nsfw: false
+lastUpdated: 1758087125
+---
+
+原位于天津市芥园道与复兴路交口的便利超市，曾用名为「米兰超市」，后更名为「米兰便利店」，目前已被邻近商铺收购。2012年某本地微博指出该店附近“有骑摩托的哈密瓜，前后两人，贼眉鼠眼”。2015年百度贴吧一篇贴子指出该店存在高价强买强卖过期货物现象。2016年天涯一篇帖子指出，该店氛围诡异、商品劣质，且老板娘举动怪异，甚至用冥币找钱，被认为是给死人开的店。直到2022年该店被周边店铺收购，老板夫妇去向不明。

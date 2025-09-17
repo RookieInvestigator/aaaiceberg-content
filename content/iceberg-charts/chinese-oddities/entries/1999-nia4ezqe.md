@@ -1,0 +1,22 @@
+---
+id: nia4ezqe
+order: 916
+name: 《1999年5月8日A号》
+layer: 5
+categoryId: cat_MXtv05QF
+tagIds:
+  - tag_fC14-UDS
+  - tag_fRp-FvBe
+  - tag_jKWvm6pa
+aliases: []
+titledLinks:
+  - title: "相关链接: 《1999年5月8日A号》"
+    url: https://www.artda.cn/yishujiakuguonei-c-5991.html
+parent: ""
+relatedEntries: []
+timelineEvents: []
+nsfw: false
+lastUpdated: 1758087125
+---
+
+中国现代艺术家朱冥在北京市中山公园进行行为艺术创作《1999年5月8日A号》时拍摄的照片。该图片在一些网站上被收录进一份伪造的「暗网流出图片集」中，且被附上描述「被称谓蛇妖的女人被放出来游街示众」等解说词。
