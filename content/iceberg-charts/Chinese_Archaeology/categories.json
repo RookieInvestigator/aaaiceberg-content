@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": "cat_vvuuogew",
+      "name": "文物/遗迹/考古发现",
+      "color": "#3498db",
+      "description": "关于 文物/遗迹/考古发现 的分类。"
+    },
+    {
+      "id": "cat_k1qetrnq",
+      "name": "被盗/散佚/仅见于历史文献",
+      "color": "#3498db",
+      "description": "关于 被盗/散佚/仅见于历史文献 的分类。"
+    },
+    {
+      "id": "cat_o754jo65",
+      "name": "传说/虚构",
+      "color": "#3498db",
+      "description": "关于 传说/虚构 的分类。"
+    },
+    {
+      "id": "cat_43gfmvs2",
+      "name": "概念/理论/假说",
+      "color": "#3498db",
+      "description": "关于 概念/理论/假说 的分类。"
+    },
+    {
+      "id": "cat_rdpxgw66",
+      "name": "骗局/伪造品/有争议",
+      "color": "#3498db",
+      "description": "关于 骗局/伪造品/有争议 的分类。"
+    },
+    {
+      "id": "cat_hdie2opt",
+      "name": "古生物学/地质学",
+      "color": "#3498db",
+      "description": "关于 古生物学/地质学 的分类。"
+    }
+  ]
+}

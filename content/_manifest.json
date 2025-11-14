@@ -3,7 +3,22 @@
     {
       "id": "chinese-oddities",
       "title": "中文兔子洞冰山图",
-      "description": "是一张冰山图。"
+      "description": "我是一张冰山图。"
+    },
+    {
+      "id": "World_Archaeology_CN",
+      "title": "世界考古学冰山图",
+      "description": "这是关于 世界考古学 的冰山图。"
+    },
+    {
+      "id": "Chinese_Archaeology",
+      "title": "中国考古学冰山图",
+      "description": "这是关于 中国考古学 的冰山图。"
+    },
+    {
+      "id": "Japanese_and_Korean_Rabbit_Hole",
+      "title": "日韩兔子洞冰山图",
+      "description": "这是关于 日韩兔子洞 的冰山图。"
     }
   ]
 }
