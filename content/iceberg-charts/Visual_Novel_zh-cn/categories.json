@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "id": "cat_zt7yjree",
+      "name": "商业游戏",
+      "color": "#ffffff",
+      "description": "关于 商业游戏 的分类。"
+    },
+    {
+      "id": "cat_qlsz5pw8",
+      "name": "同人游戏",
+      "color": "#feb4f4",
+      "description": "关于 同人游戏 的分类。"
+    },
+    {
+      "id": "cat_lybffk4t",
+      "name": "独立游戏",
+      "color": "#bfffa3",
+      "description": "关于 独立游戏 的分类。"
+    },
+    {
+      "id": "cat_ccxahoeo",
+      "name": "互动冒险・点击取向・键入互动・另类定义的VN",
+      "color": "#b99bbf",
+      "description": "关于 互动冒险・点击取向・键入互动・另类定义的VN 的分类。"
+    },
+    {
+      "id": "cat_vucu2z1w",
+      "name": "系统・程序・机制",
+      "color": "#4d88ff",
+      "description": "关于 系统・程序・机制 的分类。"
+    },
+    {
+      "id": "cat_ot7f32py",
+      "name": "流派・文体・叙事与演出",
+      "color": "#90caee",
+      "description": "关于 流派・文体・叙事与演出 的分类。"
+    },
+    {
+      "id": "cat_x44lrg7e",
+      "name": "考察・杂学・概念・作品内的理论・另类解读",
+      "color": "#2ba18d",
+      "description": "关于 考察・杂学・概念・作品内的理论・另类解读 的分类。"
+    },
+    {
+      "id": "cat_l91gxn44",
+      "name": "名场面・梗",
+      "color": "#fdff80",
+      "description": "关于 名场面・梗 的分类。"
+    },
+    {
+      "id": "cat_fxs6e9jt",
+      "name": "历史事件・社群内容",
+      "color": "#fe8181",
+      "description": "关于 历史事件・社群内容 的分类。"
+    },
+    {
+      "id": "cat_1c9gwpln",
+      "name": "虚构或存在性有争议的VN",
+      "color": "#636363",
+      "description": "关于 虚构或存在性有争议的VN 的分类。"
+    },
+    {
+      "id": "cat_46i809hb",
+      "name": "现实阴谋论",
+      "color": "#7766cc",
+      "description": "关于 现实阴谋论 的分类。"
+    }
+  ]
+}
