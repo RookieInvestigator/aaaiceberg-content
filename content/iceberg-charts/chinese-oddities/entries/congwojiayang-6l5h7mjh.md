@@ -1,6 +1,6 @@
 ---
 id: 6l5h7mjh
-order: 267
+order: 269
 name: 《从我家阳台看出去的对面那家...》
 layer: 2
 categoryId: cat_X3JSNomc
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 2007年在天涯论坛上发布的一篇著名帖子。楼主描述了对面阳台的诡异情景：一栋旧楼从未亮过灯，某天突然绑上了两个黑色塑料袋，引发了网友们的各种猜测和讨论。后楼主经人陪同探明真相，是有居民在房间内搞发明。

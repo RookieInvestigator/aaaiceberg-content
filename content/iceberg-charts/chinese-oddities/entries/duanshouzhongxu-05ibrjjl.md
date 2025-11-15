@@ -1,6 +1,6 @@
 ---
 id: 05ibrjjl
-order: 1110
+order: 1145
 name: 断首重续
 layer: 6
 categoryId: cat_OfFSSbRb
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 《聊斋志异》中出现的几个断首、换头故事，如《陆判》。这一母题可追溯到古代的开肠破肚重生表演与佛经故事中的「断头剖腹」幻术。学界认为蒲松龄借用了这些古代传说，并试图将之融合进虐食、酷刑等民俗传统记忆母题中。

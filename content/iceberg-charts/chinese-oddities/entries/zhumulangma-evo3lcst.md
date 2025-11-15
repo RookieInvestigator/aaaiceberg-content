@@ -1,6 +1,6 @@
 ---
 id: evo3lcst
-order: 918
+order: 947
 name: 珠穆朗玛峰被锯掉的1.86米
 layer: 5
 categoryId: cat_MXtv05QF
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 2005年，艺术家徐震宣称其团队登顶珠峰并锯下峰顶处约1.86米高的岩石。被认为是对新闻媒体或真相的挑衅式戏仿。

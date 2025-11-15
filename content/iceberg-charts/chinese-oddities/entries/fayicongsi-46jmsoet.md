@@ -1,6 +1,6 @@
 ---
 id: 46jmsoet
-order: 458
+order: 465
 name: 法医从死者电脑中回收的自缚教程
 layer: 3
 categoryId: cat_1wmCydV7
@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 出自2017年一篇名为『非典型青少年性窒息死亡1例』的论文。该文记录了一起青少年尝试自缚及性窒息，最终导致死亡的案件。在文中提到：「从其家中两台电脑及2个移动硬盘中, ……，有『捆绑』、『自缚』等搜索记录, 捆绑教程动漫图片数张 , 其手法与死者捆绑方式吻合。」

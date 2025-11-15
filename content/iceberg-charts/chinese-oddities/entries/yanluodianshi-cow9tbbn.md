@@ -1,6 +1,6 @@
 ---
 id: cow9tbbn
-order: 756
+order: 778
 name: 阎罗点视劫鬼・收魂渡船・生魂带索・黄河巨手
 layer: 4
 categoryId: cat_OfFSSbRb
@@ -13,6 +13,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

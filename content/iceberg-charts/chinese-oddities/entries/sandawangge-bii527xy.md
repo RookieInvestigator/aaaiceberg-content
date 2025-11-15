@@ -1,6 +1,6 @@
 ---
 id: bii527xy
-order: 743
+order: 765
 name: 散打王格日乐图失踪案
 layer: 4
 categoryId: cat_1wmCydV7
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 格日乐图曾被视作中国散打圈的希望，生涯获奖无数，敢打敢拼的风格也为他赢得了大量的粉丝。在退役后，格日乐图回到内蒙古担任散打队教练，然而2009年的某一天，格日乐图突然人间蒸发，散打圈好友多次寻找，依旧未找到其下落。

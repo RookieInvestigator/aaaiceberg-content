@@ -1,6 +1,6 @@
 ---
 id: 8uk7xydd
-order: 1208
+order: 1245
 name: 土想森林
 layer: 7
 categoryId: cat_p6yJicbx
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 何建桐创立的神秘学体系，内容复杂，算法繁多，或为中文圈毕达哥拉斯主义、神圣几何领域的最高点。特征是博文中附带了极大量的图片、立体模型等信息。

@@ -1,6 +1,6 @@
 ---
 id: yh0pgw08
-order: 808
+order: 830
 name: 李嗣涔与挠场
 layer: 4
 categoryId: cat_p6yJicbx
@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 台湾半导体领域的物理学教授，1987年应国科会陈履安之邀，投入气功与脑波研究，其后开始研究手指识字现象。2004年起，李嗣涔开始把气功、特异功能与信息场的研究整合起来，认为「信息场」这一假说类似于俄国人所描述过的「挠场」。挠场是一种假设的物理现象，认为粒子的量子自旋可以在量子自旋下辐射传递讯息，以比光速更快的速度传递资讯。

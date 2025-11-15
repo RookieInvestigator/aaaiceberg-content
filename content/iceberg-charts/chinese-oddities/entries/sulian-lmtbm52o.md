@@ -1,6 +1,6 @@
 ---
 id: lmtbm52o
-order: 632
+order: 638
 name: 苏丽案
 layer: 3
 categoryId: cat_r0rzgkOi
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 1990年代初青海西宁一名母亲将亲生女儿虐待致死的案件，手法极为残忍，被判有期徒刑7年。该案件最初登载于《中国青年》杂志1993年第7期的一篇文章，由于真实性存疑，无法确定是否为真实案件，后续还传出了母亲出狱后扒开苏丽坟墓的传言。

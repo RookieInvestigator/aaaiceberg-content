@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 民俗信仰中的一种通灵的特异功能，能看见鬼魂和妖怪。开启阴阳眼的方法也很多，如牛眼泪抹眼，鸡血抹眼，柳叶沾水抹眼等，但请不要模仿，以防眼部感染。

@@ -1,6 +1,6 @@
 ---
 id: hg8i370c
-order: 663
+order: 685
 name: 上三楼亲戚家穿入平行时空
 layer: 4
 categoryId: cat_X3JSNomc
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一个诡异的时间线异常故事，作者误入氛围怪诞的平行时空，氛围营造十分恐怖。很长很长时间内被知乎上的人当成是真的。作者施眠药似乎是个职业写手，相当擅长写作短篇的怪奇和恐怖小说，因此这个故事大概率是创意写作。虽然他本人并未出面澄清这一点。

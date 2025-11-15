@@ -1,6 +1,6 @@
 ---
 id: o6coonq9
-order: 473
+order: 480
 name: 斩赤龙
 layer: 3
 categoryId: cat_uWLHUZtI
@@ -13,6 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
+全真教北宗清修派内丹修炼功法。

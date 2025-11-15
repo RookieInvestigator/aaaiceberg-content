@@ -1,6 +1,6 @@
 ---
 id: whr35cck
-order: 398
+order: 405
 name: 广东少年9天化尸案
 layer: 3
 categoryId: cat_1wmCydV7
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 2008年，广东黄埔石化中学学生周小龙失踪，九天后被发现时他的尸体只剩下骨架，皮肤、肌肉和器官全部消失。法医无法解释尸体快速腐化的原因，最终确定凶手是其同父异母兄弟周虎。案件告破，但尸体腐化之谜仍未解。

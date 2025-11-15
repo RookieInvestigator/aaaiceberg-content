@@ -1,6 +1,6 @@
 ---
 id: bvwtsrqc
-order: 539
+order: 546
 name: 《中国食人史料钞》
 layer: 3
 categoryId: cat_8abY-bU7
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 岁大饥，人相食。

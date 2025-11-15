@@ -1,6 +1,6 @@
 ---
 id: 2hirxeph
-order: 1105
+order: 1140
 name: 「经多方核实，该地名不存在」
 layer: 6
 categoryId: cat_X3JSNomc
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 在百度百科上搜索「经多方核实，该地名不存在」，会出现一些匪夷所思的地名百科词条。经多方核实，这些词条是编辑者笔误所致，应为「该地名已撤销」。

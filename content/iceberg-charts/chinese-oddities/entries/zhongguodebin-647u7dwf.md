@@ -1,6 +1,6 @@
 ---
 id: 647u7dwf
-order: 157
+order: 159
 name: 中国的殡葬民俗
 layer: 2
 categoryId: cat_uWLHUZtI
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 搜索：天葬、树葬、花葬、二次葬-拾骨葬、腹葬、悬棺、厝棺。

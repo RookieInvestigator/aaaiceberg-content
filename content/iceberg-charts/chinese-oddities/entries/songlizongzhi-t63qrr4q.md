@@ -1,6 +1,6 @@
 ---
 id: t63qrr4q
-order: 526
+order: 533
 name: 宋理宗之颅
 layer: 3
 categoryId: cat_8abY-bU7
@@ -15,6 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
+宋理宗赵昀，死后陵墓遭盗掘。其头颅更被妖僧杨涟真迦锯下，制成酒器。

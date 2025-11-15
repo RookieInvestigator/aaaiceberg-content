@@ -1,12 +1,12 @@
 ---
 id: gj90nq9y
-order: 490
+order: 497
 name: 广义的中华未来主义流行艺术家（陆扬・陆明龙・黄河山）
 layer: 3
 categoryId: cat_MXtv05QF
 tagIds:
   - tag_6rVsgwwC
-  - tag_tJI1f5th
+  - tag_qmx35q95
   - tag_RYrNofQS
   - tag_I0IT7RYe
   - tag_845zMOEe
@@ -19,6 +19,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

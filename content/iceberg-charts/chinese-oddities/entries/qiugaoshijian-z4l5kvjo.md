@@ -1,6 +1,6 @@
 ---
 id: z4l5kvjo
-order: 706
+order: 728
 name: 邱高事件
 layer: 4
 categoryId: cat_r0rzgkOi
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 1972年8月，台湾地区的东海大学毕业生邱高与两名同学登上奇莱山，后来失联12天，三人至今没有被找到，生死不明。

@@ -1,6 +1,6 @@
 ---
 id: t5vq6hg3
-order: 1125
+order: 1160
 name: 四川雅安猎杀大熊猫案
 layer: 6
 categoryId: cat_1wmCydV7
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 2004年，四川雅安一个名为「甘老头」的犯罪者虚构了一个不存在的大熊猫皮黑市，用假熊猫皮为诱饵，不断物色盗猎者下线猎杀真的大熊猫。后被发现其真实身份是警方线人甘海龙，一切都是他策划的钓鱼行为。案件被曝光之后，国家林业局快速介入此案，此后甘海龙人间蒸发，一说被警方逮捕，另一说逃亡海外。

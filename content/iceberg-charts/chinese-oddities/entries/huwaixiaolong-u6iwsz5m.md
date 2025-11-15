@@ -1,6 +1,6 @@
 ---
 id: u6iwsz5m
-order: 252
+order: 254
 name: 户外小龙
 layer: 2
 categoryId: cat_X3JSNomc
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一位在千度平台进行了多年直播的探灵类主播，其直播时常会出现大量突出的灵动、显灵等超自然现象，对于其直播时出现的超自然现象众说纷纭，大部分人认为这是高技术力的特技团队所为，其本人为了规避平台审核等，也一直在强调这是在「带老铁们拍微电影」，在观众间形成了一种伪纪录片爱好者的群体共识。尽管如此，仍有部分人认为其直播出现的超自然现象存在真实性。

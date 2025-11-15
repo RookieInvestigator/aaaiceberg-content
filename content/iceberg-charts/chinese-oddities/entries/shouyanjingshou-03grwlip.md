@@ -1,6 +1,6 @@
 ---
 id: 03grwlip
-order: 792
+order: 814
 name: 收眼睛收蛊
 layer: 4
 categoryId: cat_ko7DBA6N
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 出现于街头小广告的文字，实际为用熟鸡蛋按摩眼睛和捕捉蛊虫的民间巫术。

@@ -1,6 +1,6 @@
 ---
 id: 99hveb2l
-order: 1219
+order: 1256
 name: 天学文字和西夏文的关系
 layer: 7
 categoryId: cat_uWLHUZtI
@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 明治初期存在的神道新兴宗教「天学教」使用的文字，该教派似乎是以日本太阳女神天照大神为中心的一神教。教团的几本经典均由不存在的汉字写就，结构类似于契丹小字或西夏文，其中的「セカい」和西夏文的「七」一样，「神」和西夏文的「佛」一样，未知这些幽灵汉字在通神状态写就还是刻意编造的，和西夏文的秘密联系也是一个谜团。

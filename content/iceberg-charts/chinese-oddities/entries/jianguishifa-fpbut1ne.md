@@ -1,6 +1,6 @@
 ---
 id: fpbut1ne
-order: 145
+order: 147
 name: 见鬼十法
 layer: 2
 categoryId: cat_X3JSNomc
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 网络上流传的灵异游戏列表，名字常常是「民间十大见鬼方法」等，其中某些版本出自恐怖电影《见鬼十法》，也有一些版本是东西方民俗学禁忌、神秘学与都市传说的混合物。

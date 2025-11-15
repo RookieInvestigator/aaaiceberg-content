@@ -1,6 +1,6 @@
 ---
 id: glrjdgzu
-order: 271
+order: 273
 name: 「天津大麻花」阴谋论
 layer: 2
 categoryId: cat_7hqnYMGY
@@ -18,7 +18,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 出现于各地的「天津大麻花」店铺，因为分布广泛，因此产生了诸多阴谋论，如间谍活动、拐卖小孩、测绘活动等，但实际上大部分「天津大麻花」产自安徽阜阳颍上县的黄坝乡。由于黄坝乡地势低洼，洪涝灾害频发，村民们通过制作和销售麻花来谋生，这些商贩只是受灾的灾民为了生计而四处奔波。

@@ -1,6 +1,6 @@
 ---
 id: a66px1gn
-order: 1250
+order: 1292
 name: 东汉质数多头人
 layer: 8
 categoryId: cat_MXtv05QF
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 「多头神人图」是一组汉砖上的图案形象。从左至右依次具有3、7、5、2个头，并列端坐在一起。可能是战国时期楚地民间信仰（时令神）在后汉的残存/延续。有理论认为是《山海经》中的「骄虫」形象及其衍生形象，排列源于古人对植物花序形象的模仿。类似的形象也存在于世界各地。

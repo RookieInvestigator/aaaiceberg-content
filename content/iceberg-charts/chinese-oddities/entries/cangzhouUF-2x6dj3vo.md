@@ -1,6 +1,6 @@
 ---
 id: 2x6dj3vo
-order: 413
+order: 420
 name: 沧州UFO
 layer: 3
 categoryId: cat_r0rzgkOi
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 1998年10月19日晚，河北沧州空军基地上空出现UFO目击。当晚11时30分，雷达发现一个飞行实体在机场上空移动，并迅速向东北方向飞去。两架歼教六战机紧急升空追击，但无法接近该飞行物。飞行员描述该物体呈圆形，顶部弧形，底部平坦，周围有一排灯光。

@@ -1,6 +1,6 @@
 ---
 id: 9xqwazct
-order: 457
+order: 464
 name: 千疑千寻
 layer: 3
 categoryId: cat_uWLHUZtI
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 经常出现在一些网站的弹窗广告，但因为配有一些令人疑惑的文字和图片容易吓到人，实际上只是传播基督教的广告。该组织的广告种类繁多，至今没有被调查员全部收集。

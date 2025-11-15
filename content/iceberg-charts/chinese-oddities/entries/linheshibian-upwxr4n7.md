@@ -1,6 +1,6 @@
 ---
 id: upwxr4n7
-order: 729
+order: 751
 name: 蔺河尸变
 layer: 4
 categoryId: cat_X3JSNomc
@@ -16,6 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
+2016年在互联网传播的一男子死后坐起疑似尸变的图片，被悬疑作家法医秦明辟谣，真相是坐姿缢死。

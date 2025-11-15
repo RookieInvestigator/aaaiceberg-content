@@ -1,6 +1,6 @@
 ---
 id: qhsfbj56
-order: 340
+order: 342
 name: 兕
 layer: 2
 categoryId: cat_8abY-bU7
@@ -14,6 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
+中国古代文献记载的独角动物，外形类似犀牛。一种观点认为兕即是圣水牛。

@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 喜马拉雅山脉中一个流传已久的神秘生物目击传说。通常被描述为一种类似于人类和猿类之间的生物，身高从1.5米到4.6米不等，全身覆盖着褐色或白色的毛发。

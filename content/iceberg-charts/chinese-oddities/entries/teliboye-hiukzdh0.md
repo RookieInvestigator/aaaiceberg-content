@@ -1,6 +1,6 @@
 ---
 id: hiukzdh0
-order: 1156
+order: 1191
 name: 特里波耶太极图
 layer: 6
 categoryId: cat_8abY-bU7
@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 欧洲特里波耶文化中出现的双蛇螺旋图案，与我国的太极图案极其相似。

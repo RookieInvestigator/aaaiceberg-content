@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 关于徐福的历史谜案，有几种主要的阴谋论和史学假说，如成仙说、移民日韩说、政治避难说、深入美洲说等等。日本韩国本地都有拥护者组成的阴谋论组织。更深的兔子洞请搜索：明石散人。

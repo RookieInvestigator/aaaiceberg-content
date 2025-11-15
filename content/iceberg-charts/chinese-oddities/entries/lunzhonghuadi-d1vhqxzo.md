@@ -1,6 +1,6 @@
 ---
 id: d1vhqxzo
-order: 1164
+order: 1199
 name: 《论中华帝国之语言可能即为原初语言之历史论文》
 layer: 6
 categoryId: cat_p6yJicbx
@@ -16,6 +16,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

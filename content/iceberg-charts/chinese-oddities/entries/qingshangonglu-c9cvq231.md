@@ -1,6 +1,6 @@
 ---
 id: c9cvq231
-order: 397
+order: 404
 name: 青山公路快相鬼
 layer: 3
 categoryId: cat_r0rzgkOi
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 1993年香港的一起著名灵异事件。当时，新界交通警在青山公路沙仓段设置了测速相机，拍摄到一张照片，照片中除了超速车辆外，还出现了一名老妇的身影。据传，这名老妇在几天前的车祸中丧生。

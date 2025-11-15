@@ -1,6 +1,6 @@
 ---
 id: 94n0lhqy
-order: 812
+order: 834
 name: 柳枝接骨术
 layer: 4
 categoryId: cat_p6yJicbx
@@ -16,6 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
+中医传统骨伤疗法，利用柳树枝的特性做成夹板，辅助骨骼复位。现在柳枝已被更好的材料替代。

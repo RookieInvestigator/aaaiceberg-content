@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 指为已死之人寻找配偶的习俗，本意是男女死后结成婚姻，后又衍生出生者与死者结成配偶的情况，是中国民俗文化中一种独特的婚姻形式。冥婚习俗最早可追溯到商周时期，自唐宋之后又风靡中国各地，至今仍然存在。

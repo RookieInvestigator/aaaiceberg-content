@@ -1,6 +1,6 @@
 ---
 id: 4p0tm603
-order: 171
+order: 173
 name: 伏羲女娲DNA尺规
 layer: 2
 categoryId: cat_7hqnYMGY
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 古代绢画，描绘了伏羲和女娲。画中，伏羲和女娲人首蛇身，尾部交缠成双螺旋状，伏羲手持矩，女娲手持规。 这种图案在新疆吐鲁番的阿斯塔纳古墓中多次出土。一些阴谋论者认为这种双螺旋的形象表现了DNA或是共济会的标志。

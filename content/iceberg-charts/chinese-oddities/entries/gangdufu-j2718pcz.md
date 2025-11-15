@@ -1,6 +1,6 @@
 ---
 id: j2718pcz
-order: 227
+order: 229
 name: 港督府
 layer: 2
 categoryId: cat_9yUWRRAg
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 中环地区的风水大战。贝聿铭设计的中银大楼将煞气转至港督府，导致多任港督任内暴毙。

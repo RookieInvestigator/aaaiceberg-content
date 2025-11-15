@@ -1,6 +1,6 @@
 ---
 id: ds5ugqwg
-order: 912
+order: 941
 name: 《尸水浴人》
 layer: 5
 categoryId: cat_X3JSNomc
@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 最早可追溯到2006年的传说，提及一部失传电影《尸水浴人》。2009年起，恐怖电影吧的用户开始提及这部电影相关的信息，据传内容非常黑暗，导致观众自杀等。该电影自此经常被列在最恐怖电影榜单的首位，但存在性一直没有得到证实。

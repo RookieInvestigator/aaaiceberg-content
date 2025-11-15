@@ -1,6 +1,6 @@
 ---
 id: wwmsx0af
-order: 385
+order: 387
 name: 天津火柴人
 layer: 2
 categoryId: cat_X3JSNomc
@@ -18,7 +18,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 约2015年，中文互联网流传若干视频，称天津街头巷尾出现形似火柴人的恐怖生物，四肢修长、比例失衡，且常接近儿童，每次出现均伴有儿童神秘失踪之说。部分版本称事发地是其他省市。经网友调查，相关视频实为俄罗斯网友制作的特效作品，设定源于欧美都市传说「瘦长鬼影」。

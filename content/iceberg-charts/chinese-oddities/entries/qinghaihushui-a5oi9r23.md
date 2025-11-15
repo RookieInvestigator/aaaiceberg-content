@@ -1,6 +1,6 @@
 ---
 id: a5oi9r23
-order: 149
+order: 151
 name: 青海湖水怪
 layer: 2
 categoryId: cat_ZX_twUO_
@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 青海湖中出现的神秘生物，最早目击记录在1955年。目击者描述它们通常为黑色或黑黄色，长度约10多米。尽管有多次目击记录，水怪的真实身份仍未得到科学验证。

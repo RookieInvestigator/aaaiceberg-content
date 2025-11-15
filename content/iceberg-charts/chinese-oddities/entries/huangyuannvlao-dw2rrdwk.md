@@ -1,6 +1,6 @@
 ---
 id: dw2rrdwk
-order: 752
+order: 774
 name: 湟源女老师
 layer: 4
 categoryId: cat_r0rzgkOi
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 青海都市传说，讲述一位支教的女老师因辫子被车勾住拖行而死，死后化作怨灵制造灵异现象和交通事故。最终群众用水泥将其墓穴浇筑葬于烈士陵园后方才平息。

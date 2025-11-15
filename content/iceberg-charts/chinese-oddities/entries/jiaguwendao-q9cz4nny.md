@@ -1,6 +1,6 @@
 ---
 id: q9cz4nny
-order: 951
+order: 980
 name: 甲骨文道德经做芯片
 layer: 5
 categoryId: cat_7hqnYMGY
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 大部分论证都是伪史论常见的那种，但这个系列的特点是真的很多，一直在更新各种数理领域的甲骨文版本……说不定他真的想做芯片。

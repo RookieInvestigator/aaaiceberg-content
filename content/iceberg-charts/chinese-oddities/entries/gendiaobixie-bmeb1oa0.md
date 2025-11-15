@@ -1,6 +1,6 @@
 ---
 id: bmeb1oa0
-order: 574
+order: 581
 name: 根雕辟邪
 layer: 3
 categoryId: cat_uWLHUZtI
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 迄今为止考古年代发现最早的根雕艺术品，虎头龙身且不对称。是根雕艺术的鼻祖。收藏于荆州博物馆。

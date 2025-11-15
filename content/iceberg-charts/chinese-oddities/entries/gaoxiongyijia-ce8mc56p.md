@@ -1,6 +1,6 @@
 ---
 id: ce8mc56p
-order: 721
+order: 743
 name: 高雄一家六人中邪
 layer: 4
 categoryId: cat_1wmCydV7
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 2005年高雄市鼓山区发生的命案。吴姓一家六口因深信鬼神之说，认为大女儿吴静被邪灵附体，全家人相继「起乩」，自称被神灵附身。他们通过互殴、灼烧、喂食排泄物等极端手段试图驱邪。最终，大女儿因长期虐待和饥饿导致器官衰竭死亡。

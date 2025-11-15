@@ -1,6 +1,6 @@
 ---
 id: 2anhe7rk
-order: 277
+order: 279
 name: 成都僵尸
 layer: 2
 categoryId: cat_r0rzgkOi
@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 传说考古队在武侯祠附近挖掘出三具清朝古尸，这些古尸随后神秘失踪。几天后，传言称成都出现了五具僵尸，见人就咬，造成了极大的恐慌，甚至政府出动军队，用火焰喷射器消灭了这些僵尸。官方后来辟谣称，这些传言是由于狂犬病引发的恐慌所致。

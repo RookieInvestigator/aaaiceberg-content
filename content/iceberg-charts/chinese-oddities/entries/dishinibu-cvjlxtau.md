@@ -1,6 +1,6 @@
 ---
 id: cvjlxtau
-order: 1072
+order: 1099
 name: 《迪士尼不是乐园》
 layer: 5
 categoryId: cat_MXtv05QF
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一本封面和标题富有怪核气息的书，由叶荫聪和施鹏翔创作于1999年。其实该书内容主要是在批判资本主义霸权。

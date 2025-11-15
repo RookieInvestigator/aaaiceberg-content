@@ -1,6 +1,6 @@
 ---
 id: 4xxhz8ri
-order: 732
+order: 754
 name: 梦见金陵御花园灭门案
 layer: 4
 categoryId: cat_X3JSNomc
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 知乎作者JOKERX的做梦经历，睡觉时因梦见了凶杀案全程而惊醒，醒来后竟在刷手机时刷到了与梦境相对应的真实凶杀案。

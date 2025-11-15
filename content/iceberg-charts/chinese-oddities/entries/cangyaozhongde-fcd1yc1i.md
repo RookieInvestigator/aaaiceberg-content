@@ -1,6 +1,6 @@
 ---
 id: fcd1yc1i
-order: 452
+order: 459
 name: 藏药中的特殊成分・《本草纲目》人部
 layer: 3
 categoryId: cat_p6yJicbx
@@ -15,6 +15,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

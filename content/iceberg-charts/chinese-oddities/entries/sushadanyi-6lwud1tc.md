@@ -1,6 +1,6 @@
 ---
 id: 6lwud1tc
-order: 589
+order: 595
 name: 素纱襌衣
 layer: 3
 categoryId: cat_8abY-bU7
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 出土于马王堆汉墓的两件西汉时期极薄丝织品衣物，重量分别只为48克与49克。

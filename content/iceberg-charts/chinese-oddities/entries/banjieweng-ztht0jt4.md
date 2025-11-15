@@ -1,6 +1,6 @@
 ---
 id: ztht0jt4
-order: 714
+order: 736
 name: 半截翁
 layer: 4
 categoryId: cat_ZX_twUO_
@@ -11,7 +11,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 传说无头的怪物，脖子横截面有两排牙齿。

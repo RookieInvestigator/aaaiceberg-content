@@ -1,6 +1,6 @@
 ---
 id: cidztw99
-order: 704
+order: 726
 name: 「欢迎来到幸福的世界」
 layer: 4
 categoryId: cat_9yUWRRAg
@@ -18,7 +18,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
-一个名为绿之韵幸福国际的直销公司的宣传口号，因为被反复写在楼梯上而著称。楼梯的照片被视作「中式怪核」或「中式恐怖」的代表图片之一。
+一个名为绿之韵幸福国际的直销公司的宣传口号，被反复写在楼梯上。楼梯的照片被视作「中式怪核」或「中式恐怖」的代表图片之一。

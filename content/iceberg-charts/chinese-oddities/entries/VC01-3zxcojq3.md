@@ -1,6 +1,6 @@
 ---
 id: 3zxcojq3
-order: 1102
+order: 1137
 name: VC01・VC03
 layer: 6
 categoryId: cat_fc9VC2z8
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 播报暗号的数字电台，经常被称为「China Robot」，分别位于 7.1MHz 与 7.015MHz 左右。被认为可能是空军的信标台。

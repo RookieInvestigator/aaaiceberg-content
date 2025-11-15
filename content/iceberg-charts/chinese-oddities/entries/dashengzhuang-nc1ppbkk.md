@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 也称为「活人奠基」，是东亚和东南亚地区的一种古老习俗，属于人祭的一种。在建筑工程动工前，将人（通常是儿童）活埋在地基下，以祈祷工程顺利。

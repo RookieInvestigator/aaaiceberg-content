@@ -1,6 +1,6 @@
 ---
 id: x1235kfe
-order: 151
+order: 153
 name: 打小人・祭白虎・跳於菟
 layer: 2
 categoryId: cat_uWLHUZtI
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 驱赶霉运的几种习俗，与交感巫术或拟兽舞有关。

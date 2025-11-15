@@ -1,6 +1,6 @@
 ---
 id: 5tsbu0kk
-order: 297
+order: 299
 name: 《天朝仁学广览》
 layer: 2
 categoryId: cat_MXtv05QF
@@ -16,6 +16,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

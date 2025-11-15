@@ -1,6 +1,6 @@
 ---
 id: m8y9k7p6
-order: 544
+order: 551
 name: 龙爪石
 layer: 3
 categoryId: cat_r0rzgkOi
@@ -11,6 +11,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
+湖南省株洲市炎帝陵景区的自然景观，民间传说是炎帝的守陵金龙所化。

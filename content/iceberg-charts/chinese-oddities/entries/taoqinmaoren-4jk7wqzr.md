@@ -1,6 +1,6 @@
 ---
 id: 4jk7wqzr
-order: 708
+order: 730
 name: 逃秦毛人・摇钱树九子灯
 layer: 4
 categoryId: cat_OfFSSbRb
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一种存在于中国古书中的一种生物，出自清代文学家袁枚撰写的一部文言短篇小说集《子不语》里面的，在卷六中有相关描述。

@@ -1,6 +1,6 @@
 ---
 id: p8f73qo2
-order: 1199
+order: 1236
 name: 郭礼雅《天道，或撒旦的会堂》
 layer: 7
 categoryId: cat_7hqnYMGY
@@ -18,6 +18,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

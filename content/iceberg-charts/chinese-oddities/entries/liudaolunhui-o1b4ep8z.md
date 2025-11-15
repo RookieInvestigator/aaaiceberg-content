@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 又叫因果报应图/生死轮回图，是佛教业力，轮回，因缘等概念的具象化图解。

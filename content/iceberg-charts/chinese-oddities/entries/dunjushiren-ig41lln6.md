@@ -1,6 +1,6 @@
 ---
 id: ig41lln6
-order: 1233
+order: 1270
 name: 蹲踞式人形・牵手人纹・舞蹈纹・抓髻娃娃的神性起源
 layer: 7
 categoryId: cat_uWLHUZtI
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 原始社会生殖崇拜、萨满教的祖先崇拜、族徽文字、仪式舞蹈……

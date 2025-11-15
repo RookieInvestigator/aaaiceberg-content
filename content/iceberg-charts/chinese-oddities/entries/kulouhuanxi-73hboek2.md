@@ -1,6 +1,6 @@
 ---
 id: 73hboek2
-order: 518
+order: 525
 name: 《骷髅幻戏图》
 layer: 3
 categoryId: cat_MXtv05QF
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一幅由南宋画家李嵩创作的团扇画，现藏于故宫博物院。作者李嵩本人十分喜欢在作品中加入骷髅元素，后世研究者一般认为这与全真教教义有关，以庄子叹骷髅的故事来表达关于「四迷」的思想，即人死后皆为白骨，应抛弃四迷，取得开悟。

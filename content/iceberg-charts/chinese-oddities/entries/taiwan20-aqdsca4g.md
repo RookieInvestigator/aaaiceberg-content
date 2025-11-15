@@ -1,6 +1,6 @@
 ---
 id: aqdsca4g
-order: 958
+order: 987
 name: 《台湾2001》（发现的电子游戏；2000年-2010年早期）
 layer: 5
 categoryId: cat_MXtv05QF
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 戏仿调侃著名邪典游戏《香港97》的更邪典的游戏。内容基本是荒诞不经的巨魔内容。此游戏发售以来就长期处于失传状态，于 2023 年 11 月 17 日重新被找回。

@@ -1,6 +1,6 @@
 ---
 id: bhfpuaqa
-order: 887
+order: 908
 name: 封尸・镇魂类特殊丧葬习俗（绊脚绳）
 layer: 4
 categoryId: cat_OfFSSbRb
@@ -13,6 +13,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: iawc7ccx
-order: 622
+order: 628
 name: 竹笋刑
 layer: 3
 categoryId: cat_8abY-bU7
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一种通过竹笋的生长刺穿受害者身体的酷刑式死刑。传闻古代中国与斯里兰卡等国及第二次世界大战的日本曾使用这种竹酷刑折磨犯人与战俘，但没有足够证据证实。后《流言终结者》节目组进行实验证实竹笋确实能穿透人体。

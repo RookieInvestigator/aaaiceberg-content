@@ -1,6 +1,6 @@
 ---
 id: e8vd7lp4
-order: 221
+order: 223
 name: 台北车站招牌
 layer: 2
 categoryId: cat_9yUWRRAg
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 传闻旧台北车站的四字灯牌如有一字不亮，隔日台铁就会发生事故。

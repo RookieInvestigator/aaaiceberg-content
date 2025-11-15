@@ -1,6 +1,6 @@
 ---
 id: 8xhocazq
-order: 229
+order: 231
 name: 傩
 layer: 2
 categoryId: cat_uWLHUZtI
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一种古老的民间艺术复合体，常与巫术、宗教、祭祀及各种民俗活动结合起来。

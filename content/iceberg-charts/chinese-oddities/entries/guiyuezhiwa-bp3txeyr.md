@@ -1,6 +1,6 @@
 ---
 id: bp3txeyr
-order: 718
+order: 740
 name: 鬼月纸娃娃
 layer: 4
 categoryId: cat_uWLHUZtI
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 是一种流传于台湾地区的都市传说。指在农历七月中，需要将作为儿童玩具的纸质换衣娃娃烧掉或者压与重物之下，否则纸娃娃会自己行动并可能伤人。其可能来源于台湾一种手制的过家家游戏道具“冬生娘子”，这种游戏用的人形玩具需在大年夜供奉并烧掉。应该是烧纸人习俗的延伸。

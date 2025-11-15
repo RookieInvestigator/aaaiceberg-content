@@ -1,6 +1,6 @@
 ---
 id: eslshakh
-order: 1032
+order: 1061
 name: 曾侯乙墓金弹簧器
 layer: 5
 categoryId: cat_8abY-bU7
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 出自曾侯乙墓东室，形似弹簧，用途不详。

@@ -1,6 +1,6 @@
 ---
 id: i3o0tn2i
-order: 699
+order: 721
 name: 行西王母筹
 layer: 4
 categoryId: cat_uWLHUZtI
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 「母告百姓，佩此书者不死。不信我言，视门枢下，当有白发。」

@@ -1,6 +1,6 @@
 ---
 id: 0eqtqlhj
-order: 180
+order: 182
 name: 《人与电话》
 layer: 2
 categoryId: cat_MXtv05QF
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 中国著名小品演员陈佩斯所表演的一部电视小品。讲述了一个人在接到不断响起的电话后逐渐被逼疯的故事，充满了荒诞和讽刺的元素。这部短片以其独特的风格和深刻的社会批判，被视作国产cult作品或梦核美学的先驱之一。

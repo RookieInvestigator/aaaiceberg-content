@@ -1,6 +1,6 @@
 ---
 id: 8n3yic66
-order: 749
+order: 771
 name: 三尸-庚申信仰
 layer: 4
 categoryId: cat_uWLHUZtI
@@ -11,12 +11,12 @@ tagIds:
 aliases: []
 titledLinks:
   - title: "相关链接: 三尸-庚申信仰"
-    url: https://new.qq.com/rain/a/2018030501367200?suid=&media_id=
+    url: https://new.qq.com/rain/a/2018030501367200
 parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 道教认为人体内有三尸虫，分别居住在上尸、中尸和下尸。这些虫子会在庚申日（六十天一次）升天，向司命之天神报告此人所犯的过错。这一概念后期发展为庚申信仰，在庚申日，人们会通过不睡觉（守庚申）来防止三尸虫升天报告，从而避免灾祸。

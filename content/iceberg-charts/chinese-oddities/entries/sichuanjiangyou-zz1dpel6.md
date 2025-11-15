@@ -1,6 +1,6 @@
 ---
 id: zz1dpel6
-order: 465
+order: 472
 name: 四川江油Gong Goi视频
 layer: 3
 categoryId: cat_ZX_twUO_
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一个2018年开始流传，据信是在四川江油拍摄的视频，视频内，一个白色神秘生物蹦跳经过一片玉米田。该视频在泰国引起广泛传播，因为生物的形象类似于泰国民间传说中的妖怪「Gong Goi」。同时有国内人指出视频中出现的是中国传说生物「小独脚鬼」、「半截缸」。科学解释认为视频中可能是红白鼯鼠。

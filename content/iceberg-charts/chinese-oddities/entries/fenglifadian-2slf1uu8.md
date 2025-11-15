@@ -1,6 +1,6 @@
 ---
 id: 2slf1uu8
-order: 388
+order: 390
 name: 风力发电机是斩龙钉
 layer: 2
 categoryId: cat_7hqnYMGY
@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 部分人认为风力发电机是用于斩断龙脉、扰乱风水的“斩龙钉”，并且会造成大旱等灾害。

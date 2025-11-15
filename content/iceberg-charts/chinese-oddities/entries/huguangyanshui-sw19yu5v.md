@@ -1,6 +1,6 @@
 ---
 id: sw19yu5v
-order: 225
+order: 227
 name: 湖光岩水怪
 layer: 2
 categoryId: cat_ZX_twUO_
@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 位于广东省湛江市。1998年、1999年都有目击过巨型鱼或龟的事件。

@@ -1,6 +1,6 @@
 ---
 id: jvxrpa97
-order: 142
+order: 144
 name: 九广铁路广告
 layer: 2
 categoryId: cat_fc9VC2z8
@@ -18,7 +18,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 香港九广铁路公司于1991年推出的电视广告，因其后来出现的闹鬼传闻而闻名，最著名的版本称分镜中出现了其他分镜所没有的小童，且参演者都意外死亡。经辟谣，人数问题是版本剪接导致的，也并没有出演者死亡的事故。

@@ -1,6 +1,6 @@
 ---
 id: g38v25gw
-order: 670
+order: 692
 name: 王小华死了
 layer: 4
 categoryId: cat_ko7DBA6N
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一个在辽宁抚顺流传了二十多年的事件，有大量目击者在各种地方发现墙上被不明人士写上了「王小华死了」几个字。

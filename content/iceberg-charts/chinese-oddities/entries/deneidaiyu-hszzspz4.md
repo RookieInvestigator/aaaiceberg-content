@@ -1,6 +1,6 @@
 ---
 id: hszzspz4
-order: 840
+order: 862
 name: 德内-岱语系假说・汉芬同源
 layer: 4
 categoryId: cat_8abY-bU7
@@ -12,6 +12,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

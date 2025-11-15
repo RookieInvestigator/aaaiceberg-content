@@ -1,6 +1,6 @@
 ---
 id: xht3ziff
-order: 194
+order: 196
 name: 灵宠灵草
 layer: 2
 categoryId: cat_uWLHUZtI
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 天涯的一个教程帖，主要讲述如何通过特殊的饲养方法，将普通的动植物培养成具有灵性的「灵宠」和「灵草」。

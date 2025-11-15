@@ -1,6 +1,6 @@
 ---
 id: fpkuoxg5
-order: 437
+order: 444
 name: 《大千图说》
 layer: 3
 categoryId: cat_MXtv05QF
@@ -18,7 +18,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 民国时期的神童江希张所著书籍。江希张自幼聪慧，九岁时创作了这本书，书中融合了现代天文学知识和中国传统神话，描绘了宇宙的结构和各大星球上的外星人形象。书中内容既有科学依据，也夹杂了大量神话和传说，呈现出新旧观念交织的局面。

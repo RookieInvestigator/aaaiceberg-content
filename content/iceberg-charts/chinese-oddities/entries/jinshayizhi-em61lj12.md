@@ -1,6 +1,6 @@
 ---
 id: em61lj12
-order: 336
+order: 338
 name: 金沙遗址商周铜人形器
 layer: 2
 categoryId: cat_MXtv05QF
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 整体形如直立人，但原本应为头部的位置为一圆形孔洞。两侧肩部和小腿近足部各有一个小圆孔。其使用功能不详。因其外形酷似现代的宇航服，在互联网上讨论颇多。

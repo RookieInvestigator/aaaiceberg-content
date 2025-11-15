@@ -1,6 +1,6 @@
 ---
 id: t7qk4w22
-order: 351
+order: 353
 name: 借命钱・种生基・拜斗借命
 layer: 2
 categoryId: cat_uWLHUZtI
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 各种增寿转运的民间法术，方式方法大同小异，并不确定是否有效。

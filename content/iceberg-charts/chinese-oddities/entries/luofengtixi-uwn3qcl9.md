@@ -1,6 +1,6 @@
 ---
 id: uwn3qcl9
-order: 482
+order: 489
 name: 罗酆体系・酆都鬼城
 layer: 3
 categoryId: cat_uWLHUZtI
@@ -14,6 +14,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

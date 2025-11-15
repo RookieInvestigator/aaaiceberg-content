@@ -1,6 +1,6 @@
 ---
 id: 2wyjsp8v
-order: 186
+order: 188
 name: 香港达德学校
 layer: 2
 categoryId: cat_9yUWRRAg
@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 位于新界元朗区屏山，1931年由屏山邓族出资创立，1998年因收生不足停办。传说学校建在乱葬岗上，频繁闹鬼，尤其是女厕的红衣女鬼传闻最为著名。

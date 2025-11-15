@@ -1,6 +1,6 @@
 ---
 id: pgn3nvdf
-order: 847
+order: 869
 name: 特林吉特铜钱甲
 layer: 4
 categoryId: cat_8abY-bU7
@@ -15,6 +15,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

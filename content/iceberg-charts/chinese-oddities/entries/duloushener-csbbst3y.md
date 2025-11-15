@@ -1,6 +1,6 @@
 ---
 id: csbbst3y
-order: 979
+order: 1008
 name: 髑髅神・耳报・樟柳神
 layer: 5
 categoryId: cat_OfFSSbRb
@@ -12,6 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
+“樟柳神”是以樟木与柳木拼刻人形，通过咒杀孩童注入灵魂的方式使其活化的木人。术士用它来占卜吉凶、沟通亡魂。这种邪恶的咒术名为“耳报法”。

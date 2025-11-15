@@ -1,6 +1,6 @@
 ---
 id: p4dzjj6f
-order: 554
+order: 561
 name: 天授唱诗人・天传
 layer: 3
 categoryId: cat_uWLHUZtI
@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 唱诗人即在西藏唱《格萨尔》的艺人。而其中一部分唱诗人据说是在大病一场或是梦中背下了格萨尔王的故事。这种人被称为天授唱诗人，其中有些人虽不识字却能唱出百万字的史诗，并且说唱时能长时间不吃不喝。成因尚且不明。

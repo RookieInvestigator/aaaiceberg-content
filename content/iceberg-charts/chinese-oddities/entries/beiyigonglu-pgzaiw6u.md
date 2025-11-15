@@ -1,6 +1,6 @@
 ---
 id: pgzaiw6u
-order: 220
+order: 222
 name: 北宜公路
 layer: 2
 categoryId: cat_9yUWRRAg
@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 连接新北与宜兰的高速公路，车祸频发，曾多次发生过鬼骑手抓交替事件。

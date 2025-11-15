@@ -1,6 +1,6 @@
 ---
 id: hxwcm2z6
-order: 970
+order: 999
 name: 郑州广告牌藏尸案
 layer: 5
 categoryId: cat_1wmCydV7
@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 2015年5月21日，郑州二七广场友谊商场的工人在更换广告布时，意外发现了一具女尸卡在三楼的墙缝中。尸体已经开始腐化，散发出难闻气味。警方调查发现，死者可能是从十楼的一家宾馆坠落的。这一事件真相至今未明。

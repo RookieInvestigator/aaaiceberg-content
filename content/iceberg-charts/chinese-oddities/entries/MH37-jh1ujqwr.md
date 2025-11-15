@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 2014年3月8日，马来西亚航空公司370号航班在从吉隆坡飞往北京的途中失踪。虽然经过大范围搜索，但至今仍未能确认飞机失事的原因与坠机地点，由此衍生出许多相关起因猜测、科学假说与阴谋论。

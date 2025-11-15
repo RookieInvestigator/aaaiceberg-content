@@ -1,6 +1,6 @@
 ---
 id: vvg6ayhd
-order: 658
+order: 680
 name: 民国科学易・64卦密码子说
 layer: 4
 categoryId: cat_p6yJicbx
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一种缝合了科学和玄学的周易流派，涉及学科众多，总之但凡涉及用科学解释玄学抑或反之的事建议谨慎对待。

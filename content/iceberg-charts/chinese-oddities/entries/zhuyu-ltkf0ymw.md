@@ -1,6 +1,6 @@
 ---
 id: ltkf0ymw
-order: 700
+order: 722
 name: 朱昱
 layer: 4
 categoryId: cat_MXtv05QF
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一名当代艺术家，其早期创作的一些行为艺术品频繁涉及食人、戮尸等主题，被指违背人伦。

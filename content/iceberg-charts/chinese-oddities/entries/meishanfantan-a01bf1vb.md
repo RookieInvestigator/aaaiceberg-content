@@ -1,6 +1,6 @@
 ---
 id: a01bf1vb
-order: 565
+order: 572
 name: 梅山翻坛祖师
 layer: 3
 categoryId: cat_uWLHUZtI
@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 张五郎，民间神祗，梅山民俗传说中的狩猎之神，是一位双手撑地，两脚朝天倒立的神，传说是太上老君的徒弟。

@@ -1,6 +1,6 @@
 ---
 id: ctg6at7c
-order: 923
+order: 952
 name: 孤竹君浮棺
 layer: 5
 categoryId: cat_OfFSSbRb
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 开者即死，认知危害版。

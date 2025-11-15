@@ -1,6 +1,6 @@
 ---
 id: itdo9abe
-order: 481
+order: 488
 name: 出窍・自窥・离魂
 layer: 3
 categoryId: cat_OfFSSbRb
@@ -19,7 +19,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 在中国古代，出窍、自窥和离魂现象都涉及灵魂离开身体，常常记载于道教经典与志怪小说中。出窍是修行者通过冥想让灵魂游历天地；自窥是看到自己的分身，常见于精神疾病患者；离魂则是魂魄离开身体，导致感觉有两个身体。

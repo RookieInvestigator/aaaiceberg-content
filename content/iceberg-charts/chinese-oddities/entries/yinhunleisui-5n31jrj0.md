@@ -1,6 +1,6 @@
 ---
 id: 5n31jrj0
-order: 642
+order: 648
 name: 引魂类随葬物（噙口钱・衔钱・葬玉・玉琀蝉）
 layer: 3
 categoryId: cat_uWLHUZtI
@@ -13,6 +13,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

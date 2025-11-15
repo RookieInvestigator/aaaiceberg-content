@@ -1,6 +1,6 @@
 ---
 id: v6byple6
-order: 608
+order: 614
 name: 光波回春舞
 layer: 3
 categoryId: cat_uWLHUZtI
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 刘家银创办的身心灵秘密组织，经常组织舞会，通过售卖开光物件，保健品，回春舞蹈教程等敛财。宣称此舞蹈包治百病，听见什么音乐就自动跳什么舞蹈，越跳越年轻。教徒的特征是手掌上有荧光粉涂抹的“光”字。

@@ -1,6 +1,6 @@
 ---
 id: e725ee10
-order: 218
+order: 220
 name: 台金戏院
 layer: 2
 categoryId: cat_9yUWRRAg
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 新北市瑞芳水南洞附近的台金戏院，建造时发生过多起工人坠楼，后又传出播放电影时出现鬼魅的传说。

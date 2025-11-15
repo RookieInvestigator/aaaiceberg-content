@@ -1,6 +1,6 @@
 ---
 id: dpv2ji3c
-order: 395
+order: 402
 name: 开封UFO残片事件
 layer: 3
 categoryId: cat_r0rzgkOi
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 1990年6月23日，开封市上空出现不明光点，一块金属残片坠落。残片成分主要为铝、镁、硅，无法确定是否外星制造。砸断的椿树几个月后枯死，原因不明。目击者声称看到不明飞行物并经历怪异事件。官方倾向认为是航天器残片，但细节未有定论。

@@ -1,6 +1,6 @@
 ---
 id: obw0998a
-order: 224
+order: 226
 name: 兰潭水怪
 layer: 2
 categoryId: cat_r0rzgkOi
@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 出现在嘉义市兰谭的水怪，传说中是鲤鱼形状，也有牛形，会抓人做交替，产生溺亡事件。

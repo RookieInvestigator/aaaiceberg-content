@@ -1,6 +1,6 @@
 ---
 id: 6slx2kek
-order: 1202
+order: 1239
 name: 用扶乩可以找回一切失传媒体
 layer: 7
 categoryId: cat_7hqnYMGY
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
-待他问汝甚人传？但说道，先生姓吕。
+待他问汝甚人传？但说道先生姓吕。

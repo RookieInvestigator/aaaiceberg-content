@@ -1,6 +1,6 @@
 ---
 id: dfbunqcs
-order: 325
+order: 327
 name: 雷峰塔地宫白玉蜈蚣
 layer: 2
 categoryId: cat_r0rzgkOi
@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 网传有考古专家称雷峰塔地宫的考古现场发掘出一个金色盒子，盒子打开后钻出一条白色蜈蚣，于是被考古队收进瓶子里，第二天却不翼而飞了。有人称这与神话《白娘子》有关。实际上浙江台对此次考古有主播节目，并未出现什么白玉蜈蚣，但考古专家丁云川确在采访中提到考古时出现了“不知名的白色小虫”。

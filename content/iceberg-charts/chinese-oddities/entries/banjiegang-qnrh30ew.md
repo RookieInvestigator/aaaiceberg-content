@@ -1,6 +1,6 @@
 ---
 id: qnrh30ew
-order: 943
+order: 972
 name: 半截缸
 layer: 5
 categoryId: cat_r0rzgkOi
@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 指只有上半身或下半身的一种鬼怪或尸体。

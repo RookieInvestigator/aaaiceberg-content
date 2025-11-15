@@ -1,6 +1,6 @@
 ---
 id: bxeeia5k
-order: 928
+order: 957
 name: "11010010100011"
 layer: 5
 categoryId: cat_MXtv05QF
@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 2012吧的一个帖子。贴主和贴名都用二进制写成，其标题解码为「告知」。内容为一系列简笔画集，由示意符号和少部分汉字组成，因为象征化的风格而赢得了许多追捧者与解读者。其内容涉及五行、阴阳、大宇宙与小宇宙等主题。

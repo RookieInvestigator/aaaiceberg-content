@@ -1,6 +1,6 @@
 ---
 id: 9ptumf51
-order: 688
+order: 710
 name: 「古汉语没有蓝色」
 layer: 4
 categoryId: cat_8abY-bU7
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 非常混沌的课题，边缘理论频发，其引起的辩论范围涵盖了全球殖民史、萨丕尔-沃夫假说和色盲悖论。

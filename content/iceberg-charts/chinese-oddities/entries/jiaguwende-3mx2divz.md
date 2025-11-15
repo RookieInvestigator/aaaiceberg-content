@@ -1,6 +1,6 @@
 ---
 id: 3mx2divz
-order: 757
+order: 779
 name: 甲骨文的人祭起源・《周易》记载的猎俘和人祭内容・殷墟考古出的人骨・带人头骨铜甗
 layer: 4
 categoryId: cat_8abY-bU7
@@ -17,6 +17,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

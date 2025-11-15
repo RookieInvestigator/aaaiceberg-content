@@ -1,13 +1,13 @@
 ---
 id: 6lx6qh0n
-order: 1207
+order: 1244
 name: 汉字版的AI私语实验
 layer: 7
 categoryId: cat_8abY-bU7
 tagIds:
   - tag_BHaPQ9KP
   - tag_LJIAXzSO
-  - tag_tJI1f5th
+  - tag_qmx35q95
   - tag_5uiQ64t5
 aliases: []
 titledLinks:
@@ -17,6 +17,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

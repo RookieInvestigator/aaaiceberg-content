@@ -1,6 +1,6 @@
 ---
 id: o1bd0191
-order: 576
+order: 583
 name: 无头人母题・无头将军言灵母题
 layer: 3
 categoryId: cat_OfFSSbRb
@@ -16,6 +16,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

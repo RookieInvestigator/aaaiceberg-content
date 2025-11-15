@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一类著名的科学骗局，专利申请者公开声称研制出了一种全新的能源生产技术，之后借由此类技术开始揽财获利。

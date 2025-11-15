@@ -1,6 +1,6 @@
 ---
 id: m3wfltsz
-order: 154
+order: 156
 name: 青岛鬼楼
 layer: 2
 categoryId: cat_9yUWRRAg
@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 青岛鬼楼位于青岛市南京路26号，以灵异传闻闻名。传说中，这栋楼在半夜会传出白衣女鬼的哭声，导致住户纷纷搬走。

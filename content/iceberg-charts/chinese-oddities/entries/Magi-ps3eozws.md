@@ -1,6 +1,6 @@
 ---
 id: ps3eozws
-order: 1121
+order: 1156
 name: MagicSpellBox
 layer: 6
 categoryId: cat_X3JSNomc
@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 简中互联网历史上最早的显化-催眠-sub-通灵游戏社群。贴吧内容均为魔法咒语与简要仪式，内容包罗万象，从长高到变成天使不一而足，有的咒语是翻译的也有原创的。随着贴吧被封已经被历史所遗忘，一些遗迹可以在to_believe_magic吧找到。

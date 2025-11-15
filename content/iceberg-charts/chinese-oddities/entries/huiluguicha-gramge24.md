@@ -1,6 +1,6 @@
 ---
 id: gramge24
-order: 750
+order: 772
 name: 贿赂鬼差・假葬
 layer: 4
 categoryId: cat_OfFSSbRb
@@ -14,6 +14,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

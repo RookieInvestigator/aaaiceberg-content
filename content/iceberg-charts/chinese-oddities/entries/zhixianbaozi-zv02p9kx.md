@@ -1,6 +1,6 @@
 ---
 id: zv02p9kx
-order: 261
+order: 263
 name: 纸馅包子
 layer: 2
 categoryId: cat_drHx4oqn
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 2007年6月北京电视台生活频道工作人员被怀疑捏造新闻的事件。新闻称北京市众多的流动摊贩卖的包子馅内混有纸制品。参与造假者事后遭处分。

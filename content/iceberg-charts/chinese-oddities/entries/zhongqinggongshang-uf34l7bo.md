@@ -1,6 +1,6 @@
 ---
 id: uf34l7bo
-order: 162
+order: 164
 name: 重庆工商大学消失的第4栋与404房
 layer: 2
 categoryId: cat_9yUWRRAg
@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 著名的校园灵异传说。传闻称，重庆工商大学原南校区有十二栋楼，但第4栋楼在建成后不久因灵异事件被拆除。据说404宿舍的四名女学生曾在同一晚离奇死亡，导致这栋楼被认为不吉利。

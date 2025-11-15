@@ -1,6 +1,6 @@
 ---
 id: jbckpoqm
-order: 980
+order: 1009
 name: 毒药猫传说
 layer: 5
 categoryId: cat_uWLHUZtI
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 羌族地区流传的一个传说，“毒药猫”指的是有些会法术的女人，晚上睡觉时灵魂会离开躯体，变成动物去害人，不同村寨流行的“毒药猫”传说都有一些差异

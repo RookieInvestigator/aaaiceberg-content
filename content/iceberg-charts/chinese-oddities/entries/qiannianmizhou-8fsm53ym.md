@@ -1,6 +1,6 @@
 ---
 id: 8fsm53ym
-order: 578
+order: 585
 name: 《千年秘咒大公开》
 layer: 3
 categoryId: cat_uWLHUZtI
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 1992年出版的通灵仪式类书籍，作者为「跛子」，2008年左右被人扫描上传，此后在中文神秘学社群四处流传，内容繁杂，包罗万象，似乎缝合了多种神秘学文化的来源。

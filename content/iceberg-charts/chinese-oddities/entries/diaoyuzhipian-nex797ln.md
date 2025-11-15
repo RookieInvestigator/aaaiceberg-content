@@ -1,6 +1,6 @@
 ---
 id: nex797ln
-order: 617
+order: 623
 name: 钓鱼纸片人（造花盘遣送）
 layer: 3
 categoryId: cat_uWLHUZtI
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 佛山网友smoking拍到的视频，湖面上有一个泡沫箱里有一个纸片做成的小人正在有模有样地“钓鱼”实则是纸片人有鱼线牵动。被认为与造花盘、放河灯等遣送逝者的法事有关。

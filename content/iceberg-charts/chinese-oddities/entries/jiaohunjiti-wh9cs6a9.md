@@ -1,6 +1,6 @@
 ---
 id: wh9cs6a9
-order: 372
+order: 374
 name: 叫魂（集体恐慌）
 layer: 2
 categoryId: cat_r0rzgkOi
@@ -15,6 +15,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

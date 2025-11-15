@@ -1,6 +1,6 @@
 ---
 id: k7t2nkof
-order: 209
+order: 211
 name: 沈阳怪坡
 layer: 2
 categoryId: cat_LwNX9U6m
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 位于辽宁省沈阳市沈北新区，是一段长约80米、宽约15米的斜坡。尽管看起来是上坡，但熄火的汽车和自行车可以自动向上滑行。这种现象被认为是由于视错觉造成的。

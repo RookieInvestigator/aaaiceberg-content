@@ -1,6 +1,6 @@
 ---
 id: v6szwj0p
-order: 583
+order: 589
 name: 告地书・买地券
 layer: 3
 categoryId: cat_uWLHUZtI
@@ -13,6 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
+流行于西汉时期的丧葬文书，作用主要是向阴间判官通报死者身份和陪葬品信息。在东汉时期演变为买地券，反应了汉代“事死如事生”的丧葬观念体系。

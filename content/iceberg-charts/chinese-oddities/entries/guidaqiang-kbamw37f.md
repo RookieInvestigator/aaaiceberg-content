@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一种在夜晚或郊外行走时迷失方向、不断在原地打转的现象。有时被与魔神仔等传说联系在一起。

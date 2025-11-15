@@ -1,6 +1,6 @@
 ---
 id: d3qe5cq6
-order: 240
+order: 242
 name: 银河联邦
 layer: 2
 categoryId: cat_uWLHUZtI
@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 由郑辉创立的新兴宗教团体，是德国新兴宗教团体「昴宿星人」在中国的本土化产物。郑辉自称「妙乐上师」，宣扬可以快速成佛。2015年，郑辉因组织、利用邪教组织破坏法律实施罪被判处有期徒刑八年。

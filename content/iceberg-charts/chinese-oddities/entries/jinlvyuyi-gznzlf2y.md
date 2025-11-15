@@ -1,6 +1,6 @@
 ---
 id: gznzlf2y
-order: 318
+order: 320
 name: 金缕玉衣案
 layer: 2
 categoryId: cat_drHx4oqn
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 中国最大的文物骗局。

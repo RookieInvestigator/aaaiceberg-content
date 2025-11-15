@@ -1,6 +1,6 @@
 ---
 id: zunrqcza
-order: 1098
+order: 1133
 name: 悦动的小鹿
 layer: 6
 categoryId: cat_X3JSNomc
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 知乎一答主在「你看过的最细思极恐的图片是什么？」问题下的回答，内容为做梦醒来后10分钟内在备忘录上写下的文字，导致了知乎上大量用户讨论，并且很多人认为真的有这部电影，并有评论说过同样梦到过「悦动的小鹿」电影。该贴文有时因为「没有描绘恐怖内容但让人读着脊背发凉」而被视作文字恐怖谷的一大例证。

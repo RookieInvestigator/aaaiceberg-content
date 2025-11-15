@@ -1,6 +1,6 @@
 ---
 id: mdxiscqq
-order: 464
+order: 471
 name: 中国的投毒恐慌
 layer: 3
 categoryId: cat_r0rzgkOi
@@ -18,7 +18,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 从古代以来，中国社会就有诸多投毒恐慌的案例。

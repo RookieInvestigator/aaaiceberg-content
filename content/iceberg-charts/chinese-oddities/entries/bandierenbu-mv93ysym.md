@@ -1,6 +1,6 @@
 ---
 id: mv93ysym
-order: 1065
+order: 1093
 name: 《半蝶人》（部分片段留存的恐怖电影；2015年）
 layer: 5
 categoryId: cat_MXtv05QF
@@ -16,6 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
+2015年，一段“广州女丧尸咬人”视频在网上疯传，随后被微博用户“尹_疯狂掌柜”辟谣称是科幻电影《半蝶人》拍摄现场，造谣者也被捕。但网友发现该片多年后并未上映。据失传媒体爱好者调查，电影实际已完成拍摄，却因故未能公映，目前仅有预告片流出。

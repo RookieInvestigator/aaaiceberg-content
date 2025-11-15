@@ -1,6 +1,6 @@
 ---
 id: nonk3qg0
-order: 620
+order: 626
 name: 「父亲是一扇门」
 layer: 3
 categoryId: cat_X3JSNomc
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 来源于小红书上的一则已删除帖子，内容主要包括了该用户因抑郁症而休学后，和父亲之间产生的一些矛盾。评论区有人指出该用户对于父亲的描述像是在形容其房间的门，例如「我一有想出去的念头他就往门那边挡」「⋯堵住门框不让我过去」等，暗示发贴用户可能患有诸如精神分裂等疾病。

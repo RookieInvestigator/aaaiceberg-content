@@ -1,6 +1,6 @@
 ---
 id: i5w6oq2b
-order: 165
+order: 167
 name: 鞋印化石
 layer: 2
 categoryId: cat_drHx4oqn
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 在乌鲁木齐红山公园曾展出一块距今约2.7亿年的鞋印化石。这块化石由已故的地理老师海涛在1997年发现，化石出土于晚古生代二叠纪的地层中，形态酷似人类左脚鞋印。台湾也有报道20亿年前的小矮人鞋印化石。

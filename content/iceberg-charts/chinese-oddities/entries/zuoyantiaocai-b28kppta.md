@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 中国自古代开始，占卜就有许多类型，最常见的为蓍龟两种，除此之外《汉志·数术略》还列出了数种杂占类，如占梦、占嚏和占耳鸣、厌劾妖祥、祷祠祈攘等。《隋志》中提出了占目润（眼跳）一类。

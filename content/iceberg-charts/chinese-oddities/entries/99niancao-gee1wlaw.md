@@ -1,6 +1,6 @@
 ---
 id: gee1wlaw
-order: 702
+order: 724
 name: 99年曹公事件
 layer: 4
 categoryId: cat_r0rzgkOi
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一起著名的UFO和外星人接触事件，曹公声称被外星人绑架并被带到河北秦皇岛进行治疗实验。外星人通过心灵感应与他交流，并要求他为一名重病女孩治疗，曹公用手拍打女孩的后颈，感受到热流传递。后真的找到了他在UFO中见到的女孩，本事件经过测谎和催眠实验部分验证，真相未解明。

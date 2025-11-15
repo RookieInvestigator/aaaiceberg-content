@@ -1,6 +1,6 @@
 ---
 id: rknj1rbj
-order: 707
+order: 729
 name: 任铁生
 layer: 4
 categoryId: cat_r0rzgkOi
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 北京五中分校教师，2008年9月30日，任铁生独自离家去往妙峰山登山，此后失踪，其人至今没有被找到，生死不明。

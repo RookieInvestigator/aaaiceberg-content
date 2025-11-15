@@ -1,6 +1,6 @@
 ---
 id: f4bxqtge
-order: 1109
+order: 1144
 name: 番僧幻术・割耳剺面・七圣刀・胡人开膛俑
 layer: 6
 categoryId: cat_MXtv05QF
@@ -15,6 +15,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

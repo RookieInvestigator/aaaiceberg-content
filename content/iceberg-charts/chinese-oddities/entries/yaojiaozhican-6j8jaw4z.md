@@ -1,6 +1,6 @@
 ---
 id: 6j8jaw4z
-order: 1130
+order: 1165
 name: 咬脚趾・残子
 layer: 6
 categoryId: cat_uWLHUZtI
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 建国以前，在鲁南地区的乡间流传的一种非常恐怖的习俗。

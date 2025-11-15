@@ -1,6 +1,6 @@
 ---
 id: alhxkth0
-order: 1161
+order: 1196
 name: 楚考烈王墓丹药原料
 layer: 6
 categoryId: cat_8abY-bU7
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 武王墩（楚考烈王墓）出土的微小矿石样本，可能是中国丹药史上最早的丹药原料。

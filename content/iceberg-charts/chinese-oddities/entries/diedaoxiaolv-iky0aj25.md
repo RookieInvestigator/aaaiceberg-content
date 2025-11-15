@@ -1,6 +1,6 @@
 ---
 id: iky0aj25
-order: 780
+order: 802
 name: 跌倒小绿人
 layer: 4
 categoryId: cat_r0rzgkOi
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 台湾都市传说，红绿灯中的LED小绿人有时候（不定期，也许是每20次）会跌倒。后这个传说通过电子邮件迅速传播。有人说看到小绿人跌倒的人会倒霉。

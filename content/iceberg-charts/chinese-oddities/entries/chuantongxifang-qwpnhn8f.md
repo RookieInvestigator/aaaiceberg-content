@@ -1,6 +1,6 @@
 ---
 id: qwpnhn8f
-order: 1018
+order: 1047
 name: 传统西方精神病学与震慑疗法中对中国的迷恋使用（Joseph Guislain 的中国庙）
 layer: 5
 categoryId: cat_r0rzgkOi
@@ -15,6 +15,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

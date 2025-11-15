@@ -18,7 +18,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 关于罗布泊的几则历史谜案与网络怪谈，包括彭加木失踪案、双鱼玉佩以及余纯顺墓黑影。其中双鱼玉佩的故事是天涯论坛莲蓬鬼话一篇帖子中虚构剧情，属于天涯坛友的集体创作物。

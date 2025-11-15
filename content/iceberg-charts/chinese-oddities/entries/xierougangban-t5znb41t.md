@@ -1,6 +1,6 @@
 ---
 id: t5znb41t
-order: 731
+order: 753
 name: 血肉钢板下落调查
 layer: 4
 categoryId: cat_1wmCydV7
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 2007年4月18日发生在辽宁省铁岭市清河特殊钢公司的严重事故。当时，钢包脱落，导致1500多摄氏度的钢水泄漏，瞬间吞噬了32名工人的生命。这起事故被认为是中国钢铁史上最惨痛的事故之一。事故发生后，形成了一块特殊的钢板，包含了32名工人的血肉精气。最终，这块钢板被铲起来，准备在下一次开炉时重炼。

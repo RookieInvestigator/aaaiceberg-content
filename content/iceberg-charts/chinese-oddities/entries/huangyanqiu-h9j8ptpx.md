@@ -1,6 +1,6 @@
 ---
 id: h9j8ptpx
-order: 184
+order: 186
 name: 黄延秋
 layer: 2
 categoryId: cat_r0rzgkOi
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 在1977年河北省邯郸市肥乡区。农民黄延秋声称在三次神秘失踪期间，被两名疑似未来人或外星人带到千里之外的多个城市。

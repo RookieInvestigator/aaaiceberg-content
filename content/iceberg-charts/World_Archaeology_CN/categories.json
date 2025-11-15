@@ -3,61 +3,61 @@
     {
       "id": "cat_dao8nfvu",
       "name": "文物/遗址/考古发现",
-      "color": "#3498db",
+      "color": "#ffffff",
       "description": "关于 文物/遗址/考古发现 的分类。"
     },
     {
       "id": "cat_hbud6pw7",
       "name": "伪造品/争议/骗局",
-      "color": "#3498db",
+      "color": "#ff8800",
       "description": "关于 伪造品/争议/骗局 的分类。"
     },
     {
       "id": "cat_e1rn93yb",
       "name": "古文明/文化",
-      "color": "#3498db",
+      "color": "#ffff6e",
       "description": "关于 古文明/文化 的分类。"
     },
     {
       "id": "cat_t0h6gf33",
       "name": "传说/怪谈",
-      "color": "#3498db",
+      "color": "#ff4242",
       "description": "关于 传说/怪谈 的分类。"
     },
     {
       "id": "cat_vxiq2scx",
       "name": "失落文物/仅见于文字",
-      "color": "#3498db",
+      "color": "#b0b0b0",
       "description": "关于 失落文物/仅见于文字 的分类。"
     },
     {
       "id": "cat_1yq1gbfu",
       "name": "另类考古学/阴谋论",
-      "color": "#3498db",
+      "color": "#9a5ce6",
       "description": "关于 另类考古学/阴谋论 的分类。"
     },
     {
       "id": "cat_gvmb1mib",
       "name": "虚构/艺术创作",
-      "color": "#3498db",
+      "color": "#fe5dfe",
       "description": "关于 虚构/艺术创作 的分类。"
     },
     {
       "id": "cat_kuzo0vxd",
       "name": "理论/假说",
-      "color": "#3498db",
+      "color": "#52dcff",
       "description": "关于 理论/假说 的分类。"
     },
     {
       "id": "cat_f306bhwa",
       "name": "自然/非人类遗址/地质发现",
-      "color": "#3498db",
+      "color": "#0f0",
       "description": "关于 自然/非人类遗址/地质发现 的分类。"
     },
     {
       "id": "cat_ycvr33f9",
       "name": "趣闻/杂学",
-      "color": "#3498db",
+      "color": "#a6b5f2",
       "description": "关于 趣闻/杂学 的分类。"
     }
   ]

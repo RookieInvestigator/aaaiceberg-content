@@ -1,6 +1,6 @@
 ---
 id: mtnoekit
-order: 997
+order: 1026
 name: 试衣间暗门传说的本土化过程・灯台鬼传说
 layer: 5
 categoryId: cat_r0rzgkOi
@@ -16,6 +16,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

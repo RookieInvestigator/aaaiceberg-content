@@ -1,6 +1,6 @@
 ---
 id: lr6yubmo
-order: 242
+order: 244
 name: 川军团失踪
 layer: 2
 categoryId: cat_r0rzgkOi
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 传闻来自英国的《观察家》杂志，相传南京保卫战时，川军217团的残部2000余人在团长率领下奉命突围，行至南京郊外的青龙山区时离奇失踪。但史料考证与军事档案表明在南京城以及城郊的战斗中并无川军部队出现。

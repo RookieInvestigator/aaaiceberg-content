@@ -1,6 +1,6 @@
 ---
 id: 2n8ndtmr
-order: 638
+order: 644
 name: 地生白毛
 layer: 3
 categoryId: cat_r0rzgkOi
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 地震后地面上出现成片不明毛须状物体的现象。

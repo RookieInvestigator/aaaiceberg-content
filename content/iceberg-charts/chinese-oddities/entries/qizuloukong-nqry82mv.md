@@ -1,6 +1,6 @@
 ---
 id: nqry82mv
-order: 1151
+order: 1186
 name: 七足镂孔陶器
 layer: 6
 categoryId: cat_8abY-bU7
@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 安徽蒙城尉迟寺遗址出土，属新石器时代龙山文化，共七件，不见于他处。陶器腹部等距分布三个圆孔，而七个锥状足均匀地附于器底（器首）。此物的用途与摆放方式均不清楚，在不同展览中存在「足朝上」与「足朝下」两种摆法。对其象征义的猜想有「火神崇拜」「猎首习俗」「生殖崇拜」等等。

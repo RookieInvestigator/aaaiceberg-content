@@ -1,6 +1,6 @@
 ---
 id: kaap7i2k
-order: 1230
+order: 1267
 name: 大汶口环锯术
 layer: 7
 categoryId: cat_8abY-bU7
@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 在对山东东营傅家大汶口文化遗址考古中发现了一颗特殊的头骨。头骨上有个直径约30毫米的圆形孔洞，孔洞的边缘光滑，有明显的刮削痕迹和骨组织修复的迹象。因此有人猜测5000年前就有开颅手术存在。值得一提的是世界各地的古人类文化遗址都有类似情况存在。

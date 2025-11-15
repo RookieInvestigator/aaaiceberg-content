@@ -1,6 +1,6 @@
 ---
 id: 017ofh6i
-order: 501
+order: 508
 name: 红柳娃
 layer: 3
 categoryId: cat_ZX_twUO_
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 或称红柳孩，是中国新疆传说中的一种类人神秘生物。传说中，这些小人身高约一尺，男女老幼皆有，喜欢在红柳开花时将柳条盘成小圈戴在头上，列队跳舞，发出「呦呦」的声音。他们有时会进入人类的帐篷偷食物，被抓住后会跪地哭泣，若被捆绑则不进食而死。现代也有目击记录，但其真实性尚未得到科学证实。

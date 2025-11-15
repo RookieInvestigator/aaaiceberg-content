@@ -1,6 +1,6 @@
 ---
 id: rw948x3i
-order: 237
+order: 239
 name: 夜狸猫
 layer: 2
 categoryId: cat_r0rzgkOi
@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一夜之间离奇消失的村庄，和一个奇怪的动物相关的代号的故事。基本配置和双鱼玉佩一样，大概为早期恐怖网文捏造。

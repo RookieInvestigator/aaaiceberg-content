@@ -1,6 +1,6 @@
 ---
 id: 76rq3oka
-order: 735
+order: 757
 name: 《那个我生活了近六年的电影院啊》
 layer: 4
 categoryId: cat_X3JSNomc
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 发布于天涯论坛莲蓬鬼话中的一篇故事，另外作者至今还在更新微博（作者微博ID：天涯著名人士）

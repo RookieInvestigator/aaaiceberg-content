@@ -1,6 +1,6 @@
 ---
 id: rb6grpur
-order: 983
+order: 1012
 name: 狗来岛《囍丧》
 layer: 5
 categoryId: cat_MXtv05QF
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 作者狗来岛的曾祖母96岁去世，作者2020年以此事件创作了这个视频交Flash课的作业，一时在微博被热转。被认为是「中式恐怖」至高点。

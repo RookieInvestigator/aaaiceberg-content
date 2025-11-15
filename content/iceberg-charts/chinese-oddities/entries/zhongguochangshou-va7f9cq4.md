@@ -1,6 +1,6 @@
 ---
 id: va7f9cq4
-order: 158
+order: 160
 name: 中国长寿者的传说（李清云・陈俊）
 layer: 2
 categoryId: cat_r0rzgkOi
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 李清云是一名中草药专家和气功大师，据传享年256岁。陈俊是福建永泰县汤埕村的一位传说中的长寿老人，据说他从公元881年活到1324年，享年443岁。

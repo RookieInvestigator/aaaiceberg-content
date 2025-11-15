@@ -1,6 +1,6 @@
 ---
 id: sgzwiv3d
-order: 1215
+order: 1252
 name: Isabell94002006
 layer: 7
 categoryId: cat_7hqnYMGY
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一个正统的4chan式阴谋论者的例子，制作了包罗万象的阴谋论体系，内容繁复，把一切怪东西都综摄进自己的世界观里，图像也多为阴谋论中常见的拼接体。

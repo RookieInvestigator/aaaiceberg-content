@@ -1,6 +1,6 @@
 ---
 id: qfzdgl7w
-order: 947
+order: 976
 name: 郭凤怡
 layer: 5
 categoryId: cat_MXtv05QF
@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 一位自学成才的中国艺术家，生于西安。她的艺术实践关注灵性与玄学主题，作品常常结合中国传统文化元素，如古代宇宙观、人体穴位图、上古传说、易经、河图洛书等。郭凤怡起初为了减轻疾病的痛苦而练习气功，后来伴随着不断体悟，许多视觉幻像涌现在她的眼前，必须用纸笔表达才可调整身体与心智的平衡。

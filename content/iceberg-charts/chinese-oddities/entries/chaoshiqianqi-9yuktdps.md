@@ -1,6 +1,6 @@
 ---
 id: 9yuktdps
-order: 1210
+order: 1247
 name: 超史前七面地球仪・超级微雕石
 layer: 7
 categoryId: cat_p6yJicbx
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 民间科学家吴粲提出的理论，具体内容为把一些200万年前的石头解读成刻有文字、符号、经纬度的史前地球仪，或是某些技术物件，从而论证「前一代文明」的存在。

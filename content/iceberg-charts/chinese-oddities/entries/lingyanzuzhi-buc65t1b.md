@@ -1,6 +1,6 @@
 ---
 id: buc65t1b
-order: 383
+order: 385
 name: 灵岩组织
 layer: 2
 categoryId: cat_X3JSNomc
@@ -13,6 +13,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

@@ -1,6 +1,6 @@
 ---
 id: tfo6d4w4
-order: 911
+order: 940
 name: 书记魇镇
 layer: 5
 categoryId: cat_uWLHUZtI
@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
 河池市金城江区委原书记覃生贤因为作风问题被纪委调查，双开通报称他通过「魇镇」等巫蛊之术诅咒办案人员。

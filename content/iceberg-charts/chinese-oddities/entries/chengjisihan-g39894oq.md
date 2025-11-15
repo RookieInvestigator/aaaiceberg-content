@@ -1,6 +1,6 @@
 ---
 id: g39894oq
-order: 843
+order: 865
 name: 成吉思汗墓于四川论
 layer: 4
 categoryId: cat_7hqnYMGY
@@ -14,6 +14,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 

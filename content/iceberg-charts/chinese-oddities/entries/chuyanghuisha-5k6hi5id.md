@@ -1,6 +1,6 @@
 ---
 id: 5k6hi5id
-order: 285
+order: 287
 name: 出殃・回煞・避煞
 layer: 2
 categoryId: cat_uWLHUZtI
@@ -12,6 +12,6 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1758087125
+lastUpdated: 1763175677
 ---
 
