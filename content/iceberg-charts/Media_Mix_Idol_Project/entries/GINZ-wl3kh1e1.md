@@ -1,0 +1,16 @@
+---
+id: wl3kh1e1
+order: 208
+name: GINZAN BOYZ
+layer: 6
+categoryId: cat_2qwj3it1
+tagIds: []
+aliases: []
+titledLinks: []
+parent: ""
+relatedEntries: []
+timelineEvents: []
+nsfw: false
+lastUpdated: 1764312479
+---
+

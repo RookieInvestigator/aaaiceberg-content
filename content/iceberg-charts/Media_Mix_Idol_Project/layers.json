@@ -1,0 +1,49 @@
+{
+  "layers": [
+    {
+      "level": 1,
+      "name": "第 1 层",
+      "description": "关于第 1 层的描述。"
+    },
+    {
+      "level": 2,
+      "name": "第 2 层",
+      "description": "关于第 2 层的描述。"
+    },
+    {
+      "level": 3,
+      "name": "第 3 层",
+      "description": "关于第 3 层的描述。"
+    },
+    {
+      "level": 4,
+      "name": "第 4 层",
+      "description": "关于第 4 层的描述。"
+    },
+    {
+      "level": 5,
+      "name": "第 5 层",
+      "description": "关于第 5 层的描述。"
+    },
+    {
+      "level": 6,
+      "name": "第 6 层",
+      "description": "关于第 6 层的描述。"
+    },
+    {
+      "level": 7,
+      "name": "第 7 层",
+      "description": "关于第 7 层的描述。"
+    },
+    {
+      "level": 8,
+      "name": "第 8 层",
+      "description": "关于第 8 层的描述。"
+    },
+    {
+      "level": 9,
+      "name": "第 9 层",
+      "description": "关于第 9 层的描述。"
+    }
+  ]
+}

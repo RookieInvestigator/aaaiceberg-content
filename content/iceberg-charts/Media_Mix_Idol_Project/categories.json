@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "id": "cat_ty7tz11s",
+      "name": "虚拟层meme・概念・考察・另类解读",
+      "color": "#C2EBFF",
+      "description": "关于 虚拟层meme・概念・考察・另类解读 的分类。"
+    },
+    {
+      "id": "cat_ohysgk8l",
+      "name": "现实层趣谈・概念・考察・杂学",
+      "color": "#FFBDBD",
+      "description": "关于 现实层趣谈・概念・考察・杂学 的分类。"
+    },
+    {
+      "id": "cat_1o60resx",
+      "name": "人物・事务所・STAFF",
+      "color": "#94FE2A",
+      "description": "关于 人物・事务所・STAFF 的分类。"
+    },
+    {
+      "id": "cat_3r3w4stz",
+      "name": "社区内容・风潮",
+      "color": "#FEE09F",
+      "description": "关于 社区内容・风潮 的分类。"
+    },
+    {
+      "id": "cat_2qwj3it1",
+      "name": "包含对应真人形象活动的企划・偶像",
+      "color": "#FFFFFF",
+      "description": "关于 包含对应真人形象活动的企划・偶像 的分类。"
+    },
+    {
+      "id": "cat_7bikuze5",
+      "name": "虚拟企划・偶像",
+      "color": "#B5B5B5",
+      "description": "关于 虚拟企划・偶像 的分类。"
+    },
+    {
+      "id": "cat_71ibbxfy",
+      "name": "事件",
+      "color": "#FE2A2A",
+      "description": "关于 事件 的分类。"
+    },
+    {
+      "id": "cat_t9jbz5lm",
+      "name": "阴谋论・狂想",
+      "color": "#4F42FF",
+      "description": "关于 阴谋论・狂想 的分类。"
+    },
+    {
+      "id": "cat_f3dvxb0b",
+      "name": "作品・线下活动",
+      "color": "#FFA366",
+      "description": "关于 作品・线下活动 的分类。"
+    },
+    {
+      "id": "cat_v9co0l6e",
+      "name": "另类引用・创作・延伸",
+      "color": "#B42AFE",
+      "description": "关于 另类引用・创作・延伸 的分类。"
+    }
+  ]
+}

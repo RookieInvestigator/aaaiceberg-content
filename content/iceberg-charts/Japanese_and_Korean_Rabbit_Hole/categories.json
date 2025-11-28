@@ -1,0 +1,112 @@
+{
+  "categories": [
+    {
+      "id": "cat_vn3q6egr",
+      "name": "都市传说",
+      "color": "#ffffff",
+      "description": "关于 都市传说 的分类。"
+    },
+    {
+      "id": "cat_7mda2czu",
+      "name": "鬼宅・异常地点",
+      "color": "#bc8596",
+      "description": "关于 鬼宅・异常地点 的分类。"
+    },
+    {
+      "id": "cat_os5qemgb",
+      "name": "志怪・神话",
+      "color": "#dddcbb",
+      "description": "关于 志怪・神话 的分类。"
+    },
+    {
+      "id": "cat_4fdfrnjc",
+      "name": "互联网怪谈",
+      "color": "#a5d9e3",
+      "description": "关于 互联网怪谈 的分类。"
+    },
+    {
+      "id": "cat_s4cw0885",
+      "name": "阴谋论・边缘理论・伪史",
+      "color": "#8959e3",
+      "description": "关于 阴谋论・边缘理论・伪史 的分类。"
+    },
+    {
+      "id": "cat_o7hzx12a",
+      "name": "文学・电影・音乐・纯艺术",
+      "color": "#e891d1",
+      "description": "关于 文学・电影・音乐・纯艺术 的分类。"
+    },
+    {
+      "id": "cat_d8cgpf40",
+      "name": "游戏",
+      "color": "#f547a4",
+      "description": "关于 游戏 的分类。"
+    },
+    {
+      "id": "cat_vjd6exnk",
+      "name": "动画・漫画・轻小说",
+      "color": "#fe43ee",
+      "description": "关于 动画・漫画・轻小说 的分类。"
+    },
+    {
+      "id": "cat_40d6ixng",
+      "name": "宗教・民俗・神秘学",
+      "color": "#fbff00",
+      "description": "关于 宗教・民俗・神秘学 的分类。"
+    },
+    {
+      "id": "cat_sarhvmys",
+      "name": "科学・技术",
+      "color": "#00bfff",
+      "description": "关于 科学・技术 的分类。"
+    },
+    {
+      "id": "cat_gwtly4cc",
+      "name": "ARG・Unfiction",
+      "color": "#58dfb2",
+      "description": "关于 ARG・Unfiction 的分类。"
+    },
+    {
+      "id": "cat_tydisdi5",
+      "name": "真实犯罪・事故",
+      "color": "#f00000",
+      "description": "关于 真实犯罪・事故 的分类。"
+    },
+    {
+      "id": "cat_zhve921l",
+      "name": "放送・广播信号",
+      "color": "#7b6693",
+      "description": "关于 放送・广播信号 的分类。"
+    },
+    {
+      "id": "cat_pilyl12e",
+      "name": "历史・社会与文化",
+      "color": "#ffd666",
+      "description": "关于 历史・社会与文化 的分类。"
+    },
+    {
+      "id": "cat_cc9jst4d",
+      "name": "边缘科学・假说",
+      "color": "#4c64c2",
+      "description": "关于 边缘科学・假说 的分类。"
+    },
+    {
+      "id": "cat_sb0cqkla",
+      "name": "未确认生物・UFO遭遇",
+      "color": "#37ff00",
+      "description": "关于 未确认生物・UFO遭遇 的分类。"
+    },
+    {
+      "id": "cat_a1mxgweg",
+      "name": "二创・网络原创・互联网文化",
+      "color": "#af82b5",
+      "description": "关于 二创・网络原创・互联网文化 的分类。"
+    },
+    {
+      "id": "cat_k8097ygu",
+      "name": "哲学・意识形态",
+      "color": "#919191",
+      "description": "关于 哲学・意识形态 的分类。"
+    }
+  ]
+}
