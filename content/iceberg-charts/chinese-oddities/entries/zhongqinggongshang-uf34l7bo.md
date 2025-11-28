@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 著名的校园灵异传说。传闻称，重庆工商大学原南校区有十二栋楼，但第4栋楼在建成后不久因灵异事件被拆除。据说404宿舍的四名女学生曾在同一晚离奇死亡，导致这栋楼被认为不吉利。

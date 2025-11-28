@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 网络上流传的灵异游戏列表，名字常常是「民间十大见鬼方法」等，其中某些版本出自恐怖电影《见鬼十法》，也有一些版本是东西方民俗学禁忌、神秘学与都市传说的混合物。

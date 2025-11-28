@@ -19,7 +19,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 雷尔利安运动，普遍主张和平主义、温和的超人类主义与性别废除论的观点，是嬉皮士时代 Love&Peace 思想的活化石。且八面玲珑，懂得入乡随俗，逢迎中国传统文化与当下的主流意识形态，现在在中国境内没有被认定为邪教，似乎仍然有繁衍生息的余地。

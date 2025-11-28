@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 已停运网游《使命召唤Online》贫民窟地图衍生的都市传说，最早可追溯到2014年玩家社群中的讨论贴，诸多玩家声称在贫民窟地图中听到“小燕子 穿花衣”的声音，部分网友表示该传说可能与其他版本中的婴儿哭声彩蛋混淆了，该都市传说仍然未有定论。

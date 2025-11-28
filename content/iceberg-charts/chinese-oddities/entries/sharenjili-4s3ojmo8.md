@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 人祭和出于恐惧的崇拜追求的仅仅是灵验，而忽视了道德伦理。这样恐怖的民俗不知持续了多少年。————为了避免自我的崩溃，它们绝不容忍那些不可理解，不可触及的存在……

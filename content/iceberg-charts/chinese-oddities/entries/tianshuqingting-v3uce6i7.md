@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 艺术家徐冰的两个作品。前者是人造的四千多个伪汉字，后者是完全由公共监控剪辑拼凑出的电影。

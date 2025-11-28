@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 多年前一些小规模酱油加工厂被曝用理发店的碎毛发提炼酱油。过程极度恶心，慎看。

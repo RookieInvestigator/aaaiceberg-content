@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 痣相图是传统面相学中的一种相术，通过观察人体各部位痣的分布来占卜吉凶。通常分为面部的“显痣”与身体的“隐痣”两类，一般认为隐痣多吉而显痣多凶。

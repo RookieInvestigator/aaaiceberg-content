@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 位于四川省乐山市峨边彝族自治县，被称为「中国的百慕大」。据称黑竹沟的地磁异常带、浓雾和复杂的地形使得许多人在此失踪或遇险。

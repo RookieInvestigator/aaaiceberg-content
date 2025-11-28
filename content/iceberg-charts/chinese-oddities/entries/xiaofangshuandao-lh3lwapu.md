@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 街头文字涂鸦“泥巴快死快死！快化！”或与末日论有关。2024年出现于湖南省多个消防栓，有涂鸦者被拍到。该现象有调查员正在调查中。

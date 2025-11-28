@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 又叫老背物，老背背，云贵地区都市传说，类似俄罗斯的“芭芭雅嘎”，是一种吃小孩的怪物，外形介于人和鸟类之间，也有仅指人贩子的说法。与变婆，熊噶婆等应作区分。

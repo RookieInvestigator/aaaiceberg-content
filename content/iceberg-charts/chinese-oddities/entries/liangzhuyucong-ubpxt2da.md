@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一系列试图将古代的怪异人体特征与隐秘生物学联系起来的阴谋论。这些理论都大量借用了西方诸多阴谋论，假设了一个一直隐藏在中国史幕后的「大脚怪」文明。

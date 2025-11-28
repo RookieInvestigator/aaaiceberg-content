@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 案件发生在2006年香港青山湾，当时在海底发现了一具无头无掌的儿童尸体，腰部被绳索绑在铁柱上，残忍的手法似乎是「打生桩」习俗的延续。

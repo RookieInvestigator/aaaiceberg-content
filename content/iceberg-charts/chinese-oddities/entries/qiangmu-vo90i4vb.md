@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 西藏的宗教舞蹈，又称“面具舞”“傩舞”等。这种舞蹈是佛教传入西藏后与当地的苯教冲突形成的。

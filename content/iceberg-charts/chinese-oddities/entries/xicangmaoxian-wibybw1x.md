@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 冰川探险者、冒险主播王相军2020年12月20日在探险中身亡，一些阴谋论认为同行者「小左」或是秘密组织「兄弟堂」策划谋害了他，论据包括他过往视频中降噪的说话声、「神秘直升机」等。

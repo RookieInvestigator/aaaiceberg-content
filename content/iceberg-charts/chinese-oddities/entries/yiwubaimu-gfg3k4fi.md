@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 几十年来，重庆江津市杜市镇梅塆村村民身上穿的衣服总是莫名其妙出现刀割似的破洞，曾出现了许多解释如虫蛀说，磁场说。最终经过专家研究认为大概率是人为所致，实际上该村只有4户人家，其中3户受此现象影响。

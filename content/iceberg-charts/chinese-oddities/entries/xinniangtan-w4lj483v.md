@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 位于香港新界北区的船湾郊野公园，以其美丽的瀑布和水潭而闻名。传说一位新娘在出嫁途中因轿夫失足而跌入潭中溺亡，因此得名。此地常被传有灵异事件，如看到新娘的鬼魂。

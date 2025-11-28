@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一种古老的中国方术实践，蛊被视为一种能够寄附于人体或物体上的超自然力量，能够对人产生负面影响。最常见的蛊是以毒虫为媒介的。

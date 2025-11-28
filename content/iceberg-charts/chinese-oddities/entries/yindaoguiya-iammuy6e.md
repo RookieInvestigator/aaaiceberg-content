@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 若人死为鬼，鬼界不会人口爆炸吗？

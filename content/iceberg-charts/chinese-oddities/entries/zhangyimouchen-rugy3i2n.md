@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 关于张艺谋与UFO接触的传闻，主要源自1985年他在拍摄陈凯歌导演的电影《大阅兵》时的经历。据说，当时张艺谋和其他工作人员在收拾设备时，目睹了一个悬浮在空中的不明飞行物。

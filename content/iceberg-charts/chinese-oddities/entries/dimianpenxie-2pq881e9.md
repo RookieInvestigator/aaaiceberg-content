@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 发生在贵州省遵义市的一个村庄。据报道，村民家中的地板突然喷出红色液体，持续了十多分钟。经过警方和专家的调查，发现这些液体并非人血或动物血。

@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 非物质文化遗产，涵盖800种版本的神像年画，被誉为木刻版画的活化石。

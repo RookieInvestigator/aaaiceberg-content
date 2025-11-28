@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 1973年出土于甘肃秦安大地湾遗址，新石器时代仰韶文化的代表性文物。瓶口为圆润的女性头像，瓶身饰以流畅的几何纹饰，可能是祭祀或礼仪用具。瓶口头像或与上古女神崇拜相关。

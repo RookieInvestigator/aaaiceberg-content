@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 播报暗号的数字电台，经常被称为「China Robot」，分别位于 7.1MHz 与 7.015MHz 左右。被认为可能是空军的信标台。

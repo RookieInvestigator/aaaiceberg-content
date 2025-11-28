@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 又称腽肭兽，在古代被描述为一种怪异的海洋动物，外形像鹿，头似狗，长尾巴。由于其药用价值和神秘的外形特征，腽肭兽逐渐被赋予了神秘色彩，甚至被描绘成海怪。

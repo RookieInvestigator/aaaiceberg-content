@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 2008年的《法医学杂志》中曾经记载过的离奇案件，一男子在睡眠中持刀杀死家中数位亲属，但醒来后完全不知情，之后被判定为“病理性睡眠障碍”，据本人称事发时感觉家中气氛诡异恐怖，伴有神秘声音指导其作案。

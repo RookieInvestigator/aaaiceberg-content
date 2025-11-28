@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 大部分论证都是伪史论常见的那种，但这个系列的特点是真的很多，一直在更新各种数理领域的甲骨文版本……说不定他真的想做芯片。

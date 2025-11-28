@@ -18,7 +18,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一个名为绿之韵幸福国际的直销公司的宣传口号，被反复写在楼梯上。楼梯的照片被视作「中式怪核」或「中式恐怖」的代表图片之一。

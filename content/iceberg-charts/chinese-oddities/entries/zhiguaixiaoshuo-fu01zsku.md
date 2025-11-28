@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 “海岛漂流”是中国古代志怪小说的经典母题，常循“出海-遇风-漂至奇岛-奇异经历-回归”的叙事脉络，故事情节往往充满玄幻色彩。

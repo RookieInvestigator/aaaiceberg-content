@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 古代各种笔记小说中都出现的一种社会情况，即把活人钉死在座上，用来制造肉身佛，骗人去烧香捐钱。《子不语》里面的记载最细。

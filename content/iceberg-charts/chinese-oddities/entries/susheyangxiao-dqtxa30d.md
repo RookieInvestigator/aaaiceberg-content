@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 网上流传的几个视频和聊天记录，指出女生宿舍有人养小鬼，有人发现视频存在跳帧，且视频拍摄地点不是同一个地方。可信度极低。

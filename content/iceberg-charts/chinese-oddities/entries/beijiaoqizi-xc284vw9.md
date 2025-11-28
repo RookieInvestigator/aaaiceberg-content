@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 传说七位情同手足的少女，她们立下「宁死不嫁」的誓言。当三妹被父母逼婚时，七姐妹在出嫁前一晚相拥痛哭，最终手牵手投海自尽。她们的尸体化作七块礁石，成为「七姊妹石」，而北角的地名也因此得名。

@@ -18,7 +18,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一系列围绕中外法师/超能力者/风水师展开的网传故事，现今经常与749局等组织联系在一起，不过此类故事含有大量未经科学认证的情节，请读者自行判断。

@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 隆务寺一块木板上的脚印。当地人认为这对脚印是由一位虔诚的礼佛者在此地祈祷了数十年而深深印在上面的。

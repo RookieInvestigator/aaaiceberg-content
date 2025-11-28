@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 网传通过微波炉加热公交卡产生的电磁波可以影响公交卡内的余额，实际上是彻头彻尾的恶作剧。然而通过技术手段破解公交卡或是饭卡水卡并非不可能。

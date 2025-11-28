@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 在网络流传的一类阴谋论。该理论认为，受污染电网的电流或电力谐波会导致游戏出现闪屏、锯齿、渲染距离近等显示问题，而电网受污染是由风力发电或虚拟货币“挖矿”导致。

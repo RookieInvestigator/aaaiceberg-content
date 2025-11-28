@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 国际密码研究协会提出的谜案，有七根金条据称于 1933 年发给了中国上海的一位王将军。这些金条似乎与美国银行的存款相关。有人分析指出其中存在许多疑点，或许它们背后的故事是杜撰的。

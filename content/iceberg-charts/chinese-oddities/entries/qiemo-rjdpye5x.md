@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 藏语中的「野人」，传说生活在冈仁波齐峰。1996年，中韩登山队在攀登冈仁波齐峰时，中方总队长发现了一串奇怪的脚印，并拍下了照片，这些脚印被认为是「切莫」的。冈仁波齐峰本身也被传说怪谈笼罩着。

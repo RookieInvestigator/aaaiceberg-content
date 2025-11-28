@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 春秋战国时期的珍宝，与「和氏璧」并称。一说为夜明珠，又说为蜻蜓眼琉璃珠。

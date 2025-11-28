@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 湖南省境内南岳衡山岣嵝峰一石碑，刻有共77字9行。原石碑现已无存，但全国各地存有不少翻刻。其上的文字形如蝌蚪，含义难解，常见的解释有道教符篆说与大禹治水记载说。

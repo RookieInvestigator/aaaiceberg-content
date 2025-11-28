@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 2008年1月，彰化县刘姓母女在员林镇一栋大楼的电梯内失踪。监控显示她们在11楼脱下外套和鞋子后离开电梯，随后消失。警方地毯式搜索大楼未果，案件至今未解。

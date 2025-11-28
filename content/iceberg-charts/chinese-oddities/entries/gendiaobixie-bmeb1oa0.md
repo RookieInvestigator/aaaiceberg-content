@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 迄今为止考古年代发现最早的根雕艺术品，虎头龙身且不对称。是根雕艺术的鼻祖。收藏于荆州博物馆。

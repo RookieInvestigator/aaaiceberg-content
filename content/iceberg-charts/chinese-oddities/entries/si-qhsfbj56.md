@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 中国古代文献记载的独角动物，外形类似犀牛。一种观点认为兕即是圣水牛。

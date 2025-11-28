@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 中国古代修真的总纲，儒释道三家的修持均围绕其展开。此图可见于各种宗教场所，但不推荐轻易按图修行。

@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 非常混沌的课题，边缘理论频发，其引起的辩论范围涵盖了全球殖民史、萨丕尔-沃夫假说和色盲悖论。

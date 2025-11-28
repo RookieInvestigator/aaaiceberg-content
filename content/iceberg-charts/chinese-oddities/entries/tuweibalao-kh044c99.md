@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 从东北到海南都有的龙神传说，基本都是讲述龙被断尾变成人，造福百姓的故事。

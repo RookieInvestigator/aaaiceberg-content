@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 1994年12月1日凌晨，贵州省贵阳市白云区都溪林场发生UFO目击事件。目击者看到发出红绿光的不明物体，导致400多亩松树林被毁，车辆厂受损。尽管有自然现象解释，但事件仍被视为中国著名的UFO悬案之一。

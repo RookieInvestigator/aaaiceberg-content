@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 李清云是一名中草药专家和气功大师，据传享年256岁。陈俊是福建永泰县汤埕村的一位传说中的长寿老人，据说他从公元881年活到1324年，享年443岁。

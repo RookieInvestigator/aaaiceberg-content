@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 位于西营盘，以高街鬼屋的传说而闻名。这座建筑曾是精神病院，二战期间被日军用作刑场，许多人声称在夜晚能听到惨叫声和撞击声，甚至看到鬼魂。

@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 松山战役中拾得的怪异信件，内容语言别扭，意义不明。有人认为是某种暗语，至今尚未被破译。

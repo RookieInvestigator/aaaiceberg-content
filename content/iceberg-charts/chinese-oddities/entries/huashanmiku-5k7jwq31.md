@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 安徽黄山一处庞大的人工地下石窟群。由于史料并无记载，对其开凿原因的猜想颇多。

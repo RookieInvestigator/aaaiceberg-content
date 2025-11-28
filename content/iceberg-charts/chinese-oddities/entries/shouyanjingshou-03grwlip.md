@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 出现于街头小广告的文字，实际为用熟鸡蛋按摩眼睛和捕捉蛊虫的民间巫术。

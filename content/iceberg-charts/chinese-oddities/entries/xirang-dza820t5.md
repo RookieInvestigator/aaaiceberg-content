@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 息壤是中国古代传说中的一种土壤，能够自行生长和膨胀。据传，大禹治水时使用息壤来填堵洪水。

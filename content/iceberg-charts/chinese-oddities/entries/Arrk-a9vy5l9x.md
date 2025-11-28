@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 小红书的一系列发送给同一张黑白人脸图片打红圈的账号，文字与图像意义不明，被认为带有暗号或是被重组的一些英语德语单词。目前猜测为小圈子内部娱乐的形式，也有可能是ARG或是艺术项目。

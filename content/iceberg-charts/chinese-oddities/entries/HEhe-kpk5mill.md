@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一位B站的放送迷、创作者，有自己独特的美学观念，制作了许多中国传统红衣与兔子融合的图像作品，其审美偏好似乎与一些民俗有关。

@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 1972年8月，台湾地区的东海大学毕业生邱高与两名同学登上奇莱山，后来失联12天，三人至今没有被找到，生死不明。

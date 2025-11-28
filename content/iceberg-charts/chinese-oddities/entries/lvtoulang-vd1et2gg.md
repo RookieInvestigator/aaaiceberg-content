@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 传说中生活在神农架地区的神秘生物，长的和驴一样大。叫声像驴，但是爪子像狼。有学者认为其可能与灭绝的史前动物“沙犷”有关。

@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 被记载在古籍中，但却无实物出土的兵器代表。其实际外形与效用众说纷纭，在中国古代兵器复原领域中有着很大的热度（以及争议）。

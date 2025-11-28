@@ -11,7 +11,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 位于台南的废弃医院。曾传出长发女鬼和白衣阿伯的灵异传说，被炒作为台湾最大鬼屋。

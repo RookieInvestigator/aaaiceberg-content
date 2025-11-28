@@ -18,7 +18,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 京剧及各种地方戏的脸谱面具中，有一类格外恐怖。它们曾在八闽的戏台上随锣鼓翻腾，扮神驱邪、镇鬼安魂。等等……台上的……真的是活人吗？

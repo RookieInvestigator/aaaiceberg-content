@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一本封面和标题富有怪核气息的书，由叶荫聪和施鹏翔创作于1999年。其实该书内容主要是在批判资本主义霸权。

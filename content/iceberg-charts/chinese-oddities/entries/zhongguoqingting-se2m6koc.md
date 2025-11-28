@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 起源自中东地区，在春秋时期便传入我国的一类装饰品，是早期东西方文化交流的一大例证。战国后，这类装饰品又在我国迅速减少，只零星发现。

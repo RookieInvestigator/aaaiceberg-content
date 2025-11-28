@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 清末民初黎澍所著，以问答体的形式，记述他在阴间中任冥判的种种见闻。

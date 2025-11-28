@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 搜索：火枪猫GPT召灵，少微君「AI 圆光术」，秘义之光「数智之路」。这是一个正在上升期的流派…。

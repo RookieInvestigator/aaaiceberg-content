@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 新北市瑞芳水南洞附近的台金戏院，建造时发生过多起工人坠楼，后又传出播放电影时出现鬼魅的传说。

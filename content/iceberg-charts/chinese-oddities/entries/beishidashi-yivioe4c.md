@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一段来源不明的视频录像，视频中的老师正在讲课，而黑板上方的时钟分针比秒针转得还快，而且讲台上的老师一直讲一些涉及宗教灵性的内容。有人认为视频是PS，也有人认为视频中的是自动校准的电波钟。

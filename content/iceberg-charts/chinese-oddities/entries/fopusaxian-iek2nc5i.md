@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 网传“佛菩萨显圣真影”照片，有的甚至标注时间、地点和背景。这些照片实际均为人工PS合成、空想性错视、正常光学现象（如彩虹）误解，或是翻拍佛菩萨画像曝光过度而形成。

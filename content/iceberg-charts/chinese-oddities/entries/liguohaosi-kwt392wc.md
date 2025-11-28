@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 李国豪在1993年拍摄电影《乌鸦》时意外中枪身亡，引发了广泛的阴谋论。一些人认为他是被黑帮谋杀，但官方调查结论是道具枪意外发射出真子弹，导致他失血过多死亡。

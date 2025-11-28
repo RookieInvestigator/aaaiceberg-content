@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 2007年“7·18”济南特大暴雨中，银座地下商场灌入洪水，遇难人数不明。此后，坊间开始流传源自此次灾难的灵异传说，包括有女孩看见地下商场躺着很多人等传闻。

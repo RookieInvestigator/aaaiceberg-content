@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 天涯的一个教程帖，主要讲述如何通过特殊的饲养方法，将普通的动植物培养成具有灵性的「灵宠」和「灵草」。

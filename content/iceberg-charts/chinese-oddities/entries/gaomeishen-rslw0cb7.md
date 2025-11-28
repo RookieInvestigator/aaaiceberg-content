@@ -11,7 +11,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 又称句芒，婚姻和生育之神，先民对其的崇拜最早可追溯到新石器时代。

@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 敦煌写本中李白《将进酒》的异文版本。由于其为唐代文献，又与通行版《将进酒》有所不同，许多人认为这是更接近李白原稿的原始版本。其中「古来贤圣皆死尽」一句讨论颇多。

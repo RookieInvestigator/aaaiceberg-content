@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 2024年8月，某位小红书用户发布帖子，表示自己的ipad上突然出现有关「自杀」的提醒，评论区内也有多人表示自己遭遇过相似情况。据统计，这些消息集中出现于2023年10月至12月期间，且都出现于苹果设备。

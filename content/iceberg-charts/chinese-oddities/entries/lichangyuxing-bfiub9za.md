@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 国际刑侦专家李昌钰博士建立的全球首家刑侦科学类博物馆。馆内设多起真实凶案的还原场景及真实案件遗留凶器，胆小慎入。

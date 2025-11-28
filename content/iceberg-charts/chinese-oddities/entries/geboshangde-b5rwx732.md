@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 网传每个人胳膊内侧都有一颗痣，位置相差不大，有人认为这是人被创造出来打上的编码。

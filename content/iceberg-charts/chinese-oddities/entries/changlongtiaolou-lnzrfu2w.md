@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一个关于广州长隆欢乐世界的恐怖故事。传说有一位年轻女孩在乘坐跳楼机时，因为头发卷入齿轮被扯断头。这个故事被认为是反映了头发被夹导致头皮撕裂这类潜在危险的恐惧。

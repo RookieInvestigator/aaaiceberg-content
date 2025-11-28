@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 位于辽宁省沈阳市沈北新区，是一段长约80米、宽约15米的斜坡。尽管看起来是上坡，但熄火的汽车和自行车可以自动向上滑行。这种现象被认为是由于视错觉造成的。

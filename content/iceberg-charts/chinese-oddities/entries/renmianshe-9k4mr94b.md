@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 制造人面蛇的工序极其复杂和残忍，待两名乞丐招供，百姓恨不得将二人当场打死。

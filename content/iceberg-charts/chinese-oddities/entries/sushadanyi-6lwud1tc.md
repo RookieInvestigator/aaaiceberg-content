@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 出土于马王堆汉墓的两件西汉时期极薄丝织品衣物，重量分别只为48克与49克。

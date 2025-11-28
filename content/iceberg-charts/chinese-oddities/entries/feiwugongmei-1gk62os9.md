@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 飞蜈蚣：鲁迅提及的一种会飞的蜈蚣，克制美女蛇。美女蛇：鲁迅提及的一种长有美女面孔的蛇，被飞蜈蚣克制。

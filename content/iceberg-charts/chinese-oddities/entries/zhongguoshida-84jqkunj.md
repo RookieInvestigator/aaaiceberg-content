@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 在民间与互联网上广为流传的内容，均为极度残忍、涉及动物活体虐待的菜式，真假不明。

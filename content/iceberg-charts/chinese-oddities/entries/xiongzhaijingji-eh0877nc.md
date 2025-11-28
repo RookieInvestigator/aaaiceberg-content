@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 台湾年轻人因高房价而对价格较低的凶宅产生兴趣，顾客和中介学习如何通过各种方式驱鬼，来处理凶宅。形成了一种特殊的经济系统。

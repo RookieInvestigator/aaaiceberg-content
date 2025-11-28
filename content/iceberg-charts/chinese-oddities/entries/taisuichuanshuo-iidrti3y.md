@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 又称肉灵芝，是中国古代传说中的神秘生物，被认为具有长生不老的药用价值，常见于《本草纲目》等古籍中，民间认为它是太岁神的化身。一种科学假说认为肉灵芝可能是黏菌复合体。

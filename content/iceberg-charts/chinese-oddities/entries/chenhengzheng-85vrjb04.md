@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 陈恒正是中国台湾的一名刑警，有「通灵神探」的称号。据传他查案时死者都会托梦告知他关键线索，从而引导破案。

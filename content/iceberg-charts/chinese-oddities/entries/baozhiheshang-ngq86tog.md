@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 南朝齐梁时期高僧宝志，为梁武帝显化神通时，划开面部现出十二面观音法相，印证其观音化身身份，彰显禅宗“即相离相”思想，此事载于《五灯会元》等典籍，成为佛教艺术与信仰传播的重要典故。

@@ -18,7 +18,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 从古代以来，中国社会就有诸多投毒恐慌的案例。

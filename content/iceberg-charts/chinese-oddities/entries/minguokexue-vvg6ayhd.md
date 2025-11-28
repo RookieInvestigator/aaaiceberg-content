@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一种缝合了科学和玄学的周易流派，涉及学科众多，总之但凡涉及用科学解释玄学抑或反之的事建议谨慎对待。

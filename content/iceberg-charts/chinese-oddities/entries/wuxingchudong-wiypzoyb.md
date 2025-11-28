@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 在新疆发现的织锦，因其图案复杂艳丽，之上的文字与现代暗合，获得大量关注。关于其原始用途，有护臂与厌胜辟邪物两种说法。

@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 云南传说中的野人、大脚怪一类的生物，脚是倒着长的，奔跑速度极快。

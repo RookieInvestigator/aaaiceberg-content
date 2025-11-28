@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 中医传统骨伤疗法，利用柳树枝的特性做成夹板，辅助骨骼复位。现在柳枝已被更好的材料替代。

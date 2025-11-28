@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 出自《述异记》，云南各地出现的妖人，一说鬼怪，用邪法害人，神出鬼没。受害者只要与妖人擦肩而过就会倒地而亡，被人扶起时会发现其五官全都消失不见，脸皮皆被妖人夺去了。

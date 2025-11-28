@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 据传为长沙市的蝴蝶大厦。传说中，这里发生过KTV起火、灵异声音、电梯事故、坠物事件和凶杀案等神秘事件。可能大部分都是编的。

@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 古人编写的有关古代战争，自然灾害，瘟疫预警的对话体预言，以佛祖和玉帝二人讨论未来为引，预言未来的灾难与变革。

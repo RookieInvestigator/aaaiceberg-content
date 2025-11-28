@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 搜索：天葬、树葬、花葬、二次葬-拾骨葬、腹葬、悬棺、厝棺。

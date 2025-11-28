@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 包括「辽宁古盗鸟」、「柯氏猎豹」等伪造化石事件。这些伪造的化石都是为了证明一些重要的科学假说（猎豹旧大陆起源说、恐龙和鸟类的缺失环节）。

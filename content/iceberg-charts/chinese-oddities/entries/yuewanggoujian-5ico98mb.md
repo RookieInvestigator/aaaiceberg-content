@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 越王勾践剑出土于1965年湖北江陵，传说具有「金属记忆」功能，经考察这是由一些博物馆解说词夸张化修辞发展而来的都市传说。

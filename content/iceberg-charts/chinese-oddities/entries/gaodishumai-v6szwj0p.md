@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 流行于西汉时期的丧葬文书，作用主要是向阴间判官通报死者身份和陪葬品信息。在东汉时期演变为买地券，反应了汉代“事死如事生”的丧葬观念体系。

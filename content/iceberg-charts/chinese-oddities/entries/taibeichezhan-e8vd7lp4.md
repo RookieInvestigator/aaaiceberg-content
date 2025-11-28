@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 传闻旧台北车站的四字灯牌如有一字不亮，隔日台铁就会发生事故。

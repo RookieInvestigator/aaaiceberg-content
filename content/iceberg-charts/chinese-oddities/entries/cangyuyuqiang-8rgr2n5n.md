@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 于石峁文化石峁古城墙体夹层中，玉牙璋、玉刀、玉钺等祭祀礼器被大量发现。这些玉器大多经过刻意折断或损坏，并非随葬或实用，而是被有意嵌入城墙中。学界推测这可能是当时此地一种祭祀仪式或防御性巫术行为。

@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 有些人觉得中国很多理工学校（如河北工业大学，承德石油高等专科学校）等构图相似，因此衍生出很多meme和解读。

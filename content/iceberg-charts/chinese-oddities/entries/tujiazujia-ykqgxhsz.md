@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 街头小广告，内容如下：上吊死两天之内者救活率百分之90，两万元。水淹死两天之内者救活率百分之80，两万元………以此类推，署名是代医生。

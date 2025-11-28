@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 传说中一种半人半鱼的生物，为中国东晋年间地方民变首领卢循之后。于香港大澳及珠海万山群岛一带出没。

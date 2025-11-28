@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 2007年6月北京电视台生活频道工作人员被怀疑捏造新闻的事件。新闻称北京市众多的流动摊贩卖的包子馅内混有纸制品。参与造假者事后遭处分。

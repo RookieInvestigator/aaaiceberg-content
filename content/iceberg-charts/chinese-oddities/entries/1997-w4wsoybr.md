@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 1997年夏天山西大同发生的UFO坠毁事件。据目击者描述，当晚一道白光划破夜空，随后坠落在大同市28军的驻地。目击者自称看到两个外星生物，其中一个还活着，并试图与人类交流，随后军方迅速封锁现场，并将飞碟和外星生物转移。

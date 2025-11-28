@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 仓颉庙内的一块石碑，上刻28个神秘符号，传为仓颉所造象形文字的本形。

@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 「月球方形小屋」是由中国的玉兔二号月球车在2021年10月拍摄到的一张照片引起的猜测。当时，玉兔二号在月球背面发现了一个看起来像是方形建筑物的物体，后被阐明是一块岩石。

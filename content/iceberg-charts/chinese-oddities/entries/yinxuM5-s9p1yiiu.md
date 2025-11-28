@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 器为右手，手背饰有半个饕餮面纹。其功用有「假肢」「工具」「权杖」「武器」等说法。

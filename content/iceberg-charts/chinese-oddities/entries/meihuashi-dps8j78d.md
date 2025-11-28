@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 《梅花诗》是北宋时期易学家邵雍所作的十首预言诗，预言了他身后中国的大的历史演变。该书在流传过程中不断被人篡改，将已知的历史改成图谶，加以比附，故其本来面目已渺不可考。

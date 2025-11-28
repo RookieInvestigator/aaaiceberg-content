@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 发布于天涯论坛莲蓬鬼话中的一篇故事，另外作者至今还在更新微博（作者微博ID：天涯著名人士）

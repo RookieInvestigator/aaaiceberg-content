@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 出现在嘉义市兰谭的水怪，传说中是鲤鱼形状，也有牛形，会抓人做交替，产生溺亡事件。

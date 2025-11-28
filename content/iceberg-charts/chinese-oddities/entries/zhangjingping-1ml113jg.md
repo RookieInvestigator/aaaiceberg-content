@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 张靖平，自称世界华人UFO联合会目击调研部主任，调查了多起国内UFO接触事件，包括曹公事件、黄延秋事件。

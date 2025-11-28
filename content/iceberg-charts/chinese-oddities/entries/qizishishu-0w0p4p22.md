@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一种由数字构成的卦画，见于先秦甲骨、陶器、青铜器和竹简，可能为易卦最早的表现形式。

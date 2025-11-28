@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一名当代艺术家，其早期创作的一些行为艺术品频繁涉及食人、戮尸等主题，被指违背人伦。

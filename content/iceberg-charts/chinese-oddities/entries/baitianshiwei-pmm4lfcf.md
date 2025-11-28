@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 某居民楼外墙张贴的写有无意义语句的海报，推测为脑控群体所贴或与邪教有关。

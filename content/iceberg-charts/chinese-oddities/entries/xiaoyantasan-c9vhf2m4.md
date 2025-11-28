@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 据史料记载，西安小雁塔曾三度于地震中开裂，后续又在另一次地震自行合拢。一种观点认为这可能是土石积累和攀缘植物造成的视错觉。

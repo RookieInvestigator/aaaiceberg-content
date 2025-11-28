@@ -19,7 +19,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 来自韩国的系列小红书账号，发布的笔记由地球、雨伞emoji和一串无意义的韩文汉字组成。在韩国本土也有许多类似账号，经考察或为预修・寄库・受生债与互联网灵性中的显化文化综摄产物。

@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 这是一个早期互联网都市传说。据传Windows XP的蓝天白云壁纸隐藏着文字，需调高亮度才可见，文字内容竟是WHG KILL ME（WHG是比尔盖茨姓名缩写），因此有人猜测比尔盖茨谋杀了某人并将他的灵魂囚禁于系统，文字内容即是求救信号。此后网友还从多角度论证了其真实性，其中涉及一些XP系统的彩蛋。

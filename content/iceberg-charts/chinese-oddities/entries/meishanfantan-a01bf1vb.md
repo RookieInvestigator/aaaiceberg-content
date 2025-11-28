@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 张五郎，民间神祗，梅山民俗传说中的狩猎之神，是一位双手撑地，两脚朝天倒立的神，传说是太上老君的徒弟。

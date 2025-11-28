@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 2006年10月1日，一辆711路公交车在嘉陵江石门大桥失控坠桥，导致29人死亡，21人受伤。事故原因不明，车牌号谐音「死要一路去」引发诡异传闻，事故地点被认为闹鬼，居民称听到怪异声音。

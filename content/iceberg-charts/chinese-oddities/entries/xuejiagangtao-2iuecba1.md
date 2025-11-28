@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 薛家岗遗址最具特征的出土文物，球形有孔，印有线纹。绝大多数均为中空，内含一小陶球，摇之有声。

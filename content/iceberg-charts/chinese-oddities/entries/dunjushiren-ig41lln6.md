@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 原始社会生殖崇拜、萨满教的祖先崇拜、族徽文字、仪式舞蹈……

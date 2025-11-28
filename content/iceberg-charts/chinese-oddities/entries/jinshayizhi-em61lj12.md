@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 整体形如直立人，但原本应为头部的位置为一圆形孔洞。两侧肩部和小腿近足部各有一个小圆孔。其使用功能不详。因其外形酷似现代的宇航服，在互联网上讨论颇多。

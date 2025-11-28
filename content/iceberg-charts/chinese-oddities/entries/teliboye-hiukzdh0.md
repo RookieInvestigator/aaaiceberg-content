@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 欧洲特里波耶文化中出现的双蛇螺旋图案，与我国的太极图案极其相似。

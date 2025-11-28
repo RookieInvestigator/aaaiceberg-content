@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 妇好墓出土的玉人像，穿袍戴冠，其后腰延伸出一个「发条」样宽柄器。目前学界猜测这一人像即为妇好本人，而对「发条」样部件的猜想颇多，有「双蛇」「龙尾」「背剑」「祭祀法器」等。

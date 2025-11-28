@@ -20,7 +20,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 2001年起中国有一种天文学热的风潮，融合了幻想和科普的社会氛围，在此背景下很多学校按指标建立起了天文台。时过境迁，这些天文台被废弃，只留下了朦胧的记忆与神秘的印象。

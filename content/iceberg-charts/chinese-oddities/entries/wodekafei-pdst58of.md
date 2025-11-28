@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 流传于互联网的视频。一家4S店中，一女子左手拿着镜子，右手拿着棉垫补妆，嘴里不断重复「我的咖啡好了吗？」  在送上咖啡后，女子便「不慎」将咖啡弄倒并继续重复前述句子。如此数遍。

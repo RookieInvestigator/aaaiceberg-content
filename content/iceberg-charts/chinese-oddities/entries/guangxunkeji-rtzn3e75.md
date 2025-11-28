@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 脑控社群最大的解控产品生产和销售公司，利用精神分裂和被害妄想患者的不安心理欺骗他人购买解控仪等，疑似线下有实体店但未查明具体位置。

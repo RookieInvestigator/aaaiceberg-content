@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 相传是流传于江西丰城民间的武功。又称五把钳，类似点穴，与人有肢体接触后可使人在不知不觉中死去。

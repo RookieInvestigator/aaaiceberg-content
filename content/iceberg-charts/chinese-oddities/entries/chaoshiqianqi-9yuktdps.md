@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 民间科学家吴粲提出的理论，具体内容为把一些200万年前的石头解读成刻有文字、符号、经纬度的史前地球仪，或是某些技术物件，从而论证「前一代文明」的存在。

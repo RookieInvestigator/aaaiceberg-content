@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 从巴蜀古域出土的器物中发现的一些图形符号，被一些学者认为是巴蜀文字的雏形。

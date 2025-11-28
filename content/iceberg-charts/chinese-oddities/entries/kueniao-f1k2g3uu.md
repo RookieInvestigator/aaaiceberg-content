@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一种水鸟，叫声是“苦恶！”，长江流域各省民间传说苦阿鸟是由冤死妇女变成的，这类传说往往表达封建礼教的阴暗。

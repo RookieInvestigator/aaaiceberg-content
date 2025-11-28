@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 伍勇案，因自身偏执的理想主义而犯下杀人案希望引起社会关注。疑似曾受《一个精神医生的手记》启发。

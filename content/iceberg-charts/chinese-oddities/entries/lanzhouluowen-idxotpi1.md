@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一块长约8厘米的梨形黑色奇石，内部嵌有长约6厘米的圆锥形金属棒，金属棒表面带有螺纹。真伪未知。

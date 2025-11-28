@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 河池市金城江区委原书记覃生贤因为作风问题被纪委调查，双开通报称他通过「魇镇」等巫蛊之术诅咒办案人员。

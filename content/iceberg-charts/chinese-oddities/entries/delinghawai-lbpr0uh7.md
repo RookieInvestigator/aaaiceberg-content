@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 德令哈外星人遗址，位于位于青海省德令哈市白公山下。这里发现了大量神秘铁质管状物，嵌入山体洞穴中，因形态奇特，被认为可能与外星文明或远古未知技术有关。科学的解释认为，所谓的铁质管状物实际上是树木化石。

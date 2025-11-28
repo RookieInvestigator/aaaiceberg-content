@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 均为中国重要史前岩画遗址，内容以狩猎、祭祀、天体等原始生活与信仰为主。其中的一些图画被认为是UFO、外星人或超前科技。

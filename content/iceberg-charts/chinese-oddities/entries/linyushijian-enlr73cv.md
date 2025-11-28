@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 百度贴吧灵异吧一名自称从特殊部门逃出来的异能人林羽发的贴子，揭露了大量神秘事件，现已删除。

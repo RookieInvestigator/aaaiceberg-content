@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 香港街头街头涂鸦者，自称九龙皇帝，在香港街头大量书写毛笔字以「宣示主权」。

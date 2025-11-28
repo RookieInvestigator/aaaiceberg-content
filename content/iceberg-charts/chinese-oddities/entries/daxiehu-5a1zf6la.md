@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 《阅微草堂笔记》中记载的一种戈壁爬行动物，能学人站立。可能为一种巨蜥。

@@ -19,7 +19,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 禅病是由于禅修方法不当引发的身心疾病，主要表现为身体疼痛、心理错乱、情绪失控等，最严重者会进入谵妄或精神分裂症状态。禅病是佛教和神经神学很重视的医学课题。

@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 1981年台北市大安国中学生在期中考结束后去外双溪附近野餐游玩，由于工作人员疏忽在错误时间开闸放水，导致15名师生死亡。

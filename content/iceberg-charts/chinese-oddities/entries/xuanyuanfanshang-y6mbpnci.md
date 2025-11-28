@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 由廖凯原教授提出的理论，内容充满复杂的符号、宗教和神话元素，以及量子力学等现代科学术语。该体系强调通过「反熵」来实现系统的自我优化和进化

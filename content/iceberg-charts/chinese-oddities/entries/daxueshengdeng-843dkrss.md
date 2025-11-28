@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 由 Shiroki 制作的网页解密游戏，为民俗恐怖题材。

@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 北京五中分校教师，2008年9月30日，任铁生独自离家去往妙峰山登山，此后失踪，其人至今没有被找到，生死不明。

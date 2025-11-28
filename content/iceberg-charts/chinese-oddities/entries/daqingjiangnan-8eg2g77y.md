@@ -19,7 +19,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 某汉化组在翻译一本1920年的美国成人漫画时用了这个马甲，还附上了“大清宣统元年六月“，被误认为清朝的成人漫画。

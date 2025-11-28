@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 传说为黄河清淤工程中村民中挖出的透明棺材，挖出后村民出现了集体尖叫的现象。棺中有小鱼游动却看不清尸体的样子。给村庄带来了灾难。实为网友根据南派三叔《黄河鬼棺》编造。

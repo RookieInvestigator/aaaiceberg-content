@@ -11,7 +11,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 湖南省株洲市炎帝陵景区的自然景观，民间传说是炎帝的守陵金龙所化。

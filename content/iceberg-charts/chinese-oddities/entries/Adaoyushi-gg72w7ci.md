@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 发生在西美公共浴室的诡异事件，有人认为楼主患有精神分裂，帖子内容是精分发作时的症状，后续有人自称原贴楼主的学妹并匿名投稿称原贴楼主已自杀

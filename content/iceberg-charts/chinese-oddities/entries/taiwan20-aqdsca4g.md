@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 戏仿调侃著名邪典游戏《香港97》的更邪典的游戏。内容基本是荒诞不经的巨魔内容。此游戏发售以来就长期处于失传状态，于 2023 年 11 月 17 日重新被找回。

@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 人体科学和超心理学方面的学术研究留存直到21世纪仍然存在的一些案例。包括「鸡蛋反生」、「量子速读」、「灵寿农民」、「三层物质理论假说」、「上海市气功研究所」等。

@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 既然大英有妖精厌恶铁器的民俗传说，那么当然可以有逆向版本……技术进步主义的小人国。

@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 灾祸预兆类怪谈，把天灾相关的怪异描述得如自然现象般无缘由。很可能是对于甲申之变的预兆，李自成军队入关前提前做好的劫掠标记在传播过程中演化为类似的怪谈。

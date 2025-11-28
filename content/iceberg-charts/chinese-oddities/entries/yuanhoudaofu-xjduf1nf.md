@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 以生态批评、环境观念史等领域解读的中国野人志怪传说。另见论文《Wild Pandas, Wild People: Two Views of Wilderness in Deng-Era China.》

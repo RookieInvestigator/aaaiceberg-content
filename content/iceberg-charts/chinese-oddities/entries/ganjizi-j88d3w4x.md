@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一种僵尸，出自袁枚《续子不语》，为遇难矿工所化，虽然死了但身体不会腐烂。跟着它可以找到金矿，若是离开矿洞则见风就会化为脓水，且会传播瘟疫。

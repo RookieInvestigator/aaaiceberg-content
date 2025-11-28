@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 毕摩指的是彝族负责作法祈福、卜卦驱魔的祭司。当家族中有人去世就要请毕摩举办仪式引导亡魂回归家乡。释比则是羌族与毕摩类似的祭司角色。

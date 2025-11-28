@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 阴谋论常客。所有形似金字塔的东西都会被纳入阴谋论。少昊陵、西夏金字塔、集安将军坟、众帝之台、冈仁波齐、维吾尔金字塔等等。基本上都是陵墓。

@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 1971年9月26日18时58分至19时07分，扬州北部邗江县槐泗公社的纪翔和扬州南部施桥镇的陶思炎，分别独立地在两地同时惊异地观测到一次奇异的天象，一个满月大小的螺旋状发光物出现在西北夜空。

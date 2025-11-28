@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 贵州瓮安生物群发现的距今6.1亿年的胚胎化石。这一发现最重要的作用是为“先有鸡还是先有蛋”这一起源疑问提供了实证。

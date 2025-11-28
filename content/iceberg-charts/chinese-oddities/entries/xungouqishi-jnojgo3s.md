@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 出自知乎「说话也有恐怖谷效应吗？」的讨论贴中的一张意义不明的图片，不清楚什么意思看起来有种行为艺术的感觉。

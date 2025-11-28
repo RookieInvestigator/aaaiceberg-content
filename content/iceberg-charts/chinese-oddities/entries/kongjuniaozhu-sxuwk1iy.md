@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 许多恐惧鸟作品中的内容都被找到了出处，但也有一些看似非原创，也没溯源到传说来源的故事。「绿球」是最著名的例子。

@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 古代谓五行水气而生的灾祸。五行中水为黑色，故称“黑眚”，多次出现在中国历代王朝中的记载，代表着灾难同时也被描述成一种妖怪

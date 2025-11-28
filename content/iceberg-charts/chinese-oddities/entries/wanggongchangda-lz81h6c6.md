@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 王恭厂大爆炸发生于1626年5月30日北京，爆炸范围半径750米，造成约2万人死伤。成因未有定论，可能涉及火药爆炸、地震或陨石坠落。

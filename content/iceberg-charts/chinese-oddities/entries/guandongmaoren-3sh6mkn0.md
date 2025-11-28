@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 载于袁枚《子不语》，关东人许善根采人参时遇见高大野人的故事。明代亦有记载。

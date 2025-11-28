@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 知乎作者JOKERX的做梦经历，睡觉时因梦见了凶杀案全程而惊醒，醒来后竟在刷手机时刷到了与梦境相对应的真实凶杀案。

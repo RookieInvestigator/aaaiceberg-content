@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 边缘理论家张祥前，自称于1985年被外星人带到星球“果克星”，了解了他们的统一场论，统一场论几乎涵盖了一切的科学奥秘。尽管他一直在发视频论证但可信度极低。

@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一系列有关饮水机里的水在没有人注意，水桶也没有破裂的情况下消失的现象，正在逐渐形成都市传说。经常有人将之与高人求雨救灾等玄学说法关联。

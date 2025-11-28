@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 发生于2009年重庆市巴南区，13岁男孩匡志均离奇死亡。他被发现身穿红色衣物，手脚被捆绑，悬挂在屋梁上。警方认定为意外死亡，可能与性窒息相关，但公众猜测与厌胜巫术有关。

@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 2021年4月，因违反操作规定，杭州野生动物园三只金钱豹出逃，“瞒豹”事件发生后，两只金钱豹被寻回，而第三只金钱豹被目击于转塘龙门坎新路里附近山上，但至今未被寻回。

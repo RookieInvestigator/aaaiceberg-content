@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 相传是一种藏南地区的巨型蜥蜴生物，首先被奥地利人类学家记载，也有人认为是鳄鱼或肺鱼。

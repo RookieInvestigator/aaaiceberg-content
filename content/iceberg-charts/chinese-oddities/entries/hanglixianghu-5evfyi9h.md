@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 豆瓣某网友的灵异遭遇，贴主出去旅游坐高铁发现拿错了行李箱。最后联系到行李箱主人发现对方是乘坐飞机出行的，二人在完全不可能有交集的情况下互换了行李箱，贴主朋友认为是遇到了时空坍缩现象，现原帖已删除。

@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 网传江门修建地下七百米实验室为捕捉到“幽灵”，然其实是“幽灵粒子”，即中微子，被营销号断章取义后误传。

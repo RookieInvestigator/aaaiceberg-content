@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 中国内地男演员张艺洋因故意杀人罪于2024年12月18日被执行死刑，事件一度冲上热搜。此后UP主“促狭小鬼”发现其部分作品处于失传或未上映状态，尚不清楚是否与此事件有关。

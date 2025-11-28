@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 传说清华大学二教在抗日战争时期被日军用做了研究生化武器的实验室，因此常见灵异现象。此事很容易查证为谣言（该教学楼在解放后建造，不可能与日军有关）。

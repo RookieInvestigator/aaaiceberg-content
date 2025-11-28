@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 重庆的一间废屋，似乎是某个农村的废弃变电室，房间四墙被不明人士用作稿纸写满武侠小说，并附带了动作打戏的简要示意图。该废屋上的创作物未被充分探索或记录，只有几张照片能看到些许文本剧情。

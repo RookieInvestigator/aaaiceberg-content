@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 位于新界元朗区屏山，1931年由屏山邓族出资创立，1998年因收生不足停办。传说学校建在乱葬岗上，频繁闹鬼，尤其是女厕的红衣女鬼传闻最为著名。

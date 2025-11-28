@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 部分人认为风力发电机是用于斩断龙脉、扰乱风水的“斩龙钉”，并且会造成大旱等灾害。

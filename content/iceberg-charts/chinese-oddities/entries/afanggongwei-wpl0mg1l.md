@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 对阿房宫遗址的发掘表明，阿房宫只建成了夯土台基及前殿的北墙、东墙和西墙，后世的「火烧阿房宫」等情节是建构的阿房宫想象。这一观点已经在考古学界达成一致。

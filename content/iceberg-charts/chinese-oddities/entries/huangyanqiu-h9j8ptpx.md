@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 在1977年河北省邯郸市肥乡区。农民黄延秋声称在三次神秘失踪期间，被两名疑似未来人或外星人带到千里之外的多个城市。

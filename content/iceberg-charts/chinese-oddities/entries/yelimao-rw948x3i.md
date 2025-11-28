@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一夜之间离奇消失的村庄，和一个奇怪的动物相关的代号的故事。基本配置和双鱼玉佩一样，大概为早期恐怖网文捏造。

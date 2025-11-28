@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 武王墩（楚考烈王墓）出土的微小矿石样本，可能是中国丹药史上最早的丹药原料。

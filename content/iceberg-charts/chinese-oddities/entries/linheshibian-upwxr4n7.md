@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 2016年在互联网传播的一男子死后坐起疑似尸变的图片，被悬疑作家法医秦明辟谣，真相是坐姿缢死。

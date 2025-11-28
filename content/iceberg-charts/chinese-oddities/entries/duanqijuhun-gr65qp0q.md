@@ -12,7 +12,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 民间说法，人断气前魂先走。传说人在寿尽之前就能看见阴差前来勾魂，魂魄离体人才会断气。

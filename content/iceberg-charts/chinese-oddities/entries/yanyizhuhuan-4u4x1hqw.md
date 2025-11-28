@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 抖音账号严艺珠发表了大量视频。讲述了日本人复制替换大量的明星或者公众人物，从明星，运动员，甚至有大规模居民替换。这种掉包阴谋论的传统已久，可能和卡普格拉综合征有关。

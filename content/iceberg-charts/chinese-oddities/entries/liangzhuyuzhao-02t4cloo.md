@@ -11,7 +11,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一个假说，认为距今5300-4300年前长江下游的良渚古国即是传说中夏朝之前的虞舜王朝。其依据在于两者在崇鸟图腾、发达玉礼器及农耕水利等方面高度相似。

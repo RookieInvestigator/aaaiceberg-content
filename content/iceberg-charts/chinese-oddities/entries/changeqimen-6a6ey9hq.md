@@ -21,7 +21,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 B站UP主，常穿道袍，自称由嫦娥托梦获得高数知识，但语言逻辑混乱。他还声称自己通过嫦娥托梦的方式证明了哥德巴赫猜想等世纪难题，其视频内容一贯如同文字恐怖谷，给观众带来了诡异的观感。

@@ -17,7 +17,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 两起因为信仰国内的新纪元灵性圈导致自杀的案例。一些灵性圈推文称自杀就可以让灵魂超越三维限制，导致二人死亡，其亲属在网络上发文控诉。

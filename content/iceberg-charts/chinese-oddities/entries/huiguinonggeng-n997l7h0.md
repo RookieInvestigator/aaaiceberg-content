@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 吴辉所著的一本书，探讨了现代能源不可持续的观点，主张人类应回归农耕社会，经常被调侃立场激进，但实际上没有那么激进也没有那么怪诞，是温和安原。其他国家的冰山图这一层会放Ted K的…

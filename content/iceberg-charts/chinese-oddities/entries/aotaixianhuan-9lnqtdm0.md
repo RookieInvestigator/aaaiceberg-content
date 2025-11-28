@@ -14,7 +14,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 一个抖音博主独自骑车挑战危险山脉线路「鳌太线」，自述了产生幻觉、鬼打墙的全过程。

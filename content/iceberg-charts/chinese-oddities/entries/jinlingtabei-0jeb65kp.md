@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 民间流传的预言谶纬，相传为明朝护国军师刘伯温所作，但文本的真实性和作者身份存在争议。据传民国十六年在南京金陵塔被发现。碑文内容预言了二十世纪以后的中国大事。

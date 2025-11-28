@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 有一篇署名 Tao Hai 的论文《新疆古生态地理群落及其研究的若干新发现》描述了一种鱼类和鸟类之间的过渡物种化石，它有「鳍状的翅膀」。论文指出，滑翔跳跃的能力逐渐导致了动力飞行，而鱼鳞则进化成了羽毛。

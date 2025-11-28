@@ -16,7 +16,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 以小尺度的改造更新现代城市的模式，最终起到全方位建设的效果，最初由西班牙建筑师莫拉勒斯提出，这种方法借用了医学的概念探究城市建设中“下小功夫办大事”的可能。

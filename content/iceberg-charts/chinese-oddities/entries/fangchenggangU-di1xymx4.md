@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 1987年被目击于广西防城港的不明飞行物，据传有高速移动和急剧转弯等特性。

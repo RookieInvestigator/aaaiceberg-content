@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 多见于三国两晋时期的青瓷文物，呈雄狮造型，背部带中空管道，有时为胡人骑狮造型，管道移至人物头顶。这一器物无统一名称，其功能至今未明，有着烛台、灯台、水注、砚滴、插器、酒器、明器等诸多说法。

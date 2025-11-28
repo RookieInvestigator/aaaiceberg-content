@@ -15,7 +15,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 频繁出现于少数民族传说中的情节：把某人或某物放进容器中等待数日（多为四十九天），法术就能显灵，而配合施法的人却又往往会提前打开容器导致法术失效。有一种命中注定的意味。

@@ -13,7 +13,7 @@ parent: ""
 relatedEntries: []
 timelineEvents: []
 nsfw: false
-lastUpdated: 1763175677
+lastUpdated: 1764302553
 ---
 
 失传的运输工具，由诸葛亮发明。分为木牛与流马，曾有一些民间匠人复刻出了各种不同版本的木牛流马。
