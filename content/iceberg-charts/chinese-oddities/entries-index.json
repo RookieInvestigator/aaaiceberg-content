@@ -6524,6 +6524,18 @@
     "hasTitledLinks": true
   },
   {
+    "path": "content/iceberg-charts/chinese-oddities/entries/heigouxie-9999-44exci0g.md",
+    "id": "9999-44exci0g",
+    "name": "黑狗血",
+    "order": 0,
+    "layer": 1,
+    "categoryId": "cat_uWLHUZtI",
+    "tagIds": [],
+    "lastUpdated": 1774361625,
+    "hasContent": false,
+    "hasTitledLinks": false
+  },
+  {
     "path": "content/iceberg-charts/chinese-oddities/entries/heilouguhun-1kxgqqmw.md",
     "id": "1kxgqqmw",
     "name": "《黑楼孤魂》幕后传说-「另一版片尾」",
@@ -9126,6 +9138,18 @@
     ],
     "lastUpdated": 1764302553,
     "hasContent": true,
+    "hasTitledLinks": false
+  },
+  {
+    "path": "content/iceberg-charts/chinese-oddities/entries/leijimu-9999-ormfa7o6.md",
+    "id": "9999-ormfa7o6",
+    "name": "雷击木",
+    "order": 0,
+    "layer": 1,
+    "categoryId": "cat_uWLHUZtI",
+    "tagIds": [],
+    "lastUpdated": 1774361686,
+    "hasContent": false,
     "hasTitledLinks": false
   },
   {
@@ -19842,6 +19866,18 @@
       "tag__NZec6vQ"
     ],
     "lastUpdated": 1764302553,
+    "hasContent": true,
+    "hasTitledLinks": false
+  },
+  {
+    "path": "content/iceberg-charts/chinese-oddities/entries/zhusha-9999-wd5gj8mo.md",
+    "id": "9999-wd5gj8mo",
+    "name": "朱砂",
+    "order": 0,
+    "layer": 1,
+    "categoryId": "cat_uWLHUZtI",
+    "tagIds": [],
+    "lastUpdated": 1774361664,
     "hasContent": true,
     "hasTitledLinks": false
   },
