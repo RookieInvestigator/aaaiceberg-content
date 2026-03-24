@@ -6,15 +6,12 @@ layer: 8
 categoryId: cat_7hqnYMGY
 tagIds:
   - tag_fRp-FvBe
-aliases: []
 titledLinks:
-  - title: "相关链接: 所有的阴谋论都是荧惑星所化"
-    url: https://tieba.baidu.com/p/9148551114
-parent: ""
+  - title: 《论衡 · 订鬼》
+    url: 'https://ctext.org/lunheng/ding-gui/zhs#n281615'
 relatedEntries: []
-timelineEvents: []
 nsfw: false
-lastUpdated: 1764302553
+lastUpdated: 1774363499
 ---
 
 尔恶我乎？我非人也，乃荧惑星也，将有以告尔：……
