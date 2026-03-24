@@ -1263,9 +1263,10 @@
       "tag_aci1X8zw",
       "tag_GULGdanW",
       "tag_aE4WbEDS",
-      "tag_KvBqKS-l"
+      "tag_KvBqKS-l",
+      "tag_jKWvm6pa"
     ],
-    "lastUpdated": 1764302553,
+    "lastUpdated": 1774363614,
     "hasContent": false,
     "hasTitledLinks": true
   },
@@ -8202,14 +8203,14 @@
   {
     "path": "content/iceberg-charts/chinese-oddities/entries/jiqiqizuo-4q44l1ju.md",
     "id": "4q44l1ju",
-    "name": "《机器妻》（作者未知）",
+    "name": "《机器妻》（作者未知的原作）",
     "order": 902,
     "layer": 4,
     "categoryId": "cat_MXtv05QF",
     "tagIds": [
       "tag_aci1X8zw"
     ],
-    "lastUpdated": 1764302553,
+    "lastUpdated": 1774363258,
     "hasContent": false,
     "hasTitledLinks": true
   },
@@ -10638,11 +10639,12 @@
     "categoryId": "cat_1wmCydV7",
     "tagIds": [
       "tag_3F1cUWlL",
-      "tag_iw_Wbpbu"
+      "tag_iw_Wbpbu",
+      "tag_jKWvm6pa"
     ],
-    "lastUpdated": 1764302553,
+    "lastUpdated": 1774362689,
     "hasContent": true,
-    "hasTitledLinks": false
+    "hasTitledLinks": true
   },
   {
     "path": "content/iceberg-charts/chinese-oddities/entries/menghuidatang-jz1a2kbe.md",
@@ -11579,24 +11581,6 @@
     "lastUpdated": 1764302553,
     "hasContent": true,
     "hasTitledLinks": true
-  },
-  {
-    "path": "content/iceberg-charts/chinese-oddities/entries/peijiapocun-57zycj8v.md",
-    "id": "57zycj8v",
-    "name": "裴家坡村宗教狂热杀人案",
-    "order": 1241,
-    "layer": 7,
-    "categoryId": "cat_1wmCydV7",
-    "tagIds": [
-      "tag_CHDDbu9q",
-      "tag_jKWvm6pa",
-      "tag_iw_Wbpbu",
-      "tag_yEEL0_kW",
-      "tag_6irejv37"
-    ],
-    "lastUpdated": 1758087125,
-    "hasContent": true,
-    "hasTitledLinks": false
   },
   {
     "path": "content/iceberg-charts/chinese-oddities/entries/penbigangzhi-a9to9pzl.md",
@@ -14303,7 +14287,7 @@
     "tagIds": [
       "tag_fRp-FvBe"
     ],
-    "lastUpdated": 1764302553,
+    "lastUpdated": 1774363499,
     "hasContent": true,
     "hasTitledLinks": true
   },
@@ -16356,7 +16340,7 @@
       "tag_aci1X8zw",
       "tag_6rVsgwwC"
     ],
-    "lastUpdated": 1764302553,
+    "lastUpdated": 1774363014,
     "hasContent": true,
     "hasTitledLinks": true
   },
@@ -17323,22 +17307,6 @@
       "tag_Z-cEla6x"
     ],
     "lastUpdated": 1764302553,
-    "hasContent": true,
-    "hasTitledLinks": true
-  },
-  {
-    "path": "content/iceberg-charts/chinese-oddities/entries/yangmasiwang-8xwowvfs.md",
-    "id": "8xwowvfs",
-    "name": "羊妈死亡记（存在性未定的国产动画；年代不明）",
-    "order": 1064,
-    "layer": 5,
-    "categoryId": "cat_fc9VC2z8",
-    "tagIds": [
-      "tag_aci1X8zw",
-      "tag_6rVsgwwC",
-      "tag_E9i3A7eJ"
-    ],
-    "lastUpdated": 1758087125,
     "hasContent": true,
     "hasTitledLinks": true
   },
