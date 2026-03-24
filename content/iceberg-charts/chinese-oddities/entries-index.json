@@ -2143,23 +2143,6 @@
     "hasTitledLinks": false
   },
   {
-    "path": "content/iceberg-charts/chinese-oddities/entries/cangmixiangguan-1611crgn.md",
-    "id": "1611crgn",
-    "name": "藏密相关的修法、法器及传说（断法・施身法・破瓦法・虹光身・伏藏・人骨法器・肉身像・《五百浊世来临时》・「阿姐鼓」…）",
-    "order": 262,
-    "layer": 2,
-    "categoryId": "cat_uWLHUZtI",
-    "tagIds": [
-      "tag_6irejv37",
-      "tag__NZec6vQ",
-      "tag_F0Snwko4",
-      "tag_M5OxQGqr"
-    ],
-    "lastUpdated": 1764302553,
-    "hasContent": false,
-    "hasTitledLinks": false
-  },
-  {
     "path": "content/iceberg-charts/chinese-oddities/entries/cangmixiangguan-7hhf09lk.md",
     "id": "7hhf09lk",
     "name": "藏密相关的修法、法器及传说（断法・施身法・破瓦法・虹光身・伏藏・人骨法器・肉身像・《五百浊世来临时》・「阿姐鼓…」）",
@@ -5296,23 +5279,6 @@
       "tag_yEEL0_kW"
     ],
     "lastUpdated": 1764302553,
-    "hasContent": false,
-    "hasTitledLinks": false
-  },
-  {
-    "path": "content/iceberg-charts/chinese-oddities/entries/geleixuanxue-zor86se0.md",
-    "id": "zor86se0",
-    "name": "各类玄学材料（雷击木・黑狗血・糯米・朱砂・墨斗线・……）",
-    "order": 125,
-    "layer": 1,
-    "categoryId": "cat_uWLHUZtI",
-    "tagIds": [
-      "tag_F0Snwko4",
-      "tag_dE92ppTk",
-      "tag_M5OxQGqr",
-      "tag_yEEL0_kW"
-    ],
-    "lastUpdated": 1758087125,
     "hasContent": false,
     "hasTitledLinks": false
   },
@@ -11819,21 +11785,6 @@
     "hasTitledLinks": false
   },
   {
-    "path": "content/iceberg-charts/chinese-oddities/entries/qianlingminjian-hjlble8b.md",
-    "id": "hjlble8b",
-    "name": "乾陵民间传说（飞凤局・乾陵怪圈・无头六十一蕃臣・无字碑）",
-    "order": 338,
-    "layer": 2,
-    "categoryId": "cat_r0rzgkOi",
-    "tagIds": [
-      "tag_eAgXxyKy",
-      "tag_onKpmFeH"
-    ],
-    "lastUpdated": 1758087125,
-    "hasContent": false,
-    "hasTitledLinks": false
-  },
-  {
     "path": "content/iceberg-charts/chinese-oddities/entries/qiannianmizhou-8fsm53ym.md",
     "id": "8fsm53ym",
     "name": "《千年秘咒大公开》",
@@ -13048,21 +12999,6 @@
     ],
     "lastUpdated": 1764302553,
     "hasContent": true,
-    "hasTitledLinks": false
-  },
-  {
-    "path": "content/iceberg-charts/chinese-oddities/entries/shanxiaoshansao-q2vmgx8h.md",
-    "id": "q2vmgx8h",
-    "name": "山魈(山繅-山臊)・枭阳・木客・与夔的形象融合・鞭炮驱年的真实来源",
-    "order": 117,
-    "layer": 1,
-    "categoryId": "cat_OfFSSbRb",
-    "tagIds": [
-      "tag_ImsdsJHz",
-      "tag__NZec6vQ"
-    ],
-    "lastUpdated": 1758087125,
-    "hasContent": false,
     "hasTitledLinks": false
   },
   {
